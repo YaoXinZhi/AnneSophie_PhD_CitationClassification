@@ -196,7 +196,6 @@ def main(model_short_name, window, data_repartition, training_data_path):
   test_texts = []
   second_classes = []
   third_classes = []
-  all_embeddings = []
 
   with torch.no_grad():
     for batch in test_loader:
