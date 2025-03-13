@@ -18,6 +18,8 @@ Ce dossier contient plusieurs scripts pour la classification des citations :
   - `get_citation_sequence.py` : Extraction des séquences de citations des deux corpus, sorties sous forme de listes.  
   - `utils.py` : Fonctions auxiliaires utilisées par `finetune_for_citation_classification.py`.  
 
+- **Instruction pour le prompt de GPT-4** Prompt_instructions_citation_classification.pdf
+
 - **Sous-dossier `essai_modele_Jiang`**  
   - `fine_tune_several_vectors.py` : Script principal pour reproduire le modèle de **Jiang & Chen (2023)**.  
   - `citation_classifier.py` : Classifieur et fonctions d'entraînement et de validation, appelé par `fine_tune_several_vectors.py`.  
