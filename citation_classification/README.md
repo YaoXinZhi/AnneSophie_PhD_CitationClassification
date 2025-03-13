@@ -12,7 +12,7 @@ Ce dossier contient :
 ### `script`
 Ce dossier contient plusieurs scripts pour la classification des citations :  
 
-- **Scripts principaux :**  
+- **Scripts :**  
   - `finetune_for_citation_classification.py` : Script principal pour fine-tuner un modèle de langue (**BioBERT, SciBERT, RoBERTa, BioLinkBERT**), à définir en argument, avec la taille de la fenêtre de contexte.  
   - `citation_classifier.py` : Classifieur et fonctions d'entraînement et de validation.  
   - `get_citation_sequence.py` : Extraction des séquences de citations des deux corpus, sorties sous forme de listes.  
@@ -21,4 +21,4 @@ Ce dossier contient plusieurs scripts pour la classification des citations :
 - **Sous-dossier `essai_modele_Jiang`**  
   - `fine_tune_several_vectors.py` : Script principal pour reproduire le modèle de **Jiang & Chen (2023)**.  
   - `citation_classifier.py` : Classifieur et fonctions d'entraînement et de validation, appelé par `fine_tune_several_vectors.py`.  
-  - `prepare_data.py` : Extraction des séquences de citations et de leurs contextes, avec délimitation par `@`. Génération des sorties sous forme de listes, appelé par `fine_tune_several_vectors.py`.  
+  - `prepare_data.py` : Extraction des séquences de citations et de leurs contextes, avec délimitation par `@`. Sorties sous forme de listes. Script appelé par `fine_tune_several_vectors.py`.  
