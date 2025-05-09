@@ -2,11 +2,24 @@
 [
   {
     "top_classes": [
-      "Sampling",
-      "location_pathogen_vector",
+      "location_vector",
+      "relation",
       "Other"
     ],
-    "entities": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "psyllids"
+      },
+      {
+        "type": "Pathogen",
+        "name": "phytoplasmas"
+      }
+    ],
+    "linked_items": [
+      "psyllids",
+      "phytoplasmas"
+    ]
   }
 ]
 ```

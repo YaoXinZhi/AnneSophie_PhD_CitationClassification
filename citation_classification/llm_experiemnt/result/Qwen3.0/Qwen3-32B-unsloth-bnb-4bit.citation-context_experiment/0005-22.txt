@@ -2,11 +2,12 @@
 [
   {
     "top_classes": [
-      "Identification",
+      "Life-cycle_insect",
       "Other",
-      "Sampling"
+      "Other"
     ],
-    "entities": []
+    "entities": [],
+    "linked_items": []
   }
 ]
 ```

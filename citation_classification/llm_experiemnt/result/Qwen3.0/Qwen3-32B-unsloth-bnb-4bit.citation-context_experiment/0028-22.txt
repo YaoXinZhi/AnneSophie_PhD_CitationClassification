@@ -3,11 +3,10 @@
   {
     "top_classes": [
       "plant-modification-by-pathogen",
-      "Other",
+      "Identification",
       "Other"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": []
   }
 ]
 ```

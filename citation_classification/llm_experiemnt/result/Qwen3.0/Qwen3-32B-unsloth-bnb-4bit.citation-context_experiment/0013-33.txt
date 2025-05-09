@@ -2,33 +2,18 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "relation",
-      "location_disease"
+      "Life-cycle_insect",
+      "location_vector",
+      "Other"
     ],
     "entities": [
       {
-        "type": "Disease",
-        "name": "pear decline"
-      },
-      {
         "type": "Insect",
-        "name": "pear psylla"
-      },
-      {
-        "type": "Pathogen",
-        "name": "virus"
-      },
-      {
-        "type": "Plant",
-        "name": "pear"
+        "name": "Bactericera nigricornis"
       }
     ],
     "linked_items": [
-      "pear decline",
-      "pear psylla",
-      "virus",
-      "pear"
+      "Bactericera nigricornis"
     ]
   }
 ]

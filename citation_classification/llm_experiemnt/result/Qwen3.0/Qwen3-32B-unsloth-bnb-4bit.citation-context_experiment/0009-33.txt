@@ -2,29 +2,11 @@
 [
   {
     "top_classes": [
-      "location_vector",
+      "Identification",
       "Other",
-      "Sampling"
+      "Other"
     ],
-    "entities": [
-      {
-        "type": "Insect",
-        "name": "Psylla Intacta"
-      },
-      {
-        "type": "Location",
-        "name": "Mongolia"
-      },
-      {
-        "type": "Location",
-        "name": "Bajan Daava"
-      },
-      {
-        "type": "Location",
-        "name": "Ulan Bator"
-      }
-    ],
-    "linked_items": []
+    "entities": []
   }
 ]
 ```

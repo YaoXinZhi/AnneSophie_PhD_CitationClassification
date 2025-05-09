@@ -1,12 +1,27 @@
 ```json
 [
   {
+    "identifier": "CITSEG_1",
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "location_disease",
+      "Identification",
+      "Sampling",
       "Other"
     ],
-    "entities": []
+    "entities": [
+      {
+        "type": "Technique",
+        "name": "ribosomal primers"
+      },
+      {
+        "type": "Primer",
+        "name": "fPD/r0 1"
+      },
+      {
+        "type": "Primer",
+        "name": "AP3/AP5"
+      }
+    ],
+    "linked_items": []
   }
 ]
 ```

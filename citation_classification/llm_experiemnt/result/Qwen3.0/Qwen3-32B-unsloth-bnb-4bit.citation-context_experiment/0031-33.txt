@@ -1,30 +1,29 @@
 ```json
 [
   {
-    "id": 1,
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "Other",
-      "relation"
+      "location_disease",
+      "location_pathogen_vector",
+      "Identification"
     ],
     "entities": [
       {
-        "type": "Plant",
-        "name": "Bartlett"
-      },
-      {
-        "type": "Plant",
-        "name": "Winter Nelis"
-      },
-      {
         "type": "Disease",
-        "name": "decline"
+        "name": "ESFY"
+      },
+      {
+        "type": "Pathogen",
+        "name": "'Ca. P. prunorum'"
+      },
+      {
+        "type": "Insect",
+        "name": "Cacopsylla pruni"
       }
     ],
     "linked_items": [
-      "Bartlett",
-      "Winter Nelis",
-      "decline"
+      "ESFY",
+      "'Ca. P. prunorum'",
+      "Cacopsylla pruni"
     ]
   }
 ]

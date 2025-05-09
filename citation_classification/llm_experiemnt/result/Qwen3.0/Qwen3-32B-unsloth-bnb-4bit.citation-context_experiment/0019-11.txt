@@ -2,23 +2,37 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "Infection-rate",
-      "Other"
+      "location_disease",
+      "location_pathogen_vector",
+      "relation"
     ],
     "entities": [
       {
-        "type": "Plant",
-        "name": "tree"
+        "type": "Pathogen",
+        "name": "P. prunorum"
       },
       {
-        "type": "Pathogen",
-        "name": "virus"
+        "type": "Insect",
+        "name": "C. pruni"
+      },
+      {
+        "type": "Disease",
+        "name": "ESFY"
+      },
+      {
+        "type": "Location",
+        "name": "Friuli-Venezia Giulia"
+      },
+      {
+        "type": "Plant",
+        "name": "Prunus"
       }
     ],
     "linked_items": [
-      "virus",
-      "tree"
+      "P. prunorum",
+      "C. pruni",
+      "ESFY",
+      "Prunus"
     ]
   }
 ]

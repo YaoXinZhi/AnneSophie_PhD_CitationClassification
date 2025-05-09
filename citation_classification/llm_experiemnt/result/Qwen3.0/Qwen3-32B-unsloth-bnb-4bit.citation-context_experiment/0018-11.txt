@@ -2,23 +2,28 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "Infection-rate",
+      "Identification",
+      "location_vector",
       "Other"
     ],
     "entities": [
       {
-        "type": "Pathogen",
-        "name": "virus"
+        "type": "Insect",
+        "name": "Psylla/Cacopsylla pyricola"
       },
       {
-        "type": "Plant",
-        "name": "tree"
+        "type": "Insect",
+        "name": "C. maculatili"
+      },
+      {
+        "type": "Insect",
+        "name": "C. jukyungi"
       }
     ],
     "linked_items": [
-      "virus",
-      "tree"
+      "Psylla/Cacopsylla pyricola",
+      "C. maculatili",
+      "C. jukyungi"
     ]
   }
 ]

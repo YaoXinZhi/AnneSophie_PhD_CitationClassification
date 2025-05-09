@@ -2,32 +2,38 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "relation",
-      "Infection-rate"
+      "location_vector",
+      "Life-cycle_insect",
+      "Identification"
     ],
     "entities": [
       {
         "type": "Insect",
-        "name": "pear psylla"
+        "name": "C. jukyungi"
       },
       {
-        "type": "Disease",
-        "name": "pear decline"
+        "type": "Insect",
+        "name": "C. maculatili"
       },
       {
-        "type": "Pathogen",
-        "name": "virus"
+        "type": "Location",
+        "name": "Korea"
       },
       {
-        "type": "Plant",
-        "name": "pear"
+        "type": "Location",
+        "name": "Japan"
+      },
+      {
+        "type": "Location",
+        "name": "Russian Far East"
       }
     ],
     "linked_items": [
-      "pear psylla",
-      "virus",
-      "pear"
+      "C. jukyungi",
+      "C. maculatili",
+      "Korea",
+      "Japan",
+      "Russian Far East"
     ]
   }
 ]

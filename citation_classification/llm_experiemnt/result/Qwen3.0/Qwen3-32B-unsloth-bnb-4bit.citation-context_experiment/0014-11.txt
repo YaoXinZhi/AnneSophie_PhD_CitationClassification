@@ -8,16 +8,28 @@
     ],
     "entities": [
       {
-        "type": "Disease",
-        "name": "pear decline"
-      },
-      {
         "type": "Insect",
         "name": "pear psylla"
       },
       {
+        "type": "Insect",
+        "name": "Cacopsylla pyricola"
+      },
+      {
+        "type": "Disease",
+        "name": "pear decline"
+      },
+      {
         "type": "Pathogen",
-        "name": "virus"
+        "name": "PD agent"
+      },
+      {
+        "type": "Pathogen",
+        "name": "PD phytoplasma"
+      },
+      {
+        "type": "Pathogen",
+        "name": "mycoplasmalike bodies"
       },
       {
         "type": "Plant",
@@ -25,10 +37,9 @@
       }
     ],
     "linked_items": [
-      "pear decline",
       "pear psylla",
-      "virus",
-      "pear"
+      "pear decline",
+      "PD agent"
     ]
   }
 ]

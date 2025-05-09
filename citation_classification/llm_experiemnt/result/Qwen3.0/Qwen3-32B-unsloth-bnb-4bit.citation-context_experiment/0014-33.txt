@@ -3,32 +3,36 @@
   {
     "top_classes": [
       "relation",
-      "plant-modification-by-pathogen",
+      "location_pathogen_vector",
       "location_disease"
     ],
     "entities": [
-      {
-        "type": "Insect",
-        "name": "pear psylla"
-      },
       {
         "type": "Disease",
         "name": "pear decline"
       },
       {
         "type": "Pathogen",
-        "name": "virus"
+        "name": "PD phytoplasma"
       },
       {
-        "type": "Plant",
-        "name": "pear"
+        "type": "Insect",
+        "name": "pear psylla"
+      },
+      {
+        "type": "Insect",
+        "name": "Cacopsylla pyricola"
+      },
+      {
+        "type": "Insect",
+        "name": "Cacopsylla pyri"
       }
     ],
     "linked_items": [
-      "pear psylla",
       "pear decline",
-      "virus",
-      "pear"
+      "PD phytoplasma",
+      "pear psylla",
+      "Cacopsylla pyricola"
     ]
   }
 ]

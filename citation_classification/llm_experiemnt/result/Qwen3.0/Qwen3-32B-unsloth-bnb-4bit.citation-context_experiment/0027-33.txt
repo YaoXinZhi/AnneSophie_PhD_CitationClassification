@@ -2,11 +2,25 @@
 [
   {
     "top_classes": [
+      "location_disease",
       "plant-modification-by-pathogen",
-      "Other",
-      "Infection-rate"
+      "Identification"
     ],
-    "entities": []
+    "entities": [
+      {
+        "type": "Pathogen",
+        "name": "CaLsol"
+      },
+      {
+        "type": "Plant",
+        "name": "carrot"
+      },
+      {
+        "type": "Plant",
+        "name": "celery"
+      }
+    ],
+    "linked_items": []
   }
 ]
 ```

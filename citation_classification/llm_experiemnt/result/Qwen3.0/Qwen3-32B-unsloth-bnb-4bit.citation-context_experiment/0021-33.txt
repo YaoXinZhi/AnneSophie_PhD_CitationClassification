@@ -3,22 +3,37 @@
   {
     "top_classes": [
       "plant-modification-by-pathogen",
-      "location_disease",
-      "relation"
+      "relation",
+      "Other"
     ],
     "entities": [
+      {
+        "type": "Disease",
+        "name": "apple proliferation"
+      },
       {
         "type": "Disease",
         "name": "pear decline"
       },
       {
+        "type": "Disease",
+        "name": "European stone fruit yellows"
+      },
+      {
+        "type": "Pathogen",
+        "name": "phytoplasma"
+      },
+      {
         "type": "Plant",
-        "name": "pear"
+        "name": "fruit tree"
       }
     ],
     "linked_items": [
-      "pear",
-      "pear decline"
+      "apple proliferation",
+      "pear decline",
+      "European stone fruit yellows",
+      "phytoplasma",
+      "fruit tree"
     ]
   }
 ]

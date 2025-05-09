@@ -1,35 +1,19 @@
 ```json
 [
   {
+    "identifier": "CITSEG_1",
     "top_classes": [
-      "location_vector",
-      "Other",
-      "Sampling"
+      "Sampling",
+      "Identification",
+      "Other"
     ],
     "entities": [
       {
-        "type": "Location",
-        "name": "N Cecerleg"
-      },
-      {
-        "type": "Location",
-        "name": "Sarepta"
-      },
-      {
-        "type": "Location",
-        "name": "Mongolia"
-      },
-      {
-        "type": "Location",
-        "name": "Georgia"
+        "type": "Insect",
+        "name": "psyllids"
       }
     ],
-    "linked_items": [
-      "N Cecerleg",
-      "Sarepta",
-      "Mongolia",
-      "Georgia"
-    ]
+    "linked_items": []
   }
 ]
 ```

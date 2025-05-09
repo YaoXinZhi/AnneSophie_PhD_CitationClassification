@@ -2,12 +2,11 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
       "location_disease",
-      "Other"
+      "plant-modification-by-pathogen",
+      "Infection-rate"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": []
   }
 ]
 ```

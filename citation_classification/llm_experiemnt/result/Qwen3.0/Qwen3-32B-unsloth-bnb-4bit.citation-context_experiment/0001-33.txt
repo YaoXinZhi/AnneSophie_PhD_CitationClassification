@@ -2,23 +2,33 @@
 [
   {
     "top_classes": [
+      "relation",
       "location_vector",
-      "Sampling",
-      "Other"
+      "Infection_rate"
     ],
     "entities": [
       {
         "type": "Insect",
-        "name": "Aphalara polygoni"
+        "name": "B. nigricornis"
+      },
+      {
+        "type": "Pathogen",
+        "name": "CaLsol"
       },
       {
         "type": "Plant",
-        "name": "Polygonum"
+        "name": "potato"
+      },
+      {
+        "type": "Plant",
+        "name": "carrot"
       }
     ],
     "linked_items": [
-      "Aphalara polygoni",
-      "Polygonum"
+      "B. nigricornis",
+      "CaLsol",
+      "potato",
+      "carrot"
     ]
   }
 ]

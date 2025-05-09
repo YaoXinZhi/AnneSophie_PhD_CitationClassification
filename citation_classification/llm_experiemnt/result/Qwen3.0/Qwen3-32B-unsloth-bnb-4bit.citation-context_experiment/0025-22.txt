@@ -2,39 +2,11 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "location_disease",
-      "relation"
+      "Identification",
+      "Other",
+      "Other"
     ],
-    "entities": [
-      {
-        "type": "Plant",
-        "name": "Bartlett trees"
-      },
-      {
-        "type": "Plant",
-        "name": "P. serotina"
-      },
-      {
-        "type": "Plant",
-        "name": "P. ussuriensis"
-      },
-      {
-        "type": "Plant",
-        "name": "P. communis"
-      },
-      {
-        "type": "Disease",
-        "name": "decline"
-      }
-    ],
-    "linked_items": [
-      "Bartlett trees",
-      "P. serotina",
-      "P. ussuriensis",
-      "P. communis",
-      "decline"
-    ]
+    "entities": []
   }
 ]
 ```

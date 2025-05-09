@@ -2,34 +2,12 @@
 [
   {
     "top_classes": [
-      "relation",
-      "location_pathogen_vector",
-      "plant-modification-by-pathogen"
+      "Identification",
+      "Other",
+      "Other"
     ],
-    "entities": [
-      {
-        "type": "Disease",
-        "name": "pear decline"
-      },
-      {
-        "type": "Insect",
-        "name": "pear psylla"
-      },
-      {
-        "type": "Pathogen",
-        "name": "virus"
-      },
-      {
-        "type": "Plant",
-        "name": "pear"
-      }
-    ],
-    "linked_items": [
-      "pear decline",
-      "pear psylla",
-      "virus",
-      "pear"
-    ]
+    "entities": [],
+    "linked_items": []
   }
 ]
 ```

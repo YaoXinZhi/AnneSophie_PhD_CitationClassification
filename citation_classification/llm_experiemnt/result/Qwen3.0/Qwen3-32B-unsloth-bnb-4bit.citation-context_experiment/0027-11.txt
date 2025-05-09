@@ -2,12 +2,11 @@
 [
   {
     "top_classes": [
+      "location_disease",
       "plant-modification-by-pathogen",
-      "Other",
-      "Other"
+      "Identification"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": []
   }
 ]
 ```

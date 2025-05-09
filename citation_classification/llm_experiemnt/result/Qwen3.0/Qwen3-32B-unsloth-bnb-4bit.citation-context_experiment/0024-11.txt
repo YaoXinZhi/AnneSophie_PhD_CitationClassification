@@ -1,30 +1,13 @@
 ```json
 [
   {
+    "identifier": "CITSEG_1",
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "location_disease",
-      "relation"
+      "Identification",
+      "Sampling",
+      "Other"
     ],
-    "entities": [
-      {
-        "type": "Plant",
-        "name": "Bartlett trees"
-      },
-      {
-        "type": "Disease",
-        "name": "decline"
-      },
-      {
-        "type": "Rootstock",
-        "name": "P. serotina"
-      }
-    ],
-    "linked_items": [
-      "Bartlett trees",
-      "decline",
-      "P. serotina"
-    ]
+    "entities": []
   }
 ]
 ```

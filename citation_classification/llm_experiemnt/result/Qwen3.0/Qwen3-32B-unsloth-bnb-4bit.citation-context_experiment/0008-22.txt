@@ -2,18 +2,28 @@
 [
   {
     "top_classes": [
+      "relation",
       "location_vector",
-      "Other",
-      "Sampling"
+      "Life-cycle_insect"
     ],
     "entities": [
       {
         "type": "Insect",
-        "name": "P. elegantula"
+        "name": "psyllids"
+      },
+      {
+        "type": "Pathogen",
+        "name": "phytoplasmas"
+      },
+      {
+        "type": "Plant",
+        "name": "fruit crops"
       }
     ],
     "linked_items": [
-      "P. elegantula"
+      "psyllids",
+      "phytoplasmas",
+      "fruit crops"
     ]
   }
 ]

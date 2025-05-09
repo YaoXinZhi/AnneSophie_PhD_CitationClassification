@@ -3,68 +3,35 @@
   {
     "top_classes": [
       "plant-modification-by-pathogen",
-      "Other",
-      "Identification"
+      "Identification",
+      "Other"
     ],
     "entities": [
       {
-        "type": "Disease",
-        "name": "pear decline"
+        "type": "Pathogen",
+        "name": "'Ca. P. pruni'"
+      },
+      {
+        "type": "Pathogen",
+        "name": "'Ca. P. asteris'"
       },
       {
         "type": "Plant",
-        "name": "Bartlett"
+        "name": "periwinkle"
       },
       {
         "type": "Plant",
-        "name": "Winter Nelis"
+        "name": "P. persica"
       },
       {
         "type": "Plant",
-        "name": "P. betulaefolia"
+        "name": "lime"
       },
       {
-        "type": "Plant",
-        "name": "P. calleryana"
-      },
-      {
-        "type": "Plant",
-        "name": "P. serotina"
-      },
-      {
-        "type": "Plant",
-        "name": "P. ussuriensis"
-      },
-      {
-        "type": "Plant",
-        "name": "P. colleruoma"
-      },
-      {
-        "type": "Plant",
-        "name": "Old Home"
-      },
-      {
-        "type": "Plant",
-        "name": "Anjou"
-      },
-      {
-        "type": "Plant",
-        "name": "Hardy"
-      },
-      {
-        "type": "Plant",
-        "name": "Farmingdale"
-      },
-      {
-        "type": "Plant",
-        "name": "Flemish Beauty"
-      },
-      {
-        "type": "Plant",
-        "name": "Comice"
+        "type": "Pathogen",
+        "name": "'Ca. P. aurantifoliae'"
       }
-    ],
-    "linked_items": []
+    ]
   }
 ]
 ```

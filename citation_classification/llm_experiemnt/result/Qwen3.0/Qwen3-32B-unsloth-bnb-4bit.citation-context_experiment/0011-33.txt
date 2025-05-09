@@ -2,9 +2,33 @@
 [
   {
     "top_classes": [
-      "Identification",
-      "location_disease",
-      "Other"
+      "relation",
+      "location_vector",
+      "location_disease"
+    ],
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "C. pyricola"
+      },
+      {
+        "type": "Insect",
+        "name": "C. pyri"
+      },
+      {
+        "type": "Disease",
+        "name": "PD"
+      },
+      {
+        "type": "Pathogen",
+        "name": "PD phytoplasma"
+      }
+    ],
+    "linked_items": [
+      "C. pyricola",
+      "PD",
+      "PD phytoplasma",
+      "C. pyri"
     ]
   }
 ]

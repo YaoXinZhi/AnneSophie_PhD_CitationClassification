@@ -2,11 +2,10 @@
 [
   {
     "top_classes": [
-      "location_vector",
+      "Identification",
       "Other",
       "Other"
-    ],
-    "entities": []
+    ]
   }
 ]
 ```

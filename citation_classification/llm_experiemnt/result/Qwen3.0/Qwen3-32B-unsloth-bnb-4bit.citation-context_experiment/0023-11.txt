@@ -2,12 +2,29 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "location_disease",
-      "Other"
+      "Other",
+      "location_vector",
+      "relation"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "C. chinensis"
+      },
+      {
+        "type": "Insect",
+        "name": "C. jukyungi"
+      },
+      {
+        "type": "Plant",
+        "name": "pear"
+      }
+    ],
+    "linked_items": [
+      "C. chinensis",
+      "C. jukyungi",
+      "pear"
+    ]
   }
 ]
 ```

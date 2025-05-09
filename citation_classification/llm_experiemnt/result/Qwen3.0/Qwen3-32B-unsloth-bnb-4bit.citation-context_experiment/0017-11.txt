@@ -3,10 +3,15 @@
   {
     "top_classes": [
       "plant-modification-by-pathogen",
-      "Infection-rate",
-      "Other"
+      "Other",
+      "Identification"
     ],
-    "entities": [],
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "C. chinensis"
+      }
+    ],
     "linked_items": []
   }
 ]

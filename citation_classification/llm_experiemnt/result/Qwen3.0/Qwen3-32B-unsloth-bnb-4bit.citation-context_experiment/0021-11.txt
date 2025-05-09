@@ -2,24 +2,12 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
       "location_disease",
-      "relation"
+      "plant-modification-by-pathogen",
+      "Other"
     ],
-    "entities": [
-      {
-        "type": "Disease",
-        "name": "pear decline"
-      },
-      {
-        "type": "Plant",
-        "name": "pear"
-      }
-    ],
-    "linked_items": [
-      "pear decline",
-      "pear"
-    ]
+    "entities": [],
+    "linked_items": []
   }
 ]
 ```

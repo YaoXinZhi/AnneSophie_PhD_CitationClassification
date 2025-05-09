@@ -1,9 +1,10 @@
 ```json
 [
   {
+    "id": "CITSEG",
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "Other",
+      "Identification",
+      "Sampling",
       "Other"
     ],
     "entities": []

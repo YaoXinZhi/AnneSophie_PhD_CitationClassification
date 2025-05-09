@@ -2,24 +2,25 @@
 [
   {
     "top_classes": [
-      "location_vector",
-      "relation",
+      "plant-modification-by-pathogen",
+      "Identification",
       "Other"
     ],
     "entities": [
       {
-        "type": "Insect",
-        "name": "pear psylla"
+        "type": "Pathogen",
+        "name": "bacteria species"
       },
       {
-        "type": "Plant",
-        "name": "pear"
+        "type": "Pathogen",
+        "name": "phytoplasmas"
+      },
+      {
+        "type": "Disease",
+        "name": "Aster yellows-witches' broom"
       }
     ],
-    "linked_items": [
-      "pear psylla",
-      "pear"
-    ]
+    "linked_items": []
   }
 ]
 ```

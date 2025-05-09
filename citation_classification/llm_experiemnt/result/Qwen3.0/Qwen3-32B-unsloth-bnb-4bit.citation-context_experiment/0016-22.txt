@@ -2,34 +2,29 @@
 [
   {
     "top_classes": [
-      "relation",
-      "location_vector",
-      "plant-modification-by-pathogen"
+      "plant-modification-by-pathogen",
+      "Identification",
+      "Other"
     ],
     "entities": [
       {
-        "type": "Insect",
-        "name": "pear psylla"
-      },
-      {
-        "type": "Disease",
-        "name": "pear decline"
+        "type": "Pathogen",
+        "name": "bacteria species"
       },
       {
         "type": "Pathogen",
-        "name": "virus"
+        "name": "SA hydroxylase"
       },
       {
-        "type": "Plant",
-        "name": "pear"
+        "type": "Pathogen",
+        "name": "SAP11 effector"
+      },
+      {
+        "type": "Pathogen",
+        "name": "Aster yellows-witches' broom phytoplasma"
       }
     ],
-    "linked_items": [
-      "pear psylla",
-      "pear decline",
-      "virus",
-      "pear"
-    ]
+    "linked_items": []
   }
 ]
 ```

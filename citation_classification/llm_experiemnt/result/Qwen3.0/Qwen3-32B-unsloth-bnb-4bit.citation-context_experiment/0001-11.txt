@@ -2,12 +2,33 @@
 [
   {
     "top_classes": [
-      "location_vector",
-      "Sampling",
-      "Other"
+      "relation",
+      "Infection_rate",
+      "location_vector"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "B. nigricornis"
+      },
+      {
+        "type": "Pathogen",
+        "name": "CaLsol"
+      },
+      {
+        "type": "Plant",
+        "name": "potato"
+      },
+      {
+        "type": "Plant",
+        "name": "carrot"
+      }
+    ],
+    "linked_items": [
+      "B. nigricornis",
+      "CaLsol",
+      "potato"
+    ]
   }
 ]
 ```

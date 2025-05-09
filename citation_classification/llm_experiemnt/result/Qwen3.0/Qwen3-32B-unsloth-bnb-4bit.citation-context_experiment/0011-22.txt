@@ -2,11 +2,33 @@
 [
   {
     "top_classes": [
-      "Identification",
+      "relation",
       "location_vector",
-      "Other"
+      "location_disease"
     ],
-    "entities": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "C. pyricola"
+      },
+      {
+        "type": "Insect",
+        "name": "C. pyri"
+      },
+      {
+        "type": "Pathogen",
+        "name": "PD agent"
+      },
+      {
+        "type": "Disease",
+        "name": "PD disease"
+      }
+    ],
+    "linked_items": [
+      "C. pyricola",
+      "PD agent",
+      "PD disease"
+    ]
   }
 ]
 ```

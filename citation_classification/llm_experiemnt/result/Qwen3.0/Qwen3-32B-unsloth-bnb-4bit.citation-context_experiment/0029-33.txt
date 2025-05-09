@@ -3,11 +3,28 @@
   {
     "top_classes": [
       "plant-modification-by-pathogen",
-      "Other",
-      "Identification"
+      "location_disease",
+      "relation"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": [
+      {
+        "type": "Disease",
+        "name": "pear decline"
+      },
+      {
+        "type": "Plant",
+        "name": "pear"
+      },
+      {
+        "type": "Location",
+        "name": "Austria"
+      }
+    ],
+    "linked_items": [
+      "pear decline",
+      "pear",
+      "Austria"
+    ]
   }
 ]
 ```

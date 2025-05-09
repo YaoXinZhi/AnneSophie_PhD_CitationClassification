@@ -2,8 +2,8 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "location_disease",
+      "Identification",
+      "Other",
       "Other"
     ],
     "entities": []

@@ -2,12 +2,19 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
-      "Other",
-      "location_disease"
+      "Life-cycle_insect",
+      "location_vector",
+      "Other"
     ],
-    "entities": [],
-    "linked_items": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "D. citri"
+      }
+    ],
+    "linked_items": [
+      "D. citri"
+    ]
   }
 ]
 ```

@@ -2,9 +2,9 @@
 [
   {
     "top_classes": [
-      "location_disease",
+      "Identification",
       "Other",
-      "location_vector"
+      "Other"
     ],
     "entities": []
   }

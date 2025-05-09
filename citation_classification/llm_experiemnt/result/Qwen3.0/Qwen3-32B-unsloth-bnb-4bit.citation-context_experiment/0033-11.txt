@@ -2,7 +2,7 @@
 [
   {
     "top_classes": [
-      "plant-modification-by-pathogen",
+      "Life-cycle_insect",
       "Other",
       "Other"
     ],

@@ -2,11 +2,34 @@
 [
   {
     "top_classes": [
-      "Sampling",
-      "location_vector",
-      "Other"
+      "relation",
+      "location_disease",
+      "plant-modification-by-pathogen"
     ],
-    "entities": []
+    "entities": [
+      {
+        "type": "Insect",
+        "name": "Bactericera cockerelli"
+      },
+      {
+        "type": "Pathogen",
+        "name": "CaLsol"
+      },
+      {
+        "type": "Disease",
+        "name": "Zebra chip"
+      },
+      {
+        "type": "Plant",
+        "name": "potato"
+      }
+    ],
+    "linked_items": [
+      "Bactericera cockerelli",
+      "CaLsol",
+      "Zebra chip",
+      "potato"
+    ]
   }
 ]
 ```

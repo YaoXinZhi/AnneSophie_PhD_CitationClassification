@@ -1,33 +1,45 @@
 ```json
 [
   {
+    "identifier": "CITSEG_1",
     "top_classes": [
-      "plant-modification-by-pathogen",
       "relation",
-      "Infection-rate"
+      "location_pathogen_vector",
+      "location_disease"
     ],
     "entities": [
       {
+        "type": "Pathogen",
+        "name": "'Ca. P. prunorum'"
+      },
+      {
         "type": "Insect",
-        "name": "pear psylla"
+        "name": "C. pruni"
       },
       {
         "type": "Disease",
-        "name": "pear decline"
-      },
-      {
-        "type": "Pathogen",
-        "name": "virus"
+        "name": "ESFY"
       },
       {
         "type": "Plant",
-        "name": "tree"
+        "name": "Prunus spinosa"
+      },
+      {
+        "type": "Plant",
+        "name": "Prunus cerasifera"
+      },
+      {
+        "type": "Location",
+        "name": "Friuli-Venezia Giulia"
       }
     ],
     "linked_items": [
-      "pear psylla",
-      "virus",
-      "tree"
+      "ESFY",
+      "'Ca. P. prunorum'",
+      "C. pruni",
+      "Prunus spinosa",
+      "Prunus cerasifera",
+      "Friuli-Venezia Giulia"
     ]
   }
 ]

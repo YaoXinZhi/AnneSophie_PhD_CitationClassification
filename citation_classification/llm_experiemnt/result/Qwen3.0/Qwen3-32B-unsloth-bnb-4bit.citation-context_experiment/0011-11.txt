@@ -2,23 +2,40 @@
 [
   {
     "top_classes": [
+      "relation",
       "location_vector",
-      "Other",
-      "Identification"
+      "location_disease"
     ],
     "entities": [
       {
         "type": "Insect",
-        "name": "P. ylla"
+        "name": "C. pyricola"
+      },
+      {
+        "type": "Insect",
+        "name": "C. pyri"
+      },
+      {
+        "type": "Disease",
+        "name": "PD disease"
+      },
+      {
+        "type": "Pathogen",
+        "name": "a virus"
       },
       {
         "type": "Location",
-        "name": "Mongolia"
+        "name": "France"
+      },
+      {
+        "type": "Location",
+        "name": "Italy"
       }
     ],
     "linked_items": [
-      "P. ylla",
-      "Mongolia"
+      "C. pyricola",
+      "PD disease",
+      "a virus"
     ]
   }
 ]
