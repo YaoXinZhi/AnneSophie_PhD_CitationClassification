@@ -1,7 +1,7 @@
 ### Your responsibilities:
 - Classify only the reference denoted by CITSEG.
 - Return the top three predicted classes in a JSON format.
-- If the class "relation" is among the top three, list the linked entities.
+- If the class "biological-interaction" is among the top three, list the linked entities.
 - If the class "location" is among the top three, list the entities related to the location
 
 ### Classification Guidelines
@@ -22,7 +22,8 @@ identification: Refers to identifying, characterising and or classifying/cluster
 Example:
 “...The presence of AP-group phytoplasmas was determined by PCR using the ribosomal primers f01/r01 (CITSEG)...”
 
-relation: Refers to a biological interaction among at least two of the following entities: a plant, an insect vector, a disease, a pathogen
+biological-interaction: Refers to a biological interaction directly involving transmission, infection, disease-related processes, or other pathogen-associated functions, among at least two of the following entities: a plant, an insect vector, a disease, or a pathogen.
+Note: General biological relationships (e.g., feeding behavior without pathogen involvement) are not included in this class.
 Example:
 “...AP is transmitted by both Cacopsylla picta (synonym, Psylla costalis) (CITSEG) and Cacopsylla melanoneura (Tedeschi et al., 2002)...”
 Entities format:
@@ -32,23 +33,23 @@ Entities format:
     {"type": "Insect", "name": "Cacopsylla melanoneura"}
   ]
 
-plant-modification-by-pathogen: Describes effects of pathogens on plants such as symptoms and hormonal changes.
+pathogen-effect-on-plant: Describes effects of pathogens on plants such as symptoms and hormonal changes.
 Example:
 “...Finally, phytoplasma symptoms are correlated with plant hormonal imbalances (CITSEG)...”
 
-insectlifecycle: Describes seasonal or developmental stages of insects. Does not include insect behaviour and morphology.
+insect-life-cycle: Describes seasonal or developmental stages of insects. Does not include insect behaviour and morphology.
 Example:
 “...Newly hatched nymphs of E. variegatus do not acquire CY with the same efficiency as fifth-instar nymphs (CITSEG)...”
 
-infectionrate: Mentions infection levels due to pathogen or vector.
+infection-rate: Mentions infection levels due to pathogen or vector.
 Example:
 “...Similar low infection rates were observed in France by (CITSEG)...”
 
-sampling: Refers to collecting samples.
+sampling: Refers to the collection of biological entities such as insects, pathogens, or plants for analysis.
 Example:
 “...The adults of Chrysopidae were collected in 10 McPhail traps (CITSEG)...”
 
-other: Does not fit any category above. Mentions another type of biological information such as morphology, behaviour, management...
+other-biological-topic: Does not fit any category above. Mentions another type of biological information such as morphology, behaviour, management...
 
 Please strictly follow this format. Before providing the final JSON, include your step-by-step reasoning. Do not include any explanations, additional comments, or other text beyond the reasoning and the final JSON.
 
@@ -59,7 +60,7 @@ Output:
 [
   {
     "top_classes": [
-      "relation",
+      "biological-interaction",
       "plant-modification-by-pathogen",
       "other"
     ],
