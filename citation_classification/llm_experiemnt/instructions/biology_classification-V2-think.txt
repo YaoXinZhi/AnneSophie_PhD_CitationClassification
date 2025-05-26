@@ -1,73 +1,92 @@
 ### Your responsibilities:
 - Classify only the reference denoted by CITSEG.
-- Return the top three predicted classes in a JSON format.
-- If the class "biological-interaction" is among the top three, list the linked entities.
-- If the class "location" is among the top three, list the entities related to the location
+- Assign an identifier to each passage to track the text/answer pair.
+- Return the identifier and the top three predicted classes in a JSON format.
+- If the class "relation" is among the top three, list the linked entities.
 
 ### Classification Guidelines
 Use the following class definitions when making your classification:
 
-location: Refers to the geographic location of at least one of the following entities: a pathogen, a disease, a vector
+location_pathogen_vector: Mentions the location of a pathogen and its insect vector.
 Example:
-"...Investigations developed in Europe have showed that PD is transmitted by a new vector, Cacopsylla pyri, in France (CITSEG)..."
+“During a survey between 2000 and 2006 (CITSEG) could show that 'Ca. P. prunorum' as well as its vector, C. pruni, were present on all cultivated Prunus species in several stone fruit growing regions in Southwestern Germany.”
+
+location_disease: Refers to the geographic location of a disease.
+Example:
+“ESFY is known to occur in most southern and central European countries (Cieślińska 2011; Marcone et al. 2010, 2011)... to Poland (CITSEG).”
+
+location_vector: Mentions a vector in a location or its role in pathogen transmission in that location.
+Example:
+“Three [species] from Japan (CITSEG; Inoue et al. 2012).”
+
+Identification: Refers to identifying an object using biological techniques.
+Example:
+“...two different pairs of ribosomal primers used were: fPD/r0 1 (CITSEG) and AP3/ AP5…”
+
+relation: Refers to a biological interaction among plant, insect vector, and pathogen.
+Example:
+“...detected in sieve tubes of pear trees affected with pear decline (CITSEG) and in the pear psylla vector...”
 Entities format:
 "entities": [
-  {"type": "Insect", "name": "Cacopsylla pyri"}
-],
-"location_entities": [
-  {"type": "Country", "name": "France"}
+  {"type": "Insect", "name": "pear psylla"},
+  {"type": "Disease", "name": "pear decline"},
+  {"type": "Pathogen", "name": "mycoplamalike bodies"}
 ]
 
-identification: Refers to identifying, characterising and or classifying/clustering an object using biological techniques.
+plant-modification-by-pathogen: Describes effects of pathogens on plants.
 Example:
-“...The presence of AP-group phytoplasmas was determined by PCR using the ribosomal primers f01/r01 (CITSEG)...”
+“...SA hydroxylase for degradation of SA to catechol to suppress plant defence reaction [CITSEG]...”
 
-biological-interaction: Refers to a biological interaction directly involving transmission, infection, disease-related processes, or other pathogen-associated functions, among at least two of the following entities: a plant, an insect vector, a disease, or a pathogen.
-Note: General biological relationships (e.g., feeding behavior without pathogen involvement) are not included in this class.
+Life-cycle_insect: Describes seasonal or developmental stages of insects.
 Example:
-“...AP is transmitted by both Cacopsylla picta (synonym, Psylla costalis) (CITSEG) and Cacopsylla melanoneura (Tedeschi et al., 2002)...”
-Entities format:
-"entities": [
-    {"type": "Pathogen", "name": "AP"},
-    {"type": "Insect", "name": "Cacopsylla picta"},
-    {"type": "Insect", "name": "Cacopsylla melanoneura"}
-  ]
+“Female longevity varies from 88.3 to 28.7 d (CITSEG; Nava et al. 2007).”
 
-pathogen-effect-on-plant: Describes effects of pathogens on plants such as symptoms and hormonal changes.
+Infection-rate: Mentions infection levels due to pathogen or vector.
 Example:
-“...Finally, phytoplasma symptoms are correlated with plant hormonal imbalances (CITSEG)...”
+“...infected with a virulent accession (3/6, n = 13) in 2017 [CITSEG].”
 
-insect-life-cycle: Describes seasonal or developmental stages of insects. Does not include insect behaviour and morphology.
+Sampling: Refers to collecting samples.
 Example:
-“...Newly hatched nymphs of E. variegatus do not acquire CY with the same efficiency as fifth-instar nymphs (CITSEG)...”
+“...22 German isolates covering 5 stone fruit growing regions... (CITSEG).”
 
-infection-rate: Mentions infection levels due to pathogen or vector.
-Example:
-“...Similar low infection rates were observed in France by (CITSEG)...”
-
-sampling: Refers to the collection of biological entities such as insects, pathogens, or plants for analysis.
-Example:
-“...The adults of Chrysopidae were collected in 10 McPhail traps (CITSEG)...”
-
-other-biological-topic: Does not fit any category above. Mentions another type of biological information such as morphology, behaviour, management...
+Other: Does not fit any category above.
 
 Please strictly follow this format. Before providing the final JSON, include your step-by-step reasoning. Do not include any explanations, additional comments, or other text beyond the reasoning and the final JSON.
 
 ### Example
-Text: "Liberibacter solanacearum (CLso), a phloem-limited plant pathogen and symbiont transmitted by B. cockerelli and other psyllid species (Section 5.3). The phenotype induced by B. cockerelli is detrimental for potato and tomato growth and crop yields (CITSEG), but unlike senescence effects induced by Cardiaspina spp., B. cockerelli-induced changes may not benefit their survival or reproduction."
+Text: "Thus, B. nigricornis could potentially transmit CaLsol from carrot to potato crops and vice versa. Although eggs and immatures B. nigricornis are rarely observed during visual inspections in the field, the reproduction and presence of this psyllid species on potato crops has been confirmed (Hodkinson et al. 1981; Antolínez et al. 2019) and has been reported to cause severe yield losses in Iran (Fathi et al. 2011). Although CaLsol-positive adults of B. nigricornis have been found in potato crops in Spain, the role of this species in transmitting the bacterium to potato was never demonstrated (Teresani et al. 2015). Accordingly, a study of the possible role of B. nigricornis as a vector of CaLsol on potato was strongly needed because of the important economic losses in the carrot and potato industry associated with pathogen spread (Liefting et al. 2009; Munyaneza 2010; Munyaneza et al. 2010a; 2012; (CITSEG) Alfaro-Fernández et al. 2012a; 2012b; Bertolini et al. 2015; Munyaneza 2015). For this reason, we conducted a series of transmission experiments under controlled conditions at ICA-CSIC (Madrid, Spain) to evaluate the transmission rate of CaLsol (haplotype E) by B. nigricornis in carrot and potato plants. Bactericera nigricornis CaLsol-free and CaLsol-infected colonies were established at the ICA-CSIC and used for the assays. First, a B. nigricornis CaLsol-free colony was established by collecting insects from a population in a potato field in Valladolid, Spain, in 2016."
 Output:
 ```json
 [
   {
     "top_classes": [
-      "biological-interaction",
-      "plant-modification-by-pathogen",
-      "other"
+      "relation",
+      "location_vector",
+      "Infection_rate"
     ],
     "entities": [
-      {"type": "Insect", "name": "B. cockerelli"},
-      {"type": "Plant", "name": "potato"},
-      {"type": "Plant", "name": "tomato"}
+      {
+        "type": "Insect",
+        "name": "B. nigricornis"
+      },
+      {
+        "type": "Pathogen",
+        "name": "CaLsol"
+      },
+      {
+        "type": "Plant",
+        "name": "potato"
+      },
+      {
+        "type": "Plant",
+        "name": "carrot"
+      }
+    ],
+    "linked_items": [
+      "B. nigricornis",
+      "CaLsol",
+      "potato",
+      "carrot"
     ]
   }
 ]
