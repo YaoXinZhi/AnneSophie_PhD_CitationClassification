@@ -1,4 +1,4 @@
-# Classification of Rhetorical Citation Functions by Discipline
+# Classification of rhetorical citation functions by discipline
 
 This repository contains several files related to the classification of rhetorical citation functions across different disciplines.
 
