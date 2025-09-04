@@ -11,7 +11,7 @@ The query is composed of one type of plant close to a type of insect closed to t
 The query only search in WOS topic including Title, Abstract, Author Keywords and Keywords Plus
 
 
-The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond to the file "references_WOS.tsv".
+The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond to the file "references_WOS.tsv" in query_V2 folder.
 
 
 
