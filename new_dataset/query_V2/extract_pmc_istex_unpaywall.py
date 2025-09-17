@@ -1,9 +1,7 @@
 
 import pandas as pd
-import matplotlib.pyplot as plt
 import json
 import string
-from unidecode import unidecode
 import glob
 import requests
 import os
@@ -68,9 +66,7 @@ def Elsevier_extract_text(doi, file_name):
         with open(filename, "wb") as f:
             f.write(response.content)
         print("\n")
-        print("******************************")
         print(f"XML dowloaded with Elsevier {filename}")
-        print("******************************")
         return True
     else:
         print(response.status_code)
@@ -120,7 +116,6 @@ def retrieve_references_crossref(doi, file_name):
     '''Query crossref API to retreive OA location link if available and try to download, return true or false and link if false'''
     url = f"https://api.crossref.org/works/{doi}"
     os.makedirs(os.path.dirname(file_name), exist_ok=True)
-    dowloaded_state = 'N'
     pdf_url = None
  
     headers = {'User-Agent': config.HEADER}
