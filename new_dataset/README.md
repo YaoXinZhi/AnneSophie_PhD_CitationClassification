@@ -14,12 +14,24 @@ The query only search in WOS topic including Title, Abstract, Author Keywords an
 The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond to the file "references_WOS.tsv" in query_V2 folder.
 
 
-Steps for the corpus construction : 
-1) Dowload documents : script extract_documents_from_source.py
-2) get metadata about articles citing the articles obtained with WOS query (search with DOI) : script get_references.py
-get_references.py --input_csv references_WOS.tsv --source coci
-get_references.py --input_csv references_WOS.tsv --source openalex
-3) get metadata about the references from WOS articles obtained with the query : get_info_ref.py
-4) get metadata about articles citing the references : get_references.py
-get_references.py --input_csv info_reference_openalex_dedup.tsv --source openalex
-get_references.py --input_csv info_reference_openalex_dedup.tsv --source coci
+## Corpus Construction Steps
+
+1. **Download full-text documents**  
+   Use the script `extract_documents_from_source.py` to retrieve all documents.
+
+2. **Retrieve metadata for articles citing the WOS query results**  
+   Search by DOI using the script `get_references.py`:
+
+   ```bash
+   get_references.py --input_csv references_WOS.tsv --source coci
+   get_references.py --input_csv references_WOS.tsv --source openalex
+
+3. **Retrieve metadata for references cited by the WOS articles**  
+   Use the script `get_info_ref.py`.
+
+4. **Retrieve metadata for articles citing the references**  
+   Use `get_references.py`:
+
+   ```bash
+   get_references.py --input_csv info_reference_openalex_dedup.tsv --source openalex
+   get_references.py --input_csv info_reference_openalex_dedup.tsv --source coci
