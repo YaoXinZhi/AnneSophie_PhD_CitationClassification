@@ -2,6 +2,10 @@
 
 Repository for the new dataset on scientific articles related to vectors.
 
+
+query_V1_plant-vector-insect --> first version of the query. The folder contains scripts for filtering the results that were very noisy.
+query_V2 --> current version of the query. The folder contains the scripts for the corpus construction.
+
 I- Metadata extraction
 
 query_link : https://www.webofscience.com/wos/woscc/summary/2f398a71-d411-4f13-a114-bdac2864a1de-0172366f6b/relevance/1
