@@ -14,7 +14,7 @@ The query only search in WOS topic including Title, Abstract, Author Keywords an
 The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond to the file "references_WOS.tsv" in query_V2 folder.
 
 
-## Corpus Construction Steps
+## Corpus construction steps
 
 1. **Download full-text documents**  
    Use the script `extract_documents_from_source.py` to retrieve all documents.
@@ -22,7 +22,6 @@ The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond 
 2. **Retrieve metadata for articles citing the WOS query results**  
    Search by DOI using the script `get_references.py`:
 
-   ```bash
    get_references.py --input_csv references_WOS.tsv --source coci
    get_references.py --input_csv references_WOS.tsv --source openalex
 
@@ -32,6 +31,5 @@ The 8,181 results were dowloaded on the 05/08/2025 in tsv format and correspond 
 4. **Retrieve metadata for articles citing the references**  
    Use `get_references.py`:
 
-   ```bash
    get_references.py --input_csv info_reference_openalex_dedup.tsv --source openalex
    get_references.py --input_csv info_reference_openalex_dedup.tsv --source coci
