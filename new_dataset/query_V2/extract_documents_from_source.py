@@ -130,7 +130,7 @@ def retrieve_references_crossref(doi, file_name):
         links = data["message"].get("link", [])
         pdf_url = links[0]["URL"] if links else None
 
-        if "wiley" in pdf_url.lower() or "elsevier" in pdf_ulr.lower():
+        if "wiley" in pdf_url.lower() or "elsevier" in pdf_url.lower():
             #stop here if the document is in wiley or elsevier, we'll query the APIs in the next step
             return False, pdf_url
 
@@ -169,7 +169,7 @@ def download_pdf_from_unpaywall(doi, file_name):
         oa_location = data.get("best_oa_location")
         if oa_location and oa_location.get("url_for_pdf"):
             pdf_url = oa_location["url_for_pdf"]
-            if "wiley" in pdf_url.lower() or "elsevier" in pdf_ulr.lower():
+            if "wiley" in pdf_url.lower() or "elsevier" in pdf_url.lower():
                 #stop here if the document is in wiley or elsevier, we'll query the APIs in the next step
                 return False
 
