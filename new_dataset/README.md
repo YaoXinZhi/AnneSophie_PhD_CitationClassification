@@ -3,8 +3,10 @@
 Repository for the new dataset on scientific articles related to vectors.
 
 
-query_V1_plant-vector-insect --> first version of the query. The folder contains scripts for filtering the results that were very noisy.
-query_V2 --> current version of the query. The folder contains the scripts for the corpus construction.
+query_V1_plant-vector-insect --> first version of the query.<br>
+The folder contains scripts for filtering the results that were very noisy.<br>
+
+query_V2 --> current version of the query.<br> The folder contains the scripts for the corpus construction.
 
 I- Metadata extraction
 
