@@ -139,7 +139,7 @@ def retrieve_references_crossref(doi, file_name):
         try:
             pdf_response = requests.get(pdf_url, timeout=15)
             if pdf_response.status_code == 200:
-                content_type = pdf_response.headers.get("Content-type_crossref", "").lower()
+                content_type = pdf_response.headers.get("Content-Type", "").lower()
                 if "pdf" in content_type:
                     #avoids html
                     with open(pdf_path, "wb") as f:
@@ -161,6 +161,11 @@ def download_pdf_from_unpaywall(doi, file_name):
 
     api_url = f"https://api.unpaywall.org/v2/{doi}?email={email}"
 
+    headers = {"User-Agent": config.HEADER}
+    proxies = {"http": f"http://{config.PROXY_USERNAME}:{config.PROXY_PASS}@{config.PROXY}",
+        "https": f"http://{config.PROXY_USERNAME}:{config.PROXY_PASS}@{config.PROXY}"}
+
+
     try:
         response = requests.get(api_url)
         response.raise_for_status()
@@ -175,7 +180,7 @@ def download_pdf_from_unpaywall(doi, file_name):
 
             pdf_path = file_name + ".pdf"
 
-            pdf_response = requests.get(pdf_url)
+            pdf_response = requests.get(pdf_url, timeout=10, headers=headers, proxies=proxies)
             pdf_response.raise_for_status()
 
             content_type = pdf_response.headers.get("Content-Type", "").lower()
