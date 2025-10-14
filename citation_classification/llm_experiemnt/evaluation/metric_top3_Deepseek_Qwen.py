@@ -13,7 +13,7 @@ predictions_path = f'responses_2-2_V2.csv'
 df = pd.read_csv(predictions_path)
 real_labels = df["True_label"].tolist()
 
-models = ["DeepSeek", "Qwen3-32B", "QwQ-32B"]
+models = ["DeepSeek", "Qwen3.0", "QwQ-32B"]
 
 #paths for each models
 paths = [f"DeepSeek-R1-Distill-Qwen-32B-unsloth-bnb-4bit.prompt_V3_{top}steps.citation-context_experiment",
