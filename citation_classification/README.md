@@ -1,3 +1,39 @@
+# Classification of rhetorical citation functions by discipline
+
+This repository contains several files related to the classification of rhetorical citation functions across different disciplines.
+
+## Repository Contents
+
+### `PD100cit`
+
+This folder contains:  
+- **`100_citation_sample.csv`**: A random sample of 100 citations from the *Pear Decline* (PD100cit) corpus, including their contexts and annotations.  
+- **`annotation_guidelines.pdf`**: Annotation guidelines used as a reference for PD100cit annotations, with examples from ecology.
+
+### `script`
+
+This folder contains several scripts for citation classification:
+
+- **Scripts:**  
+  - `finetune_for_citation_classification.py`: Main script to fine-tune a language model (**BioBERT, SciBERT, RoBERTa, BioLinkBERT**), specified via arguments, including the citation context window size.  
+  - `citation_classifier.py`: Classifier and training/validation functions.  
+  - `get_citation_sequence.py`: Extracts citation sequences from both corpora, output as lists.  
+  - `utils.py`: Helper functions used by `finetune_for_citation_classification.py`.
+
+- **Prompt Instructions:**  
+  - `Prompt_instructions_citation_classification.pdf`: Instructions used for designing GPT-4-based prompts for citation classification.
+
+### `essai_modele_Jiang`
+
+This subfolder reproduces the model from Jiang & Chen (2023):
+
+- `fine_tune_several_vectors.py`: Main script for training the Jiang & Chen model.  
+- `citation_classifier.py`: Classifier and training/validation functions, called by `fine_tune_several_vectors.py`.  
+- `prepare_data.py`: Extracts citation sequences and their contexts, delimited by `@`, output as lists. Used by `fine_tune_several_vectors.py`.
+
+---------------------------------------------------------------------------------------
+#Version française
+    
 # Classification des fonctions rhétoriques des citations par discipline
 
 Ce dépôt contient plusieurs fichiers relatifs à la classification des fonctions rhétoriques des citations à travers différentes disciplines.
