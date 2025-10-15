@@ -1,0 +1,15 @@
+<think>
+Okay, let's tackle this. The user provided a citation classification task in the plant health domain. The task is to determine the rhetorical class of a citation passage where the reference is denoted by CITSEG. The options include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, and Weakness.
+
+The example given in the prompt for the Classification is:
+
+"In the same context, (CITSEG) has demonstrated that a single amino acid substitution in a conserved cysteine residue of the viral coat protein disrupts the ability of the virus to form infectious particles." 
+
+The correct output for this is "Basis". 
+
+Now I need to classify the provided example passage into the appropriate rhetorical class. Let me look at the example closely. The passage says that CITSEG demonstrated something about a virus's amino acid substitution affecting infectious particle formation. This sounds like the cited work is forming the foundation for the current research. The new research might be building upon CITSEG's findings. That fits the "Basis" class definition, which is when the cited work is the intellectual foundation of the current research.
+
+Another angle could be Support if they're reinforcing their own findings, but here the example seems to present CITSEG's work as the basis for the current study's approach. The phrase "has demonstrated" followed by the current research building upon that aligns with Basis. So the correct classification here is likely Basis.
+</think>
+
+Basis

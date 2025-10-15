@@ -1,0 +1,8 @@
+Okay, let me start by reading the problem carefully. The task is to classify a citation in a scientific article passage into one of the given rhetorical classes. The user provided an example where the citation is in the context of suggesting future research directions. The example given under the "Future" class is about a peptide's broader applicability, similar to the sample sentence.
+
+First, the example provided by the user says the citation is used to suggest future research. The example given in the problem mentions the aphid gut peptide and its potential broader applicability. The rhetorical class here would be "Future" because it's implying that there's potential for further research across more species, right? The key part here is "suggesting potential broader applicability," which points towards future directions.
+
+The other classes need to be considered to make sure there's no better fit. For instance, is it "Support"? The example isn't using the citation to support a claim in the current paper but rather to suggest that the work could be extended. "CoCoRes" is about comparing results, but there's no comparison here. "Motivation" could be if it's pointing out a gap, but the example is more about suggesting where future work could go rather than why this current study was done. "Usage" is about methods or tools used, which doesn't apply. "Similar" is about similarities in results, not suggestions for future work. Therefore, "Future" seems correct. I'll go with that.
+</think>
+
+Future

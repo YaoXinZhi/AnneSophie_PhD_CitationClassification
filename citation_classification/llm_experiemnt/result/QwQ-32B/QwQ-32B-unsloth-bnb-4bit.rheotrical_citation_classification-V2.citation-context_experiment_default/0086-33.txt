@@ -1,0 +1,18 @@
+Okay, let me tackle this. The user wants me to classify a citation in a scientific article passage based on its rhetorical function. The citation is marked as (CITSEG). The example given here is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Hmm, the task is to figure out which of the predefined classes (like Support, CoCoRes, Basis, etc.) best fits how the citation is being used here.
+
+First, I need to recall the definitions again to be sure. Let me go through each possible class.
+
+The example says "is supported by recent cross-taxon investigations" followed by CITSEG. The key part here is that the current study's finding is "supported" by another study. The cited work seems to back up their result. The sentence structure here is indicating that (CITSEG) supports their own findings. 
+
+Looking at the classes:
+
+Support: when the citation supports, confirms, or reinforces a claim made by the authors. That sounds exactly right here. The sentence says "is supported by ... (CITSEG)". So the cited paper supports their findings. 
+
+Let me check if another class could fit here. CoCoRes is about comparing results between cited and the current. But in the example, there's no direct comparison of results between the two, just that the cited work supports theirs. 
+
+CoCoGM is about comparing methods or goals, which isn't the case here. Similarly, Similar class is about pointing out similarities, but here it's more about supporting evidence rather than just similarity. The sentence structure clearly states that the cited work supports their findings. So Support is the best fit here.
+</think>
+
+Support

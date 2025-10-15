@@ -1,0 +1,22 @@
+Okay, let's tackle this classification problem. The user provided a citation passage from a scientific article in plant health, and I need to determine the rhetorical class of the (CITSEG) placeholder.
+
+First, I'll read through the example again to make sure I understand the task. The key is to figure out the role the cited work plays in the context of the citing text. There are several classes like Basis, CoCoGM, CoCoRes, etc. Each has specific examples given.
+
+The example given here is: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)."
+
+Wait, actually, no—the user's sample input might be different? Wait, the user provided an example for the Motivation class: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale... The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism…"
+
+Ah, right, the example given under Motivation is exactly similar to the citation in question here. Let me check the input again. The user's actual input is the citation in this passage: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)."
+
+Wait, the user's question might be using that exact example? Wait, actually, in the user's initial prompt, they provided an example for each class, including Motivation. But in the problem presented, the user's input is a citation passage that might be the same as the example given for Motivation. Let me confirm.
+
+Wait, in the problem description, the user says: "Prompt for citation classification" and then includes the task and classes. But in the user's actual question, the input is: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)."
+
+Comparing that to the example under Motivation: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+So the user's current input is the same as the example given for the Motivation class. Therefore, the correct class here would be Motivation.
+
+Let me double-check. The key in Motivation is that it "justifies why the current research is being conducted by identifying a knowledge gap, need or open question." The sentence here states that the cited work showed a certain result (preventing scale with magnetic fields), but the explanation is not yet offered, hence the purpose of the current work is to address that. The citation is pointing out that prior work has demonstrated something but there's a gap in understanding the mechanism, so the current work is motivated by that gap. Thus, the (CITSEG) is being cited as the motivation for the current study's purpose. Therefore, Motivation is the correct class here.
+</think>
+
+Motivation

@@ -1,0 +1,18 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into one of the predefined rhetorical classes. Let me read the passage carefully.
+
+The passage says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+First, I'll break this down. The main point is that the current study found that insect hosts influence bacterial communities. The authors mention that this finding is supported by recent studies on other insect-associated bacteria. Specifically, they reference a study where arthropod hosts influenced bacterial assemblages, but rodent hosts and environments did not.
+
+Now, looking at the rhetorical classes, I need to determine the role of (CITSEG) here. The passage uses (CITSEG) to back up their own finding by referencing another study that shows a similar pattern. This seems to support their claim, so "Support" is a possibility.
+
+Another consideration is "CoCoRes" because they are comparing results. However, in this case, the comparison isn't about contrasting their results with another study but rather aligning with it to support their own. The focus is on agreement rather than comparison for differentiation.
+
+The class "Similar" is about pointing out similarities, but here the emphasis is on using the cited work as supporting evidence. So "Support" seems more appropriate because (CITSEG) is cited as evidence that reinforces the authors' findings.
+
+Additionally, the passage states that their finding "is supported by" the cited work, directly indicating that it's used to strengthen their argument. There's no comparison of methods or goals, just a confirmation of results.
+
+Therefore, the correct classification for (CITSEG) in this context is "Support."
+</think>
+
+Support

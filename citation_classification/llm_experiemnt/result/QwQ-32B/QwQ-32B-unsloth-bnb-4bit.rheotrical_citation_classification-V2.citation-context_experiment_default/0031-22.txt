@@ -1,0 +1,13 @@
+Okay, let's tackle this classification problem. The user provided a citation passage and needs me to determine the correct rhetorical class for (CITSEG). First, I need to read the example carefully.
+
+The example given is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Hmm, the key part here is that the current study's finding is "supported by" the cited work. The phrase "is supported by" suggests that the cited study backs up or confirms the authors' own results. Looking at the classes, the Support class is for when the citation supports or reinforces the citing authors' claims. Let me cross-check the definitions:
+
+- Support: cited work supports the authors' findings. Yes, that fits here because the citation is used to provide additional evidence for their result.
+- Similar: points out similarity between cited and current work. The example mentions that other studies also found similar patterns (host influence), so maybe Similar? Wait, but the exact wording is "supported by", which is more about confirmation rather than just similarity. The example for Similar is about similarity in results, but here it's about supporting evidence. The example given for Support is when previous research aligns with the current findings, which matches this case. The citated study's findings align with the current study's results, so Support seems correct. 
+
+Double-check CoCoRes? No, that's comparing results between cited and current. Here it's not a comparison but support. Usage? No, it's not about methods. So yes, Support is the right one.
+</think>
+
+Support

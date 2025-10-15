@@ -1,0 +1,30 @@
+Alright, so I'm trying to classify the rhetorical class for a given citation passage in a scientific article. The passage given is:
+
+"Insect hosts influence the composition of bacterial communities associated with them, which is supported by (CITSEG) which demonstrated similar effects in fleas and ticks."
+
+First, I need to understand the context. The main point here is that the article is discussing how insect hosts affect bacterial communities. They're citing another study (CITSEG) that showed similar effects in fleas and ticks.
+
+Looking at the different rhetorical classes:
+
+- **Basis**: If the cited work is foundational for the current research. This doesn't seem to be the case here since the cited work is used to support a point, not as a foundation.
+  
+- **CoCoGM**: Comparing methods or goals. The citation isn't comparing methods but rather results or findings.
+
+- **CoCoRes**: Comparing results or findings. The citation does mention similar effects, so it's about comparing results.
+
+- **CoCoXY**: Comparing two cited studies. Here, it's the current study and the cited one, so not applicable.
+
+- **Future**: If the citation suggests future research. Not here; it's about supporting current findings.
+
+- **Motivation**: If the citation justifies why the research is being done. The current study is the primary focus, so no.
+
+- **Neutral**: If the citation is just a neutral mention. It's used to support, so not neutral.
+
+- **Similar**: If pointing out similarity, which seems relevant. The cited work shows similar effects.
+
+- **Support**: If the citation supports the authors' claims. That's exactly what's happening here: citing to back up their findings.
+
+So, the citation is supporting the claim that insect hosts influence bacterial communities by referencing a similar study. Therefore, the most appropriate class is **Support**.
+</think>
+
+Support

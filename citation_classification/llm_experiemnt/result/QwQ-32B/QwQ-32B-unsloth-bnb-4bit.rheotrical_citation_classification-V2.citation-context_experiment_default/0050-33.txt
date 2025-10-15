@@ -1,0 +1,18 @@
+Okay, let's see. I need to classify the rhetorical class for the citation in the given passage. The user provided an example where the task is to determine the appropriate class based on how the citation is used in the text. The options are things like Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to look at the example given. The example is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." The correct class here is CoCoRes, which is Comparison of Results. That makes sense because they are contrasting their results with previous ones.
+
+Now, I need to figure out how the citation is being used in the user's query. Wait, the user's actual input here is the prompt itself. Wait, no. Wait, the user provided a general query and now wants an example? Or maybe they provided a problem where they need to classify the example given in the prompt's "Example" section.
+
+Looking back, the user's message is a prompt for classification, but they want an example where an assistant must process such a task. Wait, perhaps the actual test case is the example given under CoCoRes. The user is asking me, as the assistant, to demonstrate my step-by-step reasoning for that example and then output the correct JSON.
+
+Wait, the user's exact instruction is: "Prompt for citation classification" followed by their task, which is for me to classify a citation in a scientific article passage. The user is providing this as their input, and I need to process it. But perhaps they included an example where the citation example is "The results obtained in the present work..." which is the second example given. Wait, looking at the structure:
+
+In the user's message, under CoCoRes, the example is "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." So the task here is to classify that example's citation into the correct rhetorical class, which should be CoCoRes. The user is using this as an example and wants me to show the reasoning steps leading to that classification, then output the label.
+
+So the citation here is being used to compare the current work's results with previous results. That's exactly the definition of CoCoRes. Therefore, the correct class is CoCoRes. The steps would be: the sentence compares the present results with those of another study, so it's a direct comparison of results, hence CoCoRes. The example's own explanation says it's for CoCoRes.
+
+Therefore, after the reasoning steps, the JSON should be {"label": "CoCoRes"}.
+</think>
+
+{"label": "CoCoRes"}

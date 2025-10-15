@@ -1,0 +1,14 @@
+Alright, let's tackle this classification task. I need to assign the correct rhetorical class to a citation marked as (CITSEG) within a scientific passage. 
+
+First, I'll examine the predefined rhetorical classes to understand each one's criteria. The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. Each has a specific role or function in the context of the citing paper.
+
+I'll look at the example provided in the problem. The user gave a prompt where the citation is cited as a prior study that shows a certain finding. The current paper is either using it to support their own results or findings. 
+
+In the example, it says, "(CITSEG) showed that..." and the current paper's finding aligns with that. This indicates that the cited work is being used to back up or confirm the authors' claims. 
+
+Looking at the classes, 'Support' seems to fit here because the citation is used as evidence that aligns with the authors' findings, reinforcing their argument. There's no comparison, criticism, or neutral mention, so other classes like CoCoRes, Weakness, or Neutral don't apply.
+
+So, the correct classification for this citation is 'Support'.
+</think>
+
+Support

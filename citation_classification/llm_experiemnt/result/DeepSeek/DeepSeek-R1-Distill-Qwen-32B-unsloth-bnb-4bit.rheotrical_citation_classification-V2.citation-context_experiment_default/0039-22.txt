@@ -1,0 +1,6 @@
+Alright, so I need to classify this citation passage into the appropriate rhetorical class. Let me read through the passage carefully. It says, "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
+
+Hmm, the key here is that the cited work introduced and validated the IAT, which is foundational to the current research. The current study is replicating those results, indicating that the cited work is the starting point or the basis for their research. So, this should be classified under 'Basis' because it's serving as the intellectual foundation.
+</think>
+
+Basis

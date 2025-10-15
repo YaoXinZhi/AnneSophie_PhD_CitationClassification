@@ -1,0 +1,14 @@
+Okay, I need to figure out the rhetorical class for the citation in the given example. The passage says: "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." The task is to classify this citation into one of the predefined classes.
+
+Looking at the list of classes, there's "Neutral," which is used when the citation is mentioned in a neutral, descriptive way without any supporting or contrasting context. In this example, the citation is simply stating a fact about when magnetic water treatment devices became popular in the USA. There's no comparison, criticism, support, or motivation implied here. It's a straightforward reference to a source for factual information.
+
+I should rule out other classes because none of them seem to fit. It's not a basis for the current research, nor is it comparing methods, results, or anything else. There's no indication that the authors are using it to support their claims or to discuss weaknesses. It's purely informational.
+
+So, the appropriate class is Neutral.
+</think>
+
+Neutral
+
+```json
+"Neutral"
+```

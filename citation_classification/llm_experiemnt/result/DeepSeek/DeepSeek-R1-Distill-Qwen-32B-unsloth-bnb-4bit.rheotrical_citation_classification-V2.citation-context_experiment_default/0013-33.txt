@@ -1,0 +1,12 @@
+Okay, so I'm trying to classify this citation in the passage. The passage says, "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." 
+
+Looking at the classes, "Future" is used when the citation suggests directions for future research. In this case, the citation points out potential broader applicability, which implies looking into more species or applications. That fits the Future class. It's not supporting current findings, comparing methods, or just mentioning it neutrally. It's hinting at what could be explored next. So I think the correct label is Future.
+</think>
+
+Future
+
+```json
+{
+  "label": "Future"
+}
+```

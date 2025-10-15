@@ -1,0 +1,22 @@
+Okay, let's tackle this citation classification problem. The user provided a passage and needs me to figure out which rhetorical class the citation (CITSEG) falls into. The example given is about plant health, so I need to focus on that context. 
+
+First, I need to read the example carefully. The citation here is in the context of a study on how a small aphid gut peptide interferes with virus uptake and binds to other aphid species' gut epithelia. The user's example ends with "(CITSEG)" after mentioning "suggesting potential broader applicability." 
+
+The task is to determine which rhetorical class this belongs to. Let me look at the classes again. The options include things like Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+Hmm. The example says that the peptide "also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." The key here is that the citation is used to back up the idea that the peptide might have broader applications beyond the initial findings. 
+
+Looking at the "Future" class definition: "assign this class when the citation is used to suggest or imply directions for future research." Wait, the example given for Future is: "suggesting potential broader applicability (CITSEG)". Wait, actually looking at the example given for Future: The example they provided in the prompt says exactly that similar scenario. The example was: "the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)" is labeled as Future. 
+
+Wait, the user's own example is the same as their Future example. Let me check again. The user's instruction says: 
+
+The Future class's example is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+So in this case, the citation is supporting that the work suggests future directions (broader applicability). Therefore the correct class is Future. But I need to make sure I'm not confused with the Support class. The Support class is when the citation supports the authors' own claims. Here, the authors are using the citation to suggest that their findings imply future research directions. The key word here is "suggesting potential broader applicability" which points to future applications, so that would be Future. 
+
+Alternatively, if the citation was presenting prior work that supports the current claim of broader applicability, that might be Support, but the phrasing here is about suggesting where future research could go, especially since the example given for Future exactly matches this case. 
+
+Therefore the answer is "Future".
+</think>
+
+Future

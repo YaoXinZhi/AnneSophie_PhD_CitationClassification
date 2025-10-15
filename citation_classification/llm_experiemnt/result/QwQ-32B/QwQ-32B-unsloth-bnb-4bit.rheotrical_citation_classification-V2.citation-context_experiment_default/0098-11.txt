@@ -1,0 +1,24 @@
+Okay, let's tackle this classification problem. The user provided a citation passage and wants me to determine the rhetorical class of the cited work. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+First, I need to read the example given carefully. The example is: "A recent study demonstrated that the application of magnetic fields can reduce calcium carbonate scale formation in industrial water systems (CITSEG). This led us to investigate whether similar effects could be observed in household plumbing systems." 
+
+Alright, so the task is to figure out why the citation here is being referenced. Let's break it down. The sentence says that a previous study showed magnetic fields reduce scale, and that this led the current researchers to look into household systems. 
+
+Hmm, the key part here is "led us to investigate". That phrasing suggests that the cited study provided the motivation for the current research. The cited work identified a phenomenon or result, and based on that, the current authors decided to explore a related question. 
+
+Looking at the classes, the Motivation class is defined as when the citation is used to justify why the current research is being conducted, like identifying a knowledge gap or open question. The example given for Motivation is similar: previous research showed something, but the explanation isn't known, so this work's purpose is to understand it. 
+
+In the provided example, the cited study's result (reducing scale in industrial systems) motivated the current study to test if it works in household systems. That fits the Motivation class. 
+
+Wait, but another possible class could be Support? If the citation is used to support a claim here. But the sentence structure here is more about leading to the current study's motivation rather than supporting a claim made by the authors. The authors aren't using the citation to back up their own results; instead, they're explaining why they did the research in the first place. 
+
+Comparing to the example for Support: "participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods" – that's supporting their own findings with prior work. Here, it's more the "why" behind their research, so Motivation is better. 
+
+Alternatively, could it be Basis? The Basis class is when the cited work is the intellectual foundation. The example for Basis is that the cited work introduced a method that's being replicated or built upon. But here, the current study isn't a continuation or building directly on the cited work's method, but inspired by their results to apply it to a new context. 
+
+So Basis requires the cited work to be the foundation, like the current work is a continuation. Here, it's more of a motivator, so Motivation is the right choice. 
+
+No other classes seem to fit. Usage would be if they used a method from the cited work, which isn't the case here. Weakness would be if they pointed out a flaw, which they aren't. Therefore, Motivation is the correct class.
+</think>
+
+Motivation

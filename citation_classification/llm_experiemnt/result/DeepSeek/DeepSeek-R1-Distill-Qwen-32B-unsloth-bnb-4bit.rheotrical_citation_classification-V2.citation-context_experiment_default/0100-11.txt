@@ -1,0 +1,17 @@
+Okay, I need to classify the citation in the given passage into one of the rhetorical classes provided. Let's start by understanding the passage and the roles each class plays.
+
+The passage mentions the citation as "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations of other insect-associated bacteria." This suggests that the cited work is being used to back up or confirm the authors' own findings. 
+
+Looking at the classes, "Support" seems to fit because the citation is presented as evidence that aligns with the authors’ results, reinforcing their claim. The example given in the Support class is about citing previous research that aligns with their findings, which matches the scenario here.
+</think>
+
+The citation is used to support the authors' findings with similar results from another study.
+
+**Step-by-step explanation:**
+
+1. The passage states that the authors' findings are supported by recent investigations.
+2. The cited work provides similar results, reinforcing the authors' claims.
+3. This aligns with the "Support" class, which is used when a citation supports the authors' findings.
+
+**Answer:**  
+Support

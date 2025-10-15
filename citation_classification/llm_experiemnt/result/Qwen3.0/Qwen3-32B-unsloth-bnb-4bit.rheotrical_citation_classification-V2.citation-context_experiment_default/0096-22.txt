@@ -1,0 +1,7 @@
+<think>
+Okay, let's tackle this classification task. So, I need to figure out what rhetorical class the citation belongs to based on the given passage. Let me start by reading the example carefully.
+
+The passage provided is from a scientific article citation where they compare their results to existing work. The example sentence mentions that the present work's results substantially differ from experiments with deuterium saturated metal targets (CITSEG). The key here is that the results are being compared directly. Looking at the classes, CoCoRes is for comparing results. The example given for CoCoRes says the results differ from others, which matches our case. Let me cross-check with the other classes. Basis is for foundation/follow-up work. CoCoGM would be about goals or methods. Motivation is for justifying the current research. Support is reinforcing claims. Future is for suggesting future work. Weakness is criticizing limitations. Neutral is just neutral description. Similar would imply similarity, but the example is highlighting differences. Neutral doesn't fit because here it's a direct comparison of results. So yeah, CoCoRes is the right label here.
+</think>
+
+CoCoRes

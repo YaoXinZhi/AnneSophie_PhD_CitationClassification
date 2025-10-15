@@ -1,0 +1,18 @@
+Okay, so I need to classify the rhetorical function of a citation in a scientific article. The passage given is: "Previous studies have shown that plant root growth is influenced by soil pH levels (CITSEG)." 
+
+First, I'll read through the predefined classes to understand what each one means. There's Motivation, Support, Basis, CoCoGM, CoCoRes, CoCoXY, Future, Neutral, Similar, Usage, Weakness.
+
+Looking at the passage: It says that previous studies have shown something about plant root growth and soil pH. The citation here is presenting this as a known fact or previously established result. The author is not comparing their results to this study, nor are they using it as a foundation for their new research. It's simply stating that this is a known finding from prior work.
+
+So, the class that fits here is "Support". The citation is used to back up the statement, showing that others have found the same thing, thus supporting the claim being made. It's presenting evidence that aligns with the author's point, which is exactly what the Support class is for. 
+
+I don't think it's Motivation because the passage isn't explaining why this research is being done. It's just supporting a claim. It's not CoCoRes because it's not directly comparing results; it's just mentioning that others have shown this. So, yes, Support is the right label.
+</think>
+
+The passage uses the citation to back up the claim that previous studies have shown a relationship between plant root growth and soil pH levels, thus supporting the current statement.
+
+```json
+{
+  "label": "Support"
+}
+```

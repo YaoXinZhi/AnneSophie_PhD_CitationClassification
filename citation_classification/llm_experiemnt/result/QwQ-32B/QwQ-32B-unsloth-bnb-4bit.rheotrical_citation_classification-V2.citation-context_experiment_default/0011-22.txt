@@ -1,0 +1,14 @@
+Okay, I need to figure out the rhetorical class for the citation in this passage. Let's start by reading the example given. The user provided a passage where the citation is mentioned, and I have to determine which class it fits into based on the predefined list.
+
+The citation is in the context of a study about the effect of a magnetic field on preventing calcite scale formation. The example passage says, "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+So, looking at the classes, the key here seems to be that the citation is pointing out a knowledge gap. The current research is motivated by the previous work's findings, which didn't explain the mechanism. The current study's purpose is to address that gap. 
+
+The Motivation class is described as when the citation justifies the current research by identifying a knowledge gap or open question. The example given for Motivation matches this situation exactly. The previous work showed a result, but the explanation is missing, so the current work is motivated to fill that gap. 
+
+I should check the other classes to make sure. Is it Basis? Basis is when the cited work is the foundation of the new research. Here, the previous work is the basis because it's the starting point, but the description for Basis mentions continuation or new solution. However, the example for Motivation is almost identical to the user's example here. The key here is that the current paper's purpose is to address a gap mentioned in the citation, so that's more about motivation. 
+
+Weakness? No, because it's not pointing out a flaw in the cited work. Support? It's not supporting a claim but explaining why this research is being done. So yes, Motivation is the right class here.
+</think>
+
+Motivation

@@ -1,0 +1,12 @@
+Okay, I need to classify the given citation passage into one of the predefined rhetorical classes. Let's start by carefully reading the passage and understanding the context.
+
+The passage is part of a scientific article discussing the role of bacteria in the gut and honey stomach of honey bees. The authors mention that bacteria in the honey stomach help prevent the growth of pathogenic bacteria. They then cite several studies (CITSEG) that show gut microbiota's role in pathogen defense in both social and solitary bees.
+
+Looking at the possible classes, I need to figure out the rhetorical role of the citation. Since the authors are supporting their claim about the honey stomach bacteria by referencing studies that demonstrated similar findings in other bee species, this seems to fit the "Support" class. The cited works are presented as evidence that aligns with the authors' own findings, confirming the argument.
+
+Other classes like "Similar" might involve pointing out similarities, but here it's more about backing up the claim with evidence. "CoCoRes" or "CoCoGM" are about comparing results or methods, which isn't exactly the case here. "Basis" isn't applicable since the cited works aren't foundational to their research approach. "Usage" is about methods or tools used, which doesn't apply. "Neutral" is descriptive without argument, but here it's used to support the argument.
+
+So, the appropriate class is "Support".
+</think>
+
+Support

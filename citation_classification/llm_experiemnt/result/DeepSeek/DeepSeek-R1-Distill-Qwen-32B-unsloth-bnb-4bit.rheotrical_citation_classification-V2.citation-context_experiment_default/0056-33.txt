@@ -1,0 +1,23 @@
+Okay, I'm trying to figure out the correct rhetorical class for the given citation reference in the plant health domain. Let's read through the passage:
+
+"The experimental set-up was described in details previously (CITSEG)."
+
+The context here is that the authors are referring to another source where the experimental setup was already detailed. The citation is being used to indicate that the method or setup they're currently using was previously described somewhere else. This means they are pointing to a resource or tool (in this case, an experimental setup) that they utilized in their current study.
+
+Looking at the predefined classes:
+
+- **Basis**: Used when the cited work is foundational. Not exactly here since they're not building on it but just referencing it.
+- **CoCoGM/CoCoRes/CoCoXY**: These are for comparisons, which isn't the case here.
+- **CoCoRes**: Comparing results? No, they're just using a setup.
+- **Future**: For suggesting future directions. Not applicable.
+- **Motivation**: Justifying why research is done. They're not explaining their motivation.
+- **Neutral**: It's a neutral mention but in this case, it's more specific as it's about usage.
+- **Similar**: Pointing out similarity? Not exactly, they're referencing usage.
+- **Support**: If they were backing up a claim with this. But they’re not supporting a claim, just stating where they got the setup from.
+- **Usage**: Referring to a method, tool, etc., used in the current study. Yes, this fits because they're using someone else's experimental setup.
+- **Weakness**: Criticizing the cited work. They're not, so this doesn't apply.
+
+So, the correct class is **Usage** because they're referencing a tool or method used in their experiment.
+</think>
+
+Usage

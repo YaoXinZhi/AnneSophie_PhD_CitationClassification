@@ -1,0 +1,80 @@
+Okay, I need to classify the citation in the given passage. The task is to figure out which rhetorical class the (CITSEG) belongs to based on the context. Let me start by recalling the classes:
+
+- **Basis**: The cited work is the foundation of the current research, like a continuation or direct foundation.
+- **CoCoGM**: Comparing methods or goals between cited work and the current paper.
+- **CoCoRes**: Comparing results between the two.
+- **CoCoXY**: Comparing explanations or claims between two cited studies (not involving the current paper).
+- **Future**: Suggesting future research directions based on the citation.
+- **Motivation**: Justifying why the current research is being done, like filling a knowledge gap.
+- **Neutral**: Descriptive use without supporting or contrasting arguments.
+- **Similar**: Pointing out similarity in results, phenomena, etc.
+- **Support**: Using the citation to back up the authors' claims.
+- **Usage**: Mentioning a method, tool, dataset used from the cited work.
+- **Weakness**: Criticizing the cited work's flaws.
+
+Now the example passage given was: 
+
+"The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+Wait, actually, looking back at the user's message, the example for **CoCoRes** is this. The task here is to apply the same logic to another example. But in the user's prompt, the example given for **CoCoRes** is that exact sentence. The user is probably providing instructions. Wait, the user actually presented a prompt where they want me to perform this classification on a given citation passage. Wait the user's instruction is to be the classifier. The user is providing a sample of how the classification works with the CoCoRes example. But the actual input for me is a new passage. Wait, looking again:
+
+Wait, the user provided a "Prompt for citation classification" and the task is to perform the classification when given a new paragraph with (CITSEG). Wait, but in their message, the example given is part of the instructions. The user has a query here? Let me check again the user's exact input.
+
+Wait, the user's message is the full prompt. Let me re-examine:
+
+The user starts with "You are a classifier..." followed by the task, the classes, examples, output format, etc. They want me to process this and when given a new input (probably a new passage with CITSEG placeholder), to classify it. Wait but in the current problem, the user's input is the full prompt, so perhaps in their actual question, they might have provided a specific citation passage, but in my current context, the user hasn't given an example beyond the instructions. Wait the way the message is structured might be that the user is asking me to process a specific problem. Let me read again.
+
+Wait the user's message is structured as: 
+
+"User's message" shows the task, then the user's message includes the prompt for citation classification, with all the details. The user wants me to act as the classifier when provided with a specific passage that includes (CITSEG). But perhaps the user's actual input here is just the task setup, and the actual test case would be another example. Wait, perhaps I need to look again.
+
+Wait the user says "Please strictly follow this format. Do not provide any explanations... before providing the final JSON output, include your step-by-step reasoning."
+
+Wait but in the current message, the user is providing instructions for me to act as this classifier, but perhaps the actual query they want me to answer is part of the problem here. Wait, perhaps there's confusion here. Let me re-examine.
+
+Wait, looking at the current problem, the user might have provided a citation passage and wants the classification. Wait, perhaps the initial description here is the user's input, and the problem is to process the example given in the user's message. Wait, no, in the current setup, perhaps the user is providing the example as part of the instructions, but the actual test case is in their message. Let me check again.
+
+Ah, actually the user's message is the full problem. Let me parse:
+
+The user says: "Prompt for citation classification" and then gives the task. They probably expect that after this setup, the next step is a test instance where a passage with (CITSEG) is provided, but in my case, perhaps the user included such a passage in their question, but maybe I didn't see it. Wait the initial instruction says "Please strictly follow this format. Do not provide any explanations, additional comments, or other text beyond the reasoning and the final JSON." 
+
+Wait maybe I missed that the actual passage to classify is within the user's message. Let me see again.
+
+Looking at the user's input again:
+
+The user's message starts with the task description, lists the classes with examples, then output format, etc. But where is the citation passage that needs to be classified?
+
+Wait, perhaps the user's actual query is the problem presented in the initial description, and the example given (about the CoCoRes) is part of the instructions. Wait that can't be, because in this case, the problem is incomplete. Wait perhaps the user made a mistake in formatting? Wait maybe I need to check again.
+
+Wait in the user's message, after the task description and classes, they end with "Output Format: Return a single label..." and then "Please strictly follow this format. Do not provide any explanations, additional comments, or other text beyond the reasoning and the final JSON."
+
+Wait, the user must have included the actual passage in their message but perhaps it's not shown in my current view. Wait looking back at the user's initial message, in the first line says "You are a classifier...", then "The task is: you are a classifier...", followed by classes. Wait maybe the actual example to classify is included in their message. Let me check again.
+
+Wait in the user's message, the "example" for CoCoRes is given as: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." So that's an example, but the user wants me to process a different passage. Wait but perhaps in this case, the user is expecting me to take that example (the CoCoRes one) and process it to get the correct label, but that's not the case here. Alternatively, maybe there's confusion, and the user is actually providing a test case where the passage is:
+
+"The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+And wants the rhetorical class of CoCoRes here? But that's the example given in the user's own description, so the label would obviously be CoCoRes, but that's just an example. Wait perhaps the problem here is different. Maybe there's an error in the user's message, but given the current input, perhaps the user has provided the task and expects that I, as the assistant, will, when a specific instance is provided, do the job. But in this case, perhaps the actual input given to me (by the user) for classification is missing? Or maybe the user is giving me a test instance where the passage is the example from CoCoRes, testing if I can classify it correctly. 
+
+Alternatively, perhaps the user is presenting this as a scenario where the assistant must go through the thought process to classify a citation in a given example, but the example is the one provided in the problem. Wait, perhaps the actual task the user is presenting me with is to process their entire message and classify their own example, but that might not be the case. 
+
+Alternatively, perhaps there's a mistake here, and I need to proceed under that the user provided an example (the CoCoRes one) and wants my classification. 
+
+Assuming that the test instance is the CoCoRes example given in the user's message ("The results... (CITSEG)"):
+
+In that example, the key sentence is comparing the current work's results with the cited study's results. "The results obtained here differ from..." which is directly comparing results. So the correct label should be CoCoRes.
+
+Thus, following the instructions, I should first walk through my reasoning, then provide the JSON.
+
+Wait the user says "before providing the final JSON output, include your step-by-step reasoning". So first, the thought process, then the JSON.
+
+But the user might expect me to handle a different example. Wait perhaps the actual problem presented here by the user is the example they provided in the CoCoRes explanation. Since they are instructing how to do this, perhaps the user wants me to show the steps and then the output for that example, to confirm it's correct. The example's own label is already CoCoRes, so the output would be "CoCoRes".
+
+But given the user's message, the task is to process a citation in a passage and assign the class, but perhaps in this scenario, the example given (the CoCoRes one) is the input. 
+
+Alternatively, maybe the user is testing me by providing the example and I need to process it, but I need to make sure. Let me try to proceed under the assumption that the example given (about deuterium and the CITSEG) is the passage to classify. So, in that case, here's the reasoning steps:
+
+The citation is in a sentence that says the current results differ from those of the cited study. The key phrasing is "the results obtained... substantially differ from the results of the experiments conducted..." which directly compares the two sets of results. The presence of "differ from" and the mention of the cited results indicates that this is a direct comparison of the outcomes, which matches the CoCoRes class definition, which is for comparing results or findings between the current paper and the cited one. None of the other classes fit better here because it's not about methods (CoCoGM), nor does it mention motivation, supporting, or usage. The comparison is explicit between results. Hence the correct class is CoCoRes.
+</think>
+
+CoCoRes

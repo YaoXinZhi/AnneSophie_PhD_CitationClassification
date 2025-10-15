@@ -1,0 +1,9 @@
+<think>
+Okay, let's try to figure out the correct class for the given citation in the example passage. The task is to determine the rhetorical role of the CITSEG reference.
+
+Looking at the example for the "Support" class: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample..." Here, the citation is used to support the consistency of the subscales mentioned in the current research. The authors are pointing out that their findings align with previous work, so CITSEG serves as evidence reinforcing their claim.
+
+Now, applying that to the current example: "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks... (CITSEG)." The CITSEG here is providing support for the authors' findings. They're stating that their observation is backed up by another study, so the role is similar to the Support example. Therefore, the correct class should be Support.
+</think>
+
+Support

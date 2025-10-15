@@ -1,0 +1,9 @@
+<think>
+Okay, let's look at the passage provided. The sentence is "The experimental set-up was described in details previously (CITSEG)." So the citation here is referring to a previous work where the experimental setup was detailed.
+
+Now, checking the rhetorical classes. The Usage class is for when the citation refers to a method, tool, dataset, or experimental setup used directly in the current study. This example matches exactly because the authors are saying they used the experimental setup described in the cited work.
+
+So the correct label here should be Usage.
+</think>
+
+Usage

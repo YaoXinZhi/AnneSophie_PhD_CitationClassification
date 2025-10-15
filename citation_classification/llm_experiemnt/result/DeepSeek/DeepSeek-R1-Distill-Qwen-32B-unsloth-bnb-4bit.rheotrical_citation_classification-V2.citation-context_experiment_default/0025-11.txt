@@ -1,0 +1,10 @@
+Alright, I need to determine the rhetorical class for the citation in the given passage. The passage is: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes." 
+
+First, the structure of the sentence tells me that the cited work established the IAT and validated it. The author mentions that they started by replicating these results. The key here is that the current research is building upon the cited work's findings. The cited paper provided the foundation for the current study's approach.
+
+Looking at the predefined classes, "Basis" refers to when the cited work is the intellectual foundation of the current research. The current study replicates the cited results, which means it's using the cited work as a starting point or building block. The passage doesn't compare methods or results, nor does it suggest future research or mention weaknesses. It's directly using the cited work as a base for their own study.
+
+Therefore, the most appropriate class is "Basis" because the citation is establishing the groundwork that the current research is building upon.
+</think>
+
+Basis

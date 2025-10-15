@@ -1,0 +1,10 @@
+Okay, so I need to determine the rhetorical class of the citation in the given passage. The passage is: "In recent studies, researchers have identified several key factors influencing plant disease resistance (CITSEG). These findings provide a foundation for our current investigation into the genetic basis of resistance mechanisms."
+
+The citation is referring to prior studies that identified key factors in plant disease resistance. The citing paper then uses these findings as the foundation for their current work. This sounds like the cited work is providing the intellectual basis for the new research. It's directly contributing to their study by laying the groundwork.
+
+So looking at the classes, Basis seems appropriate. Other classes like Usage or Support might involve using something from the cited work, but here it's more foundational. The cited studies are setting the stage for the new research, not just supporting a specific claim or being used in a method. Therefore, the class should be Basis.
+</think>
+
+The citation is used to establish the foundation for the current research by referencing prior studies that identified key factors influencing plant disease resistance. The cited work provides the basis for the new investigation.
+
+Basis

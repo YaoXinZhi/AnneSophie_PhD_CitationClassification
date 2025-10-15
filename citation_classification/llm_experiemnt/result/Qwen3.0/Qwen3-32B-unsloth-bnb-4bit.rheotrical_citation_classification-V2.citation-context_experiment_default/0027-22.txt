@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this query classification. The task is to assign the citation in the given passage to the correct rhetorical class from the provided list. I need to read the passage carefully and determine which class fits best.
+
+First, looking at the example provided by the user, they mention a passage that talks about previous research identifying a knowledge gap regarding the mechanism of magnetic treatment's beneficial influence. The citation here is used to justify why the current research is being conducted. The example given for the "Motivation" class uses a similar structure, where the cited work identifies a need or gap that motivates the current study.
+
+In the given query, the passage states that previous research showed an effect (prevention of calcite scale formation with a magnetic field) but notes that the explanation is not yet offered, which directly leads to the purpose of the current work being to understand the mechanism. This matches the "Motivation" class definition, as the citation is used to justify the current research by highlighting an existing knowledge gap.
+
+I should check other classes just to be sure. "Basis" would apply if the cited work was foundational for the current solution, but here it's more about justifying the need. "Support" would be if the citation was reinforcing a claim, but here it's setting up the reason for the study. So "Motivation" is the correct choice.
+</think>
+
+Motivation

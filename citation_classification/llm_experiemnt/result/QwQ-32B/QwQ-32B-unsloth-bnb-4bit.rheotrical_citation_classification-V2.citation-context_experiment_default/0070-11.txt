@@ -1,0 +1,10 @@
+Okay, let me try to figure this out. The task is to classify the rhetorical class of a citation in a scientific article's passage. The user provided an example where the citation is in the context of the authors explaining that their previous work showed something but didn't explain the mechanism, so now they're trying to understand it. The example given under the "Motivation" class is exactly like that. The question here is about a passage where the citation is used to justify why the current research is being done, pointing out a knowledge gap.
+
+So the user's example for Motivation is: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+In the given problem, the sample they want me to classify would be similar. Let me check the options again. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The key here is that the citation is referring to previous work that showed a result but didn't explain why, so the current paper is motivated by filling that gap. That fits "Motivation" because it's justifying why the current research is needed. The citation isn't supporting their own findings yet, but explaining the gap they're addressing. So the correct class is Motivation.
+</think>
+
+Motivation

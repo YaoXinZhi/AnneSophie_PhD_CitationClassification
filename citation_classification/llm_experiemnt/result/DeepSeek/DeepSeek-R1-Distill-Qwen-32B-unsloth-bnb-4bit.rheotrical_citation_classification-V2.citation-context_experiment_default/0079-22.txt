@@ -1,0 +1,25 @@
+Alright, I'm trying to figure out the right rhetorical class for this citation. Let me read the passage again. 
+
+The passage says, "Our finding that insect hosts affect bacterial community assembly is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Hmm, the authors are discussing their findings about insect hosts influencing bacterial communities. They then mention that this finding is supported by another study. So they're using the cited work to back up their own results. 
+
+Looking at the classes:
+
+- **Support**: When the citation is used to back up or confirm the authors' claims. That fits because the cited work supports their findings.
+- **CoCoRes**: Comparing results between studies. Here, both studies show similar findings, but the focus is on support, not a direct comparison.
+- **Similar**: Pointing out similarity in results. It could fit, but since the authors are explicitly saying it's supporting, Support might be better.
+- Others like Motivation, Future, etc., don't apply here.
+
+The key is that the cited work is presented as evidence confirming their own results. So, the most appropriate class is **Support**.
+</think>
+
+The citation is used to support the authors' claim, aligning with the findings of the cited work.
+
+support
+
+```json
+{
+  "label": "Support"
+}
+```

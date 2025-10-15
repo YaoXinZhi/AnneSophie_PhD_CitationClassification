@@ -1,0 +1,12 @@
+Okay, so I need to figure out the rhetorical class for the given citation (CITSEG). The passage is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Let me break this down. The authors are talking about their finding regarding insect hosts and bacterial community assembly. They mention that this finding is supported by recent cross-taxon investigations. Then, they provide more information about fleas and ticks, stating that the arthropod host governed bacterial assemblages, unlike rodent hosts and environmental conditions.
+
+Looking at the function of (CITSEG) here, the citation is used to back up their own finding. They are showing that their result aligns with other studies, thus reinforcing their claim. The class "Support" is for when the citation is used to support or confirm the authors' own findings or arguments. 
+
+I don't think it's "CoCoRes" because they aren't comparing their results directly with another study's results; instead, they're showing that other studies support their findings. Also, it's not "Similar" because they aren't pointing out a similarity but rather using the citation as evidence.
+
+So, the correct class is "Support".
+</think>
+
+Support

@@ -1,0 +1,12 @@
+<think>
+Okay, I need to classify the citation in this sentence. Let me read the passage again carefully. The sentence is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+The class here seems to be about comparing results. The key phrase is "substantially differ from the results of..." which directly contrasts the current study's findings with those in the cited work. Looking at the classes, CoCoRes is for comparing results. The example given in the CoCoRes class also uses a similar structure where results are compared. So this should be CoCoRes.
+</think>
+
+```json
+{
+  "reference": "(CITSEG)",
+  "class": "CoCoRes"
+}
+```

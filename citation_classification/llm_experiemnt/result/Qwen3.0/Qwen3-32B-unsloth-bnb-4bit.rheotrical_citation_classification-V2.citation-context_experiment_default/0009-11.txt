@@ -1,0 +1,9 @@
+<think>
+Okay, let's tackle this citation classification task. First, I need to read the example passage carefully to understand the context in which the citation is used.
+
+The passage says: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Hmm, the key phrase here is "differ from the results of the experiments..." So the authors are comparing their results with those from another study. Looking at the rhetorical classes, CoCoRes is for comparing or contrasting results. The example given under CoCoRes mentions comparing results directly, which matches this scenario. The citation here is used to highlight a difference in findings between the current work and the cited study. There's no mention of methods or goals, just the results. Therefore, the correct class should be CoCoRes.
+</think>
+
+CoCoRes

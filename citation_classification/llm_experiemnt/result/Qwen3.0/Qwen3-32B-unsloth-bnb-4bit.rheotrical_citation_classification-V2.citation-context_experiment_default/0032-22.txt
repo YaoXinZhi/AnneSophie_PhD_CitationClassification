@@ -1,0 +1,9 @@
+<think>
+Okay, let's see. The user wants me to classify the citation passage into one of the rhetorical classes. The example given is about comparing explanations or claims between two studies.
+
+The example provided mentions a review of literature being confusing due to contradictory results reported by different studies, like [REF1-REF12]. The key here is that they're comparing explanations from different cited works rather than the citing paper itself. The class CoCoXY is for comparing two cited studies with each other, not the current paper. 
+
+In the passage provided by the user, they have a sentence stating that the literature review is confusing due to contradictory results from the cited works. That fits the CoCoXY example because the comparison is between the cited studies, not between the citing paper and the cited works. So the correct label here should be CoCoXY.
+</think>
+
+CoCoXY

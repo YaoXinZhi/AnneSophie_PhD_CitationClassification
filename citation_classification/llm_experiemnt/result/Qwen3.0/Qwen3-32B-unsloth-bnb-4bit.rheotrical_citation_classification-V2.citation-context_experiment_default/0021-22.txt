@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this query. The user provided a scientific citation passage and wants me to classify the rhetorical role of the citation using the given classes. First, I need to understand the context around the CITSEG placeholder.
+
+Looking at the example passage: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." The key here is the phrase "substantially differ," which indicates a comparison between the current study's results and those of the cited work. 
+
+Now, checking the rhetorical classes. The CoCoRes class is for comparing or contrasting results or findings. The example given under CoCoRes matches this scenario where results are directly compared. Since the passage is talking about differing results from the cited study, this fits CoCoRes. 
+
+I should make sure it's not another class like Basis or Support. Basis would be if the cited work is the foundation, but here it's a comparison. Support would be if the citation is backing up a claim, but here it's contrasting. So CoCoRes is the right choice.
+</think>
+
+{"label": "CoCoRes"}

@@ -1,0 +1,16 @@
+Okay, I need to figure out the rhetorical class for the citation in this passage. The user provided an example where the task is to classify (CITSEG) based on how it's used in the text. Let me start by recalling the classes and their definitions.
+
+The passage given is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Looking at the example for the 'Similar' class, the example mentions pointing out a similarity between the cited work and the current paper's findings. The example given there is exactly like this scenario: the current study found that insect hosts influence bacterial communities, and the citation refers to similar findings in fleas and ticks where the host governs bacteria. The key here is that both the current paper and the cited work show that hosts are influential factors in bacterial assembly. 
+
+The sentence structure here says "is supported by recent investigations" which initially might make me think 'Support'. But the example provided for 'Similar' specifically mentions similarity in results between the current study and the cited work. The wording in the example for 'Similar' is: "Our finding... is supported by... investigations... In fleas and ticks... (CITSEG)" which matches exactly the structure of the user's example here. Wait, actually looking at the example for 'Similar', the example text is exactly that scenario. So the correct class here should be 'Similar' because it's pointing out that the current finding aligns with the cited work's results, showing a similarity in their findings. 
+
+Wait, but the 'Support' class is when the citation supports the authors' own findings. In the 'Support' example given: "Previous research particularly that of (CITSEG) using a U.S. sample; as before, participants did not distinguish between personal interests..." Here, the citation supports the authors' claim. 
+
+So the line between 'Support' and 'Similar' can be a bit blurry here. The key difference is that 'Similar' is when the cited work and the current work have similar findings, while 'Support' is when the cited work's findings back up the current authors' claims. In the user's example, the current work's finding is supported by the cited work, so does that make it 'Support'? But the example given for 'Similar' is structured the same way. Wait, looking back at the 'Similar' example provided: "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations... In fleas and ticks, the arthropod host governed bacterial assemblages... (CITSEG)." The rhetorical class for that example is 'Similar'. 
+
+Ah, the user's example uses exactly the same wording as their own 'Similar' example. Therefore, according to their example, this should be classified as 'Similar'. Therefore the correct class here is 'Similar'.
+</think>
+
+Similar

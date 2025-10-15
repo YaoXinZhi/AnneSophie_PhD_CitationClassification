@@ -1,0 +1,16 @@
+Alright, I need to classify the given citation passage based on the rhetorical class it belongs to. Let me read through the passage carefully. 
+
+The passage mentions "Our finding... is supported by recent cross-taxon investigations..." and the citation is provided. The context suggests that the cited work supports their findings, aligning with their results. This indicates that the citation is used to back up their claim, making it a 'Support' class.
+
+Now, I'll structure my output as per the instructions.
+</think>
+
+Support
+
+The citation is used to support the authors' findings by referencing similar results from another study, which aligns with their observations.
+
+```json
+{
+  "label": "Support"
+}
+```

@@ -1,0 +1,20 @@
+Okay, so I need to determine the rhetorical class for the citation in the given plant health domain passage. Let me read the passage again: 
+
+"Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Hmm, the authors are talking about their findings regarding insect hosts affecting bacterial communities. They mention that their finding is supported by recent cross-taxon investigations. The citation is in the context of supporting their own results, pointing to another study that found similar patterns in fleas and ticks. 
+
+Looking at the rhetorical classes, "Support" is when the citation is used to reinforce a claim or finding. The authors are using the cited work as evidence that their own results are correct. 
+
+I don't think it's "CoCoRes" because they are not directly comparing results from their study with the cited one; rather, they're aligning their findings with the cited work's findings. It's more about supporting their own conclusion. 
+
+So, the correct class must be "Support."
+</think>
+
+The citation is used to support the authors' findings by referencing another study that aligns with their results.
+
+```json
+{
+  "rhetorical_class": "Support"
+}
+```

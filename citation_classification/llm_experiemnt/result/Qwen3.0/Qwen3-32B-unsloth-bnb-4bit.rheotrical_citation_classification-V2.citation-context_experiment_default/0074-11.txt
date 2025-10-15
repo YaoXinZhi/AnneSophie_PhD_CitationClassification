@@ -1,0 +1,13 @@
+<think>
+Okay, let's start by reading the citation passage to figure out the context.
+
+The citation is in the sentence: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+First, the authors mention their findings and then say it's "supported by recent cross-taxon investigations," followed by the CITSEG. The CITSEG is providing an example of another study that supports their finding. So the purpose here is to back up their claim with existing research, making this a "Support" classification. 
+
+Let me cross-check the Support example given in the guidelines. The example states a claim and then refers to a citation that supports it ("as before, participants did not distinguish..."). Here, the citation is used similarly to corroborate their own findings. 
+
+CoCoRes or Similar might be confused here, but those involve comparing results directly or pointing out similarities, not just supporting a general claim. The CITSEG here isn't contrasting their results but reinforcing their point with existing evidence. Therefore, Support is the correct label.
+</think>
+
+Support

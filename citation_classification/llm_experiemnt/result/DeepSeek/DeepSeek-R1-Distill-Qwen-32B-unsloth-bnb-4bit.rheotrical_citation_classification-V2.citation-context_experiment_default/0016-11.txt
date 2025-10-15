@@ -1,0 +1,19 @@
+Okay, so I'm trying to figure out the rhetorical class for this citation. The user provided an example where the citation is used to suggest future research directions. The passage says something like "a small aphid gut binding peptide was shown to interfere... suggesting potential broader applicability." 
+
+First, I need to understand the context. The sentence is talking about a study where a peptide interferes with virus uptake in aphids. The authors mention that this peptide also binds to other aphid species, which suggests that it might have wider applications. 
+
+Now, looking at the predefined classes, there's "Future" which is used when a citation points towards future research directions. The example given aligns well with this because the study's findings imply possibilities beyond what was tested, pointing to potential future studies. 
+
+I'm comparing this to other classes. "Support" is when the citation confirms a point, but here it's more about suggesting where further research could go. "CoCoRes" is about comparing results, but that's not the case here. "Motivation" is about justifying why the research is done, which doesn't fit because this is about future implications, not the reason behind the current study. 
+
+So, the citation is used to imply that there's more to explore, directing future research. Thus, the appropriate class is "Future."
+</think>
+
+Future
+
+The citation suggests broader applicability of the findings, pointing towards future research directions.
+
+JSON Output:
+{
+  "class": "Future"
+}

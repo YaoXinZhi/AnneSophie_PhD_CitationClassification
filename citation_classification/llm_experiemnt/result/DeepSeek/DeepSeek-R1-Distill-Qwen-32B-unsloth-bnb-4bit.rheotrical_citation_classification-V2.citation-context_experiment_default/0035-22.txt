@@ -1,0 +1,8 @@
+Alright, I need to classify the citation in the provided passage. The passage is talking about a study where the authors used a magnetic field to prevent scale formation in hard water and that this mechanism isn't yet understood. They're doing this study to figure out why the magnetic treatment works.
+
+Looking at the classes, "Motivation" is when the citation justifies why the current research is being done, like identifying a knowledge gap. The example given for Motivation fits exactly because the citation points out that there's no explanation yet, motivating their current work.
+
+So, since the citation is used to explain why they're conducting their research, it should be classified under "Motivation."
+</think>
+
+Motivation

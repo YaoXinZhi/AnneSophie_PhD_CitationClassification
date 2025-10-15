@@ -1,0 +1,12 @@
+Okay, let's start by understanding the task. I need to classify a citation segment (CITSEG) in a scientific article passage into one of the predefined rhetorical classes. The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness.
+
+First, I'll look at the passage provided. The example given is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+I notice that the passage is stating that their finding is supported by another study. The citation is used to back up their own results, suggesting it aligns with their findings. So, this seems to be supporting their claim.
+
+Looking back at the classes, 'Support' is used when the citation reinforces or confirms the authors' own findings or arguments. In this case, the authors are using the cited work as evidence that their finding is correct, which fits the Support class.
+
+I don't think it's 'CoCoRes' because the passage isn't comparing their results directly with the cited work. Similarly, it's not 'Similar' because the focus is on supporting rather than pointing out a similarity. The passage doesn't discuss the cited work's weaknesses or contrast methods, so it's not 'CoCoGM' or 'Weakness'. It's explicitly about supporting their findings, so 'Support' is the correct classification.
+</think>
+
+Support

@@ -1,0 +1,30 @@
+Alright, I need to classify the rhetorical function of a citation in a given passage. Let's consider the example provided:
+
+"...the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Looking at the predefined classes:
+
+1. **Basis**: The cited work is the foundation of the current research. Doesn't seem to fit here since the citation isn't presented as foundational but rather as supporting broader applicability.
+
+2. **CoCoGM**: Comparing goals or methods. The citation isn't comparing methods or goals; it's supporting a claim about applicability.
+
+3. **CoCoRes**: Comparing results. Again, the citation supports but doesn't compare results.
+
+4. **CoCoXY**: Comparing explanations between two studies. Not applicable here.
+
+5. **Future**: Suggesting future directions. The citation suggests broader applicability, which could imply future research, but it's more about supporting the current claim.
+
+6. **Motivation**: Justifying why the research is conducted. This doesn't fit since it's not explaining the need for the study.
+
+7. **Neutral**: A neutral mention. The citation is used to support a claim, not neutrally.
+
+8. **Similar**: Pointing out similarity. The citation supports the claim but doesn't state similarity.
+
+9. **Support**: The citation is used to support the claim about broader applicability, aligning with the authors' findings.
+
+10. **Usage**: Referring to a method or tool. Not applicable here.
+
+The most appropriate class is **Support** because the citation reinforces the claim about broader applicability.
+</think>
+
+Support

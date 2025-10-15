@@ -1,0 +1,12 @@
+Okay, so I'm trying to figure out the rhetorical class for a given citation in a scientific article. The task is to classify each citation based on the predefined classes like Basis, CoCoGM, CoCoRes, etc. Let me think through each step carefully.
+
+First, I need to understand what each class means. Basis is when the cited work is foundational to the current research, providing the groundwork. CoCoGM is when they're comparing or contrasting goals or methods with another study. CoCoRes is about comparing results. CoCoXY is when two cited studies are compared with each other, not necessarily with the current paper. Future implies suggesting directions for future research. Motivation is when the citation justifies why the current research is being done. Neutral is a descriptive use without any supporting or arguing. Similar points out a similarity in results or observations. Support is when the citation backs up a claim. Usage refers to using a method or dataset from the cited work. Weakness is when the citation is criticized or limitations are pointed out.
+
+Now, looking at the example provided: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to “debias” word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings."
+
+Here, the authors are discussing their work in relation to (CITSEG)'s study. They mention that their work is complementary because they're focusing on different aspects—debiasing vs. demonstrating biases. This is clearly a comparison of goals or methods because they're explaining how their approach differs from the cited work. They're highlighting the different objectives and how each contributes in their own way.
+
+So, the key indicators are "Most closely related" and "Our work is complementary" which show that they're comparing their goals and methods. Therefore, the appropriate rhetorical class here is CoCoGM (Comparison of Goals or Methods).
+</think>
+
+CoCoGM

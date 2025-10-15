@@ -1,0 +1,8 @@
+Okay, let me try to figure this out. The task is to classify the rhetorical class of a citation in a scientific passage. The user provided examples and a list of classes. The citation here is about plant health.
+
+First, the example given in the problem is about an aphid gut binding peptide study. The citation is mentioned in the context of suggesting broader applicability. The example under the "Future" class uses similar wording: "suggesting potential broader applicability (CITSEG)". The user's example for Future says it's when the citation is used to suggest future research directions. Here, the sentence mentions that the peptide also bound to other aphid species, implying this could be useful in other areas. The key words are "suggesting broader applicability", which point towards suggesting further research possibilities. 
+
+Looking at the classes again: Future is for when the citation implies directions for future research. The example provided in the problem for "Future" matches exactly with this scenario. Other classes like Support are for reinforcing findings, but here it's more about suggesting potential future applications rather than supporting existing results. The Weakness class is for criticism, which isn't the case here. Similarly, Similar is for pointing out similarities, but the mention of "potential broader applicability" leans towards future directions. So the correct class should be Future.
+</think>
+
+Future

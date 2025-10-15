@@ -1,0 +1,9 @@
+<think>
+Okay, let's start by reading the passage to understand the context where the citation is used. The sentence says, "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+So the authors are comparing their results to those from another study. The keyword here is "differ," which indicates they're contrasting their findings with the cited work. Looking at the rhetorical classes, CoCoRes is for comparing or contrasting results. The example given under CoCoRes is similar: comparing results of experiments.
+
+The citation here isn't just mentioning prior work for background (which would be Basis or Motivation) nor is it suggesting future work. It's directly stating that their results are substantially different from the cited ones. Therefore, the correct class should be CoCoRes.
+</think>
+
+CoCoRes

@@ -1,0 +1,9 @@
+<think>
+Okay, let's tackle this classification. First, I need to understand the given example passage. The user provided a citation example where the cited work introduced and validated the IAT by studying human biases. The citing paper says they replicated these results for the same purposes. 
+
+Looking at the classes, the Basis class is for when the cited work is the intellectual foundation or continuation. Since they mention replicating the results of the cited study as a foundation for their own work, this seems like Basis. They're building on that prior work.
+
+Alternatively, could it be Support? But Support is about reinforcing their own claims with the cited work. Here, they're saying they started by replicating the cited work's results, which suggests it's the basis for their study. So Basis fits better. The example under Basis mentions a similar situation where the prior work is the foundation. So I think Basis is the right class here.
+</think>
+
+Basis

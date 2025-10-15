@@ -1,0 +1,32 @@
+Okay, so I need to figure out the rhetorical class for the citation in this passage. Let me start by reading the example given. The task is to determine why the citation is mentioned here. The user provided a list of classes like Basis, CoCoGM, CoCoRes, etc.
+
+Looking at the example passage: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)." Wait, no, actually the example given under Motivation is: “Our previous research (CITSEG) has shown that... The explanation... is not yet offered and the purpose of this work is to try to understand...” So here, the citation is pointing out a gap in knowledge that the current work is addressing. That's the Motivation class because it's justifying why the research is being done by identifying a gap.
+
+The user's actual input here might be different, but in the problem statement, they want me to process a given citation passage. Wait, the user hasn't provided the specific citation passage they want classified here. Wait, in the current query, the user is providing the general prompt, but in the actual task, I would need the specific citation example to analyze. Hmm, but in the current setup, the user's input might be the example given in the problem? Wait, no—the user is asking me to generate the step-by-step for an example, perhaps the one in their prompt. Wait, the user’s message includes the task description and the example, and wants the classifier to process a citation passage, but in the current prompt, perhaps the example they provided is the input they want me to process? Let me check again.
+
+Ah, in the user's message, they wrote:
+
+"Please strictly follow this format. Do not provide any explanations, additional comments, or other text beyond the reasoning and the final JSON."
+
+Wait, maybe they are providing an example test case? Wait, let me re-read the user's exact input.
+
+Looking at the user's input again, it's a prompt for citation classification, listing all the classes and the task description, etc. But the actual task, perhaps the user is giving me an example, and wants me to process an example passage. Wait, maybe the user is giving a meta-example here, like the task description, but in reality, when using this classifier, the user would input a specific citation passage.
+
+However in this case, since the user's query is providing the setup, perhaps I need to process one of the examples provided in the task description as per the problem. Let me look at the example under Motivation:
+
+Example: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale [...] can be successfully prevented with the applied magnetic field. The explanation [...] is not yet offered and the purpose of this work is to try to understand [...]"
+
+The task is to assign the rhetorical class here, which according to the example, should be Motivation. So the correct label here would be "Motivation". 
+
+The reasoning steps here are: The citation refers to prior work that shows a result, but there's a gap (no explanation yet), and the current work's purpose is to address this. That matches the Motivation class definition which is used to justify the current research by identifying a knowledge gap.
+
+Another example, like the Support class example: "All subscales were consistent with previous research [...]; as before, participants did not distinguish..." Here, the citation supports the current findings, so the class is Support.
+
+But in the case of the Motivation example given, the citation points out a prior finding's limitation (no explanation) that the current work is addressing. Hence, the rhetorical class is Motivation.
+
+Therefore, if given the example passage from Motivation, the answer is "Motivation".
+</think>
+
+```json
+"Motivation"
+```

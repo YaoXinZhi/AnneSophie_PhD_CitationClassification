@@ -1,0 +1,14 @@
+Okay, I need to determine the rhetorical class for the citation in the given passage. The passage says, "To investigate the role of plant hormones in stress responses, we followed the methodological framework established by (CITSEG). Our approach builds upon their experimental design but incorporates additional variables to better understand the interactions under study." 
+
+First, I look at the context. The author mentions that they "followed the methodological framework" and "built upon their experimental design." This suggests that the cited work is serving as a foundation for their current research. 
+
+Next, I check the predefined classes. The "Basis" class is used when the cited work is the intellectual foundation, contributing directly to the new solution. In this case, the authors are using the cited method as a starting point, making it a foundation for their study. 
+
+Other classes like "Support" or "Usage" might seem relevant, but "Basis" fits better here because it's not just supporting a claim or using a method, but establishing a foundation upon which the current research is built. Therefore, the correct class is "Basis."
+</think>
+
+Basis
+
+```json
+"Basis"
+```

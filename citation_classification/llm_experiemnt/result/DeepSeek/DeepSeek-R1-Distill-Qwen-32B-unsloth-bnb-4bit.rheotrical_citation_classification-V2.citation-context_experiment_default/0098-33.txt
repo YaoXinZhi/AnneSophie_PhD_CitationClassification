@@ -1,0 +1,16 @@
+Okay, I need to classify the citation (CITSEG) in the provided passage into the correct rhetorical class. The passage says, "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field." 
+
+First, I'll read through the passage to understand the context. The current research is discussing their previous work on preventing calcite scale formation using a magnetic field. They mention that this previous study showed success, but they're now looking to understand the mechanism behind it.
+
+Looking at the rhetorical classes, I need to determine the role of the citation here. The phrase "Our previous research" suggests that the cited work is their own prior study. They used it to set the stage for their current investigation. 
+
+The citation is explaining why this current research is necessary—the previous work identified a phenomenon but didn't explain it. So, they're pointing out a knowledge gap which motivates their current study. 
+
+This aligns with the "Motivation" class because the citation justifies the need for the current research by highlighting an open question or gap. The previous work provides the impetus for the new study.
+
+I don't think it's "Basis" because they're not directly building on the methods or findings; they're using it to set the stage for their new investigation. It's more about justifying the research rather than forming the foundation. 
+
+So, the most appropriate class is "Motivation."
+</think>
+
+Motivation

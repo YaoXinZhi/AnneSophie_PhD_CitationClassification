@@ -1,0 +1,16 @@
+Okay, let's tackle this classification problem. The user provided a citation passage and wants me to determine the correct rhetorical class for the (CITSEG) placeholder. The task is to choose between classes like Basis, CoCoGM, CoCoRes, etc. 
+
+First, I need to read the example given. The passage says: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+Hmm, the key part here is that the citing authors are mentioning their previous work that demonstrated a result, but now they're pointing out that there's no explanation yet. The current study's purpose is to explore the mechanism. 
+
+Looking at the classes, the Motivation class is for when the citation is used to justify why the current research is being done, like identifying a knowledge gap. The example given under Motivation is almost identical to this scenario. The previous work shows a result, but there's a gap in understanding the mechanism, which motivates the current study. 
+
+Let me check other classes to be sure. Basis is when the cited work is foundational. But here, the current work is addressing a gap from their own previous study, so maybe it's both? But Basis is more about being the foundation for the new solution. The current work's motivation is due to the lack of explanation in the cited work. 
+
+Support? No, because they're not using the citation to support their findings but to explain why they're doing the research now. Future? That's for suggesting future directions, which isn't exactly this case. Weakness? They aren't criticizing the cited work, just saying it didn't explain the mechanism. 
+
+Therefore, Motivation is the correct class here.
+</think>
+
+Motivation

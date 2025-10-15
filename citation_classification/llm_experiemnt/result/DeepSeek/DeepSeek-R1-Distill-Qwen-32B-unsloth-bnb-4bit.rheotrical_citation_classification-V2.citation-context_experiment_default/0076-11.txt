@@ -1,0 +1,14 @@
+Okay, I'm trying to figure out how to classify the given citation passage. The task is to assign the correct rhetorical class to the citation marked as (CITSEG). Let me start by understanding the passage and the predefined classes.
+
+The passage is about plant health, and the sentence says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Looking at this, the citation is talking about a study that showed a peptide's effect on virus uptake and its binding to other aphid species. The sentence mentions that this suggests broader applicability, which hints at looking for future possibilities or directions based on this finding.
+
+Now, I need to check which rhetorical class this fits. The classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness.
+
+In this case, the citation is pointing out potential broader applicability, which suggests an implication for future research. The sentence isn't comparing results or methods, nor is it directly supporting the current study's claims. Instead, it's indicating that the finding could lead to further studies or applications down the line. 
+
+So, the most appropriate class here is "Future," as the citation is used to imply directions for future research.
+</think>
+
+Future

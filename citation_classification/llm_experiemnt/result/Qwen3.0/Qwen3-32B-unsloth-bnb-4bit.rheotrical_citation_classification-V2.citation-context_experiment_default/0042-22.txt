@@ -1,0 +1,13 @@
+<think>
+Okay, let me check the given passage to figure out the rhetorical class for the citation. The task is to look at the context where (CITSEG) is used and decide which category fits best from the predefined list.
+
+The example provided for the task is a citation classified under "Support," where the authors mention consistency with previous research. The instruction example says when the citation is used to support a claim or confirm results.
+
+Looking at the current passage: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
+
+In this sentence, the authors are stating that their findings are consistent with previous research, specifically citing CITSEG. They are using the cited work to back up their own results, showing agreement. This aligns with the "Support" class definition, which mentions using a citation to support, confirm, or reinforce a claim. The cited work's findings align with the authors' own findings, so it's a clear case of Support. 
+
+None of the other classes like Basis or Comparison seem to fit because there's no mention of building upon the previous work (Basis requires continuation of prior work), no comparison of results or methods between the studies here. The example in Support matches the structure of the given passage where consistency and agreement are highlighted with previous research.
+</think>
+
+Support

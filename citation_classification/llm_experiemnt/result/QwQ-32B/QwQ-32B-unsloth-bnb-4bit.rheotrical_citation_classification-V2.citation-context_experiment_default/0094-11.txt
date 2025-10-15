@@ -1,0 +1,14 @@
+Okay, I need to classify the rhetorical class of the citation in the given example. Let me start by reading the example carefully.
+
+The example provided is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+So the sentence is comparing the results of the current work with those of the cited work. The key phrase here is "substantially differ from the results," which indicates a direct comparison of the findings. 
+
+Looking at the classes, CoCoRes is for comparing results. Let me check the definitions again. 
+
+CoCoRes is when the citation is used to directly compare or contrast the results or findings of the cited work with those of the citing paper. That fits here because the sentence is contrasting their current results with the cited experiments' results. 
+
+The other classes: CoCoGM is about goals or methods, which isn't the case here. Support would be if the citation was backing up their results, but here it's a contrast. Basis is if it's foundational, but the sentence is about differences. So CoCoRes is the right choice.
+</think>
+
+CoCoRes

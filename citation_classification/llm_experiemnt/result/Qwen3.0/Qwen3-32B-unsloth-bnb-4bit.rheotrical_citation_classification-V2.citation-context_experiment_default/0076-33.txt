@@ -1,0 +1,13 @@
+<think>
+Okay, let me try to work through this. The user wants me to classify a citation based on a given example text. The example they provided is: "To confirm the specificity of the primers developed, PCR experiments were conducted using templates containing the entire T-DNA of Agrobacterium strains harboring single insertion mutations of the virB locus (CITSEG)." 
+
+Hmm, looking at the classes again. The task is to see which rhetorical function the citation is serving. Let's break down the example. The authors are doing PCR experiments with templates from a previous study's T-DNA. The purpose here is to confirm the primers' specificity.
+
+The rhetorical classes include Support, Basis, Usage, etc. The Support class is when the citation backs up a claim, result, or interpretation. Basis is when it's the foundation for the new research. Usage is if they're using a method or dataset from the cited work. 
+
+In this case, the citation refers to the templates used in their experiments, which were part of the T-DNA from Agrobacterium strains in the previous study. So the authors are using the templates created in CITSEG's work for their own primer tests. That sounds like Usage because they directly used the experimental setup or templates from CITSEG. However, maybe they're also supporting their method's validity by referencing a previous study's method? Wait, the example for the Usage class includes an experimental setup. The example given in Usage was "The experimental set-up was described in details previously (CITSEG)." So in this case, CITSEG described the templates, which are part of their experimental setup. Therefore, the authors are using the setup (templates) from CITSEG in their own experiments. So that would fall under Usage. 
+
+But wait, the Support class is when the citation is used to support a claim. Here, the citation is used as the source of the templates. So they are using CITSEG's templates to conduct their experiments, which is part of their methodology. So I think this is Usage.
+</think>
+
+{"label": "Usage"}

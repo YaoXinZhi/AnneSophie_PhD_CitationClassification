@@ -1,0 +1,17 @@
+<think>
+Okay, let's see. I need to classify how the citation is used in the given passage. The passage mentions, "Recent research has shown that certain plant pathogens can develop resistance to commonly used pesticides, highlighting the urgent need for alternative control strategies (CITSEG)." 
+
+First, I should look at the examples provided for each rhetorical class. The user wants the most accurate label from the given list. 
+
+The sentence here is explaining that recent research (the citation) shows pathogens developing resistance, which leads to the need for alternative strategies. This seems like it's pointing out a problem or a gap that justifies why the current research is necessary. 
+
+Looking at the Motivation class example: the citation is used to identify a knowledge gap or need. The example given was about previous research showing a phenomenon and the citing paper aiming to address it. 
+
+In this case, the citation supports the motivation for the current study by highlighting the urgent need. So the rhetorical class would likely be Motivation. 
+
+I should check other possibilities. Is it Support? No, because the citation is not supporting a claim made by the authors but rather setting up the need for their work. It's not a Basis either since it's not the foundation of their research but rather a reason for it. 
+
+Yes, Motivation fits best here.
+</think>
+
+Motivation

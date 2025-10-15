@@ -1,0 +1,16 @@
+Alright, I need to classify the citation in the given passage into the appropriate rhetorical class. Let me read the passage carefully.
+
+The passage starts by mentioning a study about using machine learning for predicting plant diseases and its application in precision agriculture. The authors then refer to their previous work, specifically a study conducted three years ago, which evaluated the effectiveness of various ML algorithms for disease prediction.
+
+Looking at the example given, the citation is about their own prior research. The context is to justify the current study's motivation. They're pointing out that their new work builds on previous findings, indicating a continuation of their prior work to address the same problem with an improved approach.
+
+The rhetorical class 'Basis' seems appropriate here because the cited work is the foundation for the current research. It's directly contributing to the new solution by setting the stage for their current study.
+
+Another possible class is 'Support', but I think 'Basis' is better because the cited work isn't just supporting a claim but is the foundational research upon which the current work is built.
+
+So, the classification should be 'Basis'.
+</think>
+
+```json
+"Basis"
+```

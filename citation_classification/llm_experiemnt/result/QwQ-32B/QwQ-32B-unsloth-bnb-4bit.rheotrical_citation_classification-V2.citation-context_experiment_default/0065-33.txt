@@ -1,0 +1,10 @@
+Okay, I need to figure out the right rhetorical class for the citation in the given example. Let me read through the task again carefully. The example is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+So, the sentence is comparing the current results with those from the cited work. The key phrase here is "substantially differ from the results of the experiments," which points to a direct comparison of the outcomes. 
+
+Looking at the classes, CoCoRes is for comparing results. The example given for CoCoRes is similar: "The results obtained... differ from... (CITSEG)." That matches exactly. 
+
+Let me check other classes to be sure. CoCoGM is about goals or methods, but here it's about results. Support would be if the citation backs the current findings, but here they're contrasting. Weakness is about criticizing, but the focus is on differing results, not flaws in the cited work. So CoCoRes is the right choice.
+</think>
+
+CoCoRes

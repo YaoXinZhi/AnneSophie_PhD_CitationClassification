@@ -1,0 +1,18 @@
+Okay, so I need to classify the citation (CITSEG) in the given passage into one of the predefined rhetorical classes. The passage is about plant health and mentions that the cited work identified over 600 genes involved in the response of Arabidopsis to pathogen attack. The current study focuses on these same genes in apple trees.
+
+First, let's understand the context. The current study is looking at the same set of genes in apple trees as previously studied in Arabidopsis. The use of "same set of genes" suggests that the cited work provides a foundation or basis for their research.
+
+Looking at the rhetorical classes:
+- Basis: when the cited work is the foundation, contributing directly to the new solution or as a continuation.
+- Similar: when pointing out similarity in results or observations.
+- Support: when the citation supports the current findings.
+- Usage: if they're using a method or dataset from the cited work.
+
+In this case, the cited work identified genes, and the current study is building upon that by looking at the same genes in a different organism. This seems more like a foundation or basis for their research rather than a comparison or support. They're not directly comparing results or using a method from the cited work; they're expanding the research area.
+
+So, the most appropriate class is Basis because the cited work provides the foundational identification of genes that this study is now examining in a new context.
+</think>
+
+```json
+"Basis"
+```

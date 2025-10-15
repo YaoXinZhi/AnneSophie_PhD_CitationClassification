@@ -1,0 +1,16 @@
+Okay, so I need to classify a citation in a scientific article passage into one of the rhetorical classes provided. Let me start by looking at the example given in the prompt. The example is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+First, I'll try to understand the context here. The authors are discussing their findings about insect hosts affecting bacterial community assembly. They mention that their finding is supported by recent cross-taxon investigations. Then they refer to a study with fleas and ticks where the host governed bacterial assemblages. 
+
+Now, looking at the rhetorical classes, the possible options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. 
+
+I think the key here is that the authors are using the cited work to back up their own findings. They mention that their finding is "supported by" recent investigations, which suggests that the cited work provides evidence that reinforces their results. 
+
+Let me check the definition of the Support class. It says the citation is used to support, confirm, or reinforce a claim made by the authors. The example given is someone using previous research to back up their findings. That matches with the passage here.
+
+So the authors are saying their finding is supported by another study, which means they're using that citation to provide evidence for their claim. They’re not comparing methods or results with their own, but rather aligning with another study's findings.
+
+Therefore, the rhetorical class for this citation should be Support.
+</think>
+
+Support

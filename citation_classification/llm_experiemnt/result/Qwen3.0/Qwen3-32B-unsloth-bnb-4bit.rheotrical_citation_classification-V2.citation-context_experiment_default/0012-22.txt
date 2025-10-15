@@ -1,0 +1,11 @@
+<think>
+Okay, let's see. I need to classify the citation in the given passage according to the specified rhetorical classes. First, I'll read the passage carefully to understand the context around the CITSEG placeholder.
+
+The passage says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm, the key here is the phrase "suggesting potential broader applicability" which comes right after the citation. The word "similarly" at the beginning might indicate that the current research is building on or pointing towards future possibilities based on the cited work. The authors mention that the peptide's binding in other species suggests broader applicability. This seems like they're indicating that there's more to explore here, possibly implying that future research could look into those broader applications. 
+
+Looking at the classes, the "Future" class is used when the citation suggests directions for future research. The citation here is highlighting a finding that opens up new avenues, hence serving as a basis for suggesting future work. So "Future" seems appropriate. Let me cross-check with the examples given for Future. The example mentions a study showing a phenomenon suggesting broader applicability, which aligns with the classification here. Alright, I think the correct class here is Future.
+</think>
+
+Future

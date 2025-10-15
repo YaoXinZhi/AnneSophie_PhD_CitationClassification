@@ -1,0 +1,10 @@
+Okay, so I'm trying to figure out the rhetorical class for the citation in this passage. The example given is about a study where aphid guts were used to interfere with virus uptake, and the peptide binds to other species. The sentence structure is pointing towards suggesting that this finding could lead to broader applications, implying future research directions. 
+
+Looking at the predefined classes, I need to see which one fits best. "Future" is when the citation suggests directions for future research. In this case, the mention of "broader applicability" hints at potential future studies, so that seems relevant. 
+
+I also consider other classes. It's not "Basis" because it's not foundational to their current research. "Motivation" isn't it because they aren't identifying a knowledge gap but rather suggesting future possibilities. "Support" or "Usage" don't fit because it's not about confirming their results or using a method. 
+
+Therefore, the most appropriate class seems to be "Future" as it points towards potential future applications of the study.
+</think>
+
+Future

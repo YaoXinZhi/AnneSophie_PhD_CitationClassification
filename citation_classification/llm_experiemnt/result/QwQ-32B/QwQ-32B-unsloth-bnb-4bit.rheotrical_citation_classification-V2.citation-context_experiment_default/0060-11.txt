@@ -1,0 +1,20 @@
+Okay, let's tackle this classification. The user provided a scientific passage with a citation placeholder (CITSEG) and wants me to determine the rhetorical class based on predefined categories. The example given is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+First, I need to read through the example carefully. The sentence starts with "Similarly," which might indicate a comparison or pointing out a similarity. The main point here is that the cited work showed a peptide interfering with virus uptake and binding in other species, suggesting broader applicability. 
+
+Looking at the classes, the "Future" class is for when the citation suggests future research directions. The example mentions "suggesting potential broader applicability," which sounds like pointing out where more research could go. That might fit under Future. 
+
+But wait, "Future" examples are when the citation is used to imply a direction. The example given for Future is: "Similarly, a small aphid gut binding peptide..." exactly like the user's example. Wait, no, actually the example provided by the user for the Future class is the same structure. Let me check again.
+
+Wait, the user's example for Future is exactly this scenario. The example says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." So the example given for the Future class matches this. So in that case, the correct class here is Future. 
+
+But let me go through other possible classes to be sure. "Motivation" is about justifying why the current research is done, like filling a gap. Here, the citation is supporting a potential application, suggesting it's a direction for future work. 
+
+"Support" would be if the cited work backs the authors' claims. However, the sentence here is saying the cited work's findings suggest broader applicability, implying that this points to a future avenue. 
+
+"Similar" is for pointing out similarity between cited and current work, but the current example isn't comparing their own work's similarity but rather using the cited work's findings to suggest potential future applications. 
+
+So based on the example provided in the Future class, this is the correct classification. The key phrase is "suggesting potential broader applicability," which is a future direction.
+</think>
+
+Future

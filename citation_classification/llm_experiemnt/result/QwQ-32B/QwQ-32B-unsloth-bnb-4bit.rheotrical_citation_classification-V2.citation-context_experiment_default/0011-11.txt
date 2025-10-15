@@ -1,0 +1,10 @@
+Okay, let's tackle this classification. The user provided a passage about plant health and wants me to determine which rhetorical class the citation (CITSEG) falls into. The given example is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+First, I need to remember the different classes. The one that comes to mind here is CoCoRes because the sentence directly contrasts the current results with those of the cited work. The key phrase is "substantially differ from the results," which clearly indicates a comparison of results. Let me check the definitions again.
+
+CoCoRes is for comparing or contrasting results or findings between the cited and citing paper. The example given for CoCoRes is similar: "The results obtained... differ from... (CITSEG)." That's exactly the case here. 
+
+I should rule out other classes. Is it possible this is Weakness? No, because the citation isn't pointing out flaws in the cited work, just a difference in results. Support? No, because they are highlighting a difference, not agreement. Basis? No, the cited work isn't foundational here. So CoCoRes is definitely the right choice.
+</think>
+
+CoCoRes

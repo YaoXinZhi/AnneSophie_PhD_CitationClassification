@@ -1,0 +1,14 @@
+Okay, so I'm trying to figure out how to classify the given citation in the passage. The passage says that the study by CITSEG identified an important pathogen in tomato plants, which has been a major cause of crop losses. My task is to determine which rhetorical class this citation falls into.
+
+First, I'll look at the predefined classes. There's "Basis," which is when the cited work is the foundation of the current research. Is that the case here? Well, the passage is talking about the identification of a pathogen that's a major cause of losses, which seems to set the stage for why this study is important. So maybe it's a basis because it's highlighting a problem that their study is addressing.
+
+Then there's "Motivation," which is used when the citation justifies why the current research is being done, like filling a knowledge gap. This seems similar to what I was just thinking. The citation points out a problem (crop losses) which motivates the current study.
+
+Comparing the two, "Basis" implies that the cited work is built upon, while "Motivation" is about why the research is necessary. Since the passage is explaining the importance of the pathogen, it's more about motivating the current study rather than being a direct foundation.
+
+I don't think it's "Usage" or "Support" because it's not referring to a method or tool used in their study. It's more about the context or reason for conducting the research.
+
+So, I'm leaning towards "Motivation" because the citation is used to justify why their study is important—addressing crop losses caused by this pathogen.
+</think>
+
+Motivation

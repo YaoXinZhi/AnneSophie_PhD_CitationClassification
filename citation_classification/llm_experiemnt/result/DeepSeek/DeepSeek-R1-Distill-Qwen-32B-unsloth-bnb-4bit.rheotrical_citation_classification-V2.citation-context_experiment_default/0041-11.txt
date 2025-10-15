@@ -1,0 +1,24 @@
+Okay, I'm presented with a task to classify a citation in a scientific article into one of several predefined rhetorical classes. The citation is marked as (CITSEG), and the passage it appears in needs to be analyzed to determine the appropriate class. 
+
+First, I'll recall the list of rhetorical classes provided. They are: Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. Each has a specific description and example to guide classification.
+
+The example given for the task is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+In this passage, the authors mention a finding from the cited work about a peptide interfering with virus uptake and binding to other aphid species. The authors then suggest that this finding might have broader applicability. 
+
+Looking at the classes:
+
+- **Basis**: This would be if the cited work is foundational. The example doesn't indicate it's a foundation but rather an example supporting broader applicability.
+- **CoCoGM, CoCoRes, CoCoXY**: These involve comparisons or contrasts, which are not exactly happening here. The cited work isn't being compared to another study or method.
+- **Future**: The passage does suggest potential broader applicability, hinting at future directions.
+- **Motivation**: The passage doesn't justify why the current research is conducted, so it's not motivation.
+- **Neutral**: The citation isn't just a neutral mention; it's used to suggest future possibilities.
+- **Similar**: The cited work isn't being highlighted for similarity with the current paper's results.
+- **Support**: The cited work is used as an example, but it's more about indicating potential future application than supporting a claim in the current paper.
+- **Usage**: The cited work isn't a method or tool being used.
+- **Weakness**: There's no criticism of the cited work.
+
+The key is the phrase "suggesting potential broader applicability," which points towards future research possibilities. Therefore, the citations are being used to suggest future directions, aligning with the "Future" class.
+</think>
+
+Future

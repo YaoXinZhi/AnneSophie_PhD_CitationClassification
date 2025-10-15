@@ -1,0 +1,11 @@
+<think>
+Okay, so I need to figure out the rhetorical class for this citation example. Let me start by looking at the example given: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+First, this passage mentions that their results differ from previous experiments. The key part here is "substantially differ from the results of the experiments," which is referring directly to the findings of CITSEG. The class we're supposed to assign depends on how the citation is used here.
+
+Looking at the possible classes, CoCoRes (Comparison of Results) is when you compare or contrast results or findings of the cited work with the current paper's results. That seems to fit here because the sentence is explicitly stating a difference between their results and CITSEG's previous results. 
+
+Other classes like CoCoGM would be about comparing goals or methods, which isn't the case here. Basis doesn't fit because CITSEG isn't the foundation of their current research but is being compared against. Motivation isn't relevant here either, as it's not about justifying why the research was done. Neutral would be if the citation was just stated factually without supporting or comparing, but that's not the case. Similar would be if they found similarities, not differences. Support is when they're using the citation to back up their own claims, which isn't what's happening here. Future and Weakness don't fit either. So CoCoRes is definitely the right choice here.
+</think>
+
+CoCoRes

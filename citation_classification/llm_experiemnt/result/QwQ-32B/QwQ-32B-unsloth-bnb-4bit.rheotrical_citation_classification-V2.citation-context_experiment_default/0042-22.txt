@@ -1,0 +1,24 @@
+Okay, I need to classify the rhetorical class for the citation in the given passage. Let's look at the task again. The user provided a scientific article citation passage and wants me to assign the appropriate class from the list provided. The key is to figure out the role the citation plays in the context.
+
+The example given is: "The experimental set-up was described in details previously (CITSEG)." And the example output was "Usage" because they are referring to using a method or setup from the cited work.
+
+Looking at the options again to make sure I recall them correctly. The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The user's example for Usage is when a method/tool/dataset is used. In the example, the setup was described before, so they are reusing it here. 
+
+Now, the actual input here is the example provided in the Usage class. Wait, the problem is asking me to process the example given under each class? Wait no, the user's actual input is the example under Usage, "The experimental set-up..." since that's the example provided, and the task is to determine the class for that. Wait, wait the user's prompt says "Prompt for citation classification" and the example they gave is the Usage one. Wait but actually, in the problem given, I need to process whatever the user's query is. Wait, the user's query here is the one with the sample example for "Usage," but in the actual question, the user wants me to process a passage, but perhaps the user's input here is the example under "Usage." Wait, I might be confused here. Let me check again.
+
+Looking back, the user's message starts with a task where they present a classification problem and an example. Wait the actual input from the user after all that might be the example given in the "Usage" example, as the example under the Usage class is: "The experimental set-up was described in details previously (CITSEG)." So perhaps the user's input is this sentence, and I need to classify it. 
+
+Wait the problem says "Prompt for citation classification" followed by instructions, then the example for Usage is the input. Wait the user is giving the example and asking me to process it, but their actual test case might be the example for 'Usage'? Because the output in the example is "Usage". Let me see the user's exact message:
+
+Wait the user's input says: "Example: The experimental set-up was described in details previously (CITSEG)." So in this example scenario, the correct answer should be "Usage". Since the task requires me to output the class label based on the example provided, then here's what's happening. But the user is probably testing whether I can correctly process the example. So the input here is that example, and the correct output would be "Usage".
+
+Thus, the answer should be Usage.
+
+Wait, but I need to think through the process. Let me re-express the example to make sure. The example says the citation is used because they're referring to a method, tool, dataset, or setup from the cited work that's used in the current study. The example sentence: "The experimental set-up was described in details previously (CITSEG)." So they are using the setup from the cited work here. That's exactly the "Usage" class. 
+
+So yes, the correct label here is Usage. The reasoning steps would involve identifying that the citation is referring to a prior description of their experimental setup, which they are now using in their current study. Hence, the citation's role here is to indicate that they used a previously described method, so "Usage" is appropriate.
+</think>
+
+Usage

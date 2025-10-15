@@ -1,0 +1,13 @@
+<think>
+Okay, let's tackle this classification. The user provided a citation passage and wants me to assign the correct rhetorical class. First, I need to read the example passage carefully.
+
+Looking at the example given under the 'Support' class: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample..." The key here is that the citation is used to back up the authors' own findings. The authors mention consistency with previous research, so they're using the cited work as evidence to support their claims. 
+
+Now, checking the options, the 'Support' class is for when the citation reinforces a claim, confirms a result, or aligns with the authors' findings. The example passage matches this because they reference prior work that aligns with their results. None of the other classes like 'Basis' or 'Comparison' seem to fit here since there's no mention of continuation, comparison of methods, or contrasting results. The citation here is purely supportive evidence. 
+
+I should make sure there's no other possible class. 'Neutral' is for descriptive use without supporting an argument, but here it's clearly supporting. 'Similar' is for pointing out similarities between the cited work and the current paper, which is somewhat close, but the example uses 'Support' because they are using the cited research to confirm their own findings. 
+
+Therefore, the correct label here is 'Support'.
+</think>
+
+{"label": "Support"}

@@ -1,0 +1,12 @@
+Alright, I'm looking at the passage where the citation is used. The passage states that the hard calcite scale on surfaces exposed to hard water can be prevented with a magnetic field, but the mechanism isn't explained yet. The current work aims to understand this mechanism. 
+
+So, the citation here is justifying why the research is being done—essentially pointing out a knowledge gap. That fits the "Motivation" class because it's explaining the reason behind conducting the current study.
+</think>
+
+Motivation
+
+```json
+{
+  "rhetorical_class": "Motivation"
+}
+```

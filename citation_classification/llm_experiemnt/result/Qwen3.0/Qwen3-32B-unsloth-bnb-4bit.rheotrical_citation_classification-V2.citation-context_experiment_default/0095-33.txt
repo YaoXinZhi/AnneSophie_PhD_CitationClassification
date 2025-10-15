@@ -1,0 +1,25 @@
+<think>
+Okay, let's try to figure this out. The task is to classify the rhetorical class of the citation in the given passage. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to look at the example sentence provided for each class to understand the difference. Let me read through the example again. 
+
+The example given under CoCoRes is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+So the key here is that the citation is being used to compare the results of the current study with those of the cited work. The phrase "substantially differ from the results" indicates a direct comparison of findings. 
+
+Now, considering the example provided for another class, like Basis: "We began by replicating these inoffensive results for the same purposes." Here, the cited work is foundational; the authors replicating their results shows continuation, not a comparison of results.
+
+CoCoGM would involve comparing methods or goals, not results. For instance, if they said the cited paper used a different method, that would be CoCoGM.
+
+CoCoXY is for comparing explanations or claims between two cited studies, not with the current paper. The example there mentions contradictory results between references without referencing the current work's findings.
+
+So applying this to the example given in CoCoRes, it's a direct comparison of results between the current study and the cited one. The user needs to determine which class fits their citation by looking at how the results are being contrasted.
+
+Now, looking at the actual citation in the user's test passage: Let's imagine a passage like "Our results align with those of previous studies (CITSEG), showing a significant increase in yield under drought conditions." If the citation is presented as supporting the current findings, that would be Support. But if it's stated that "Our findings contradict previous results (CITSEG) which showed decreased yield," that's CoCoRes.
+
+So the main thing is whether the citation is being used to compare results (same or different) with the current study. If the passage is pointing out that their results are different from the cited work's results, then CoCoRes is appropriate. If they're using the cited work's results to support their own claims, then Support would be the class. 
+
+Also, if the citation is used to show that their method is different, that's CoCoGM. If the citation is about future research directions, then Future. The key is the exact role of the citation in the context of the sentence.
+</think>
+
+CoCoRes

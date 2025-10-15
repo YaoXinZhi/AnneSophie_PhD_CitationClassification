@@ -1,0 +1,21 @@
+<think>
+Okay, let me see. The user provided a prompt for classifying citations in a scientific article based on their rhetorical class. The task requires assigning each citation denoted by (CITSEG) to one of the predefined classes like Basis, CoCoGM, CoCoRes, etc.
+
+First, I need to understand each class's definition thoroughly. For instance, 'Basis' is when the cited work is foundational to the current research. 'CoCoGM' is for comparing goals or methods, while 'CoCoRes' is for comparing results. 'Motivation' would be when the citation justifies the current research, pointing out knowledge gaps. 'Support' is when the citation backs up a claim made in the current paper.
+
+The example given under 'Support' shows that the authors used previous research to confirm their findings, like consistency in subscales. The key is that the citation is presented as evidence aligning with their own results. 
+
+Now, looking at the example under 'Motivation', they're citing their own previous work to explain why they're doing the current study—to understand a mechanism not yet explained. So the citation serves as a reason or motivation for their research.
+
+The user wants the classifier to return the most appropriate label strictly based on the context provided. The output must be one of the listed classes with no explanations. The thinking process involves identifying which rhetorical role the citation plays in the given text. 
+
+For instance, if the passage says, "As shown by (CITSEG), previous studies have demonstrated X, but there's a gap in understanding Y," that would fall under 'Motivation' because it's highlighting a knowledge gap that the current research addresses. Conversely, if the passage is saying "(CITSEG) found X, and we also found X," that's 'Support'.
+
+The classifier must parse the sentence structure around (CITSEG) to determine which role it's serving. Also, the definitions emphasize that each class has distinct criteria. For example, 'Usage' refers to directly using a method or tool, not just mentioning findings. 
+
+Potential tricky cases might be when the citation is part of a neutral statement without any argumentation, which would be 'Neutral'. Or when comparing two cited works without reference to the current paper, which is 'CoCoXY'.
+
+So the step-by-step reasoning would involve analyzing the context of (CITSEG), matching the role to the definitions of each class, and selecting the most fitting label. The final output is the label, nothing else.
+</think>
+
+{"label":"Support"}

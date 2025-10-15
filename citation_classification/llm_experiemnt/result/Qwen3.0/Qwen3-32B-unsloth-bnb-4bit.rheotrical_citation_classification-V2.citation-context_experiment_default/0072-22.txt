@@ -1,0 +1,19 @@
+<think>
+Okay, let's see. I need to classify the citation in the given passage under the correct rhetorical class.
+
+The passage says: "Based on earlier investigations (CITSEG), the role of temperature regulation in plant resistance mechanisms is well-established."
+
+So the authors are saying their work is based on previous studies. The citation here is used as the foundation for their current research. They mention "based on earlier investigations," which sounds like they're building upon prior work.
+
+Looking at the classes, "Basis" is for when the cited work is the intellectual foundation. The example given for Basis mentions that the cited work introduced a method they replicated. Here, the authors are relying on previous findings as a basis for their own study.
+
+So the correct class should be Basis here because the citation provides the foundation for their current research on temperature regulation.
+</think>
+
+Basis
+
+```json
+{
+  "classification": "Basis"
+}
+```

@@ -1,0 +1,26 @@
+Alright, I need to figure out the correct rhetorical class for the given citation example. Let's break it down step by step.
+
+First, the example provided is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+The task is to determine the class that best describes the role of the citation (CITSEG) within this context.
+
+Looking at the predefined classes:
+
+- **Basis**: When the cited work is the foundation of the current research.
+- **CoCoGM**: Comparing methods or goals with the cited work.
+- **CoCoRes**: Comparing results of the cited work with the current paper.
+- **CoCoXY**: Comparing two cited studies with each other.
+- **Future**: Suggesting directions for future research.
+- **Motivation**: Justifying why the current research is being conducted.
+- **Neutral**: Neutral mention without supporting or comparing.
+- **Similar**: Pointing out a similarity between cited work and the current paper.
+- **Support**: Supporting a claim made by the authors.
+- **Usage**: Using a method or tool from the cited work.
+- **Weakness**: Criticizing the cited work.
+
+In the example, the sentence starts by stating their finding and then mentions that it's supported by recent studies. The cited work (CITSEG) provides examples where similar findings were observed. The current authors are using this cited work to back up their own results, showing that their findings are consistent with others in the field.
+
+Therefore, this fits into the **Similar** category because it points out a similarity in results or observations between the cited work and the current paper.
+</think>
+
+Similar

@@ -1,0 +1,8 @@
+Okay, let's tackle this classification. The user provided a citation passage, and I need to figure out which rhetorical class it belongs to. The example given here is about magnetic water treatment devices in the USA. 
+
+The citation is in the context of a neutral statement: "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." The key here is the neutral, descriptive use. The example for the "Neutral" class matches exactly this scenario where the citation is just providing a factual statement without any argumentation, comparison, or support. The sentence isn't using the citation to support a claim, contrast with another study, or mention a weakness. It's simply stating a fact about the spread of the devices. 
+
+Let me cross-check the other classes. "Basis" would be if the cited work is foundational, but there's no indication here. "CoCoGM" or "CoCoRes" involve comparisons with other methods or results, which isn't happening. "Motivation" would imply the cited work identified a gap, but the example here is just descriptive. "Usage" would be if they used a method from the cited work. Since none of those fit, and the example matches the "Neutral" case given, that's the right choice.
+</think>
+
+Neutral

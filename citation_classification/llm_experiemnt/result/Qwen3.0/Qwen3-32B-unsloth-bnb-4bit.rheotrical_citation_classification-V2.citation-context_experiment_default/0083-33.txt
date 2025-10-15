@@ -1,0 +1,9 @@
+<think>
+Okay, let me go through the passage again to understand the context. The sentence is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." 
+
+The key part here is the phrase "potential broader applicability (CITSEG)." The author is referring to a study (CITSEG) that showed the peptide binds to gut epithelia of other species, implying that the findings from that study suggest possible future research directions or applications beyond the original study. 
+
+Looking at the rhetorical classes, the "Future" class is used when the citation suggests directions for future research. In this case, the citation (CITSEG) is providing evidence that there's broader applicability, which could motivate further studies or applications, even if not explicitly stated. Therefore, the correct class should be Future.
+</think>
+
+Future

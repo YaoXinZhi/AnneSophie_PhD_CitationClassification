@@ -1,0 +1,10 @@
+Okay, let me try to figure out the right rhetorical class for this citation. The passage says that the authors' previous research showed something, and now they're using that as a foundation for their current study. So it seems like the cited work is the basis for their new research. Therefore, the class should be 'Basis'.
+</think>
+
+Basis
+
+```json
+{
+  "label": "Basis"
+}
+```

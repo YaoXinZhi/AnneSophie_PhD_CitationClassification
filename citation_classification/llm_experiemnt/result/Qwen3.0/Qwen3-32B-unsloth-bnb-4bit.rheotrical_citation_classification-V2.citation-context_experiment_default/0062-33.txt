@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification task. So the user provided a scientific passage where I need to determine the rhetorical class of the citation denoted by CITSEG. The example given is from the plant health domain. The citation is in the sentence: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. (CITSEG)." 
+
+First, I need to recall the list of rhetorical classes provided. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+Looking at the example sentence here, the author is saying that reviewing literature is confusing because of contradictory results, and then cites some work. The mention here isn't comparing their own methods or results with the cited work, nor is it supporting a claim. Instead, the citation is pointing out that two studies (or multiple studies) have contradictory results. According to the example under CoCoXY, that class is for comparing or contrasting two cited studies with each other, not with the citing paper. The example given there is similar: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". So the CITSEG here is being used to highlight conflicting findings between different studies, which fits CoCoXY.
+
+I should check if there's another possible class. Could it be Weakness? No, because the author isn't criticizing the cited work directly but pointing out contradictions among various studies. Motivation doesn't fit because there's no indication that this is leading to why the current research is done. Support also doesn't fit because the citation isn't being used to back up a claim made by the authors. So the correct class is CoCoXY.
+</think>
+
+CoCoXY

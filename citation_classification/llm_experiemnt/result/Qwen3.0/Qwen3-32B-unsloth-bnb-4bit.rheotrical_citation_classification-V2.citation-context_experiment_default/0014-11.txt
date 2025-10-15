@@ -1,0 +1,11 @@
+<think>
+Okay, let me tackle this classification task step by step. The user provided a citation passage and wants me to determine its rhetorical class based on the given options.
+
+First, I need to understand the passage content. The example given is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]." Here, the citation [REF1-REF12] is used to reference multiple studies that have conflicting results, causing confusion in the literature. 
+
+Now, looking at the possible classes, the CoCoXY category is specified for comparing or contrasting two cited studies with each other, not involving the current paper. This example lists several references (REF1-REF12) whose results contradict each other, indicating a comparison between these cited works themselves. There's no direct comparison to the current study's methods, results, or goals. The mention of contradictory results among the cited references aligns with CoCoXY because it's highlighting differences between the referenced studies rather than contrasting them with the current work's findings or approach. 
+
+I need to ensure it's not CoCoRes (Comparing results with the citing paper) or CoCoGM (Comparing goals or methods). Since the example doesn't mention the current study's own results, goals, or methods in comparison to the cited works but instead points out contradictions among the cited works, CoCoXY is the correct classification.
+</think>
+
+CoCoXY

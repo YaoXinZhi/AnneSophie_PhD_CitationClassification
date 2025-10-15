@@ -1,0 +1,18 @@
+Okay, so I need to classify the citation in the given passage into one of the predefined rhetorical classes. Let me read through the passage carefully to understand what's going on.
+
+The passage starts talking about the potential for using a phage-based approach as an alternative to chemical control of bacteria in plant pathosystems. It mentions that this approach could reduce reliance on chemical agents. The authors then cite a study by CITSEG that demonstrated how phage application can significantly reduce the incidence and severity of apple scab in field trials. Following that, they state that their study builds upon this work by testing the phage's efficacy under different conditions.
+
+So, the main point here is that the cited work by CITSEG is being used as a foundation for their current research. It's presented as prior work that supports their new study. They mention replicating inoffensive results and building upon that, which aligns with the 'Basis' class. This class is used when the cited work is the intellectual foundation, directly contributing to the new solution or continuing prior work.
+
+Alternatively, I could consider the 'Support' class because the citation supports the argument for using phages. But the key here is that it's more about establishing the basis for their current work rather than just supporting a specific claim. They clearly state that their work builds upon the cited study, which fits 'Basis' better.
+
+I don't think it's 'CoCoGM', 'CoCoRes', or 'CoCoXY' because there's no comparison involved. It's not pointing out a similarity either, and it's definitely not a future direction or a motivation. 'Neutral' doesn't fit because the citation is clearly serving a purpose beyond just mentioning the study.
+
+So, after considering all the options, 'Basis' seems to be the correct classification as the cited work provides the foundational study that the current research is building upon.
+</think>
+
+Basis
+
+```json
+"Basis"
+```

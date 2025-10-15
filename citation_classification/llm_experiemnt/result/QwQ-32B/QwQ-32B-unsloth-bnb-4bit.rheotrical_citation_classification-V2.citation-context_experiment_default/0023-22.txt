@@ -1,0 +1,66 @@
+Okay, let's tackle this citation classification problem. The user wants me to determine the correct rhetorical class for the (CITSEG) in the given passage. Let me first recall the different classes and their definitions. 
+
+The classes provided are: Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+The example passage given is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". Wait actually the user's example for CoCoXY is this, but the actual task's example given by the user is: 
+
+But looking at the problem statement, the user provided an example for CoCoXY where "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The task is to apply this to a new input, but the user's problem is not given yet. Wait, looking back, the user's actual input here is the one I need to process.
+
+Wait, maybe I need to read the user's input again carefully. Let me check.
+
+Wait the user's current query is the prompt for citation classification. They have given the task, the classes with examples, and output format. The actual citation passage they want me to classify is not provided here. Wait no, wait, the user's message includes the problem statement and the example passage? Wait the way the initial query is structured:
+
+The user starts with "You are a classifier..." and then sets a task. Then the user's actual "prompt for citation classification" is part of their message, but the specific example to classify would be in their subsequent input. Wait, maybe I need to check the exact structure here. Looking at the user's exact message:
+
+Wait in the problem above, after the instructions, it says "Prompt for citation classification" followed by the detailed task explanation. But perhaps the actual example to classify is missing here. Wait, maybe the user is providing an example of the task setup, but I need the actual passage with (CITSEG) to analyze?
+
+Wait, perhaps the user's input might be incomplete, but in the current context, looking at the history provided by the user, the initial message was:
+
+They provided a query where they want me to assign a rhetorical class for a citation in a scientific passage. The user might have intended to give a specific passage but it might have been cut off. Wait looking at the exact text in the user's message:
+
+The user's message is structured as follows:
+
+- The first part is the problem statement and instructions for the task (classifying citations into rhetorical classes).
+
+- The second part says "Prompt for citation classification" with the task details again, including the classes and examples, and the specific output format.
+
+Wait, perhaps in this setup, the actual citation example to classify is part of the user's message in the same thread. Wait checking the initial user input:
+
+Wait looking again, the user's input is actually the problem description, which includes the task and the rhetorical classes, and then the user's actual question is expecting me to process a specific citation example they provided. But in the provided text, the user hasn't included an example citation passage except the examples given in the class definitions. Wait, perhaps I misread the structure.
+
+Wait the user starts with "You are a classifier that assigns a reference...". Then they proceed to detail the task, the classes, and then the output instructions. The actual input to classify would be part of the user's message, but when looking at their message, it ends after the output format section, which suggests maybe the citation example is missing here?
+
+Wait perhaps there's a confusion here. Alternatively, maybe the user wants me to process the example given in the CoCoXY class. Let me see. In the example for CoCoXY, they have: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The task is to classify this example's citation as CoCoXY, but perhaps this is part of the problem's instruction, not the actual input to be classified. 
+
+Wait, this is confusing. Let me parse again. The user's exact input includes:
+
+- The task description (assigning citations to rhetorical classes).
+
+- Lists the classes with examples.
+
+- Then says "Output Format: Return a single label...".
+
+- Ends with "Please strictly follow this format. Do not provide any explanations..."
+
+The user's actual input is the passage with a (CITSEG) placeholder which needs classification. Wait but in the query provided by the user here (as per the current thread), the example of CoCoXY is part of the given classes. However, perhaps the user made a mistake in not including the test case? 
+
+Wait but in this context, perhaps I should look at the original problem that the user presented to me. Wait, the user's message starts with "Prompt for citation classification" and continues with task details, but perhaps the actual passage they want me to classify is the one in the CoCoXY example?
+
+Wait the example given for CoCoXY is exactly the one that the user's instructions include, so maybe that's the example they want me to work through. Let me see.
+
+In the problem description, the user provides an example of CoCoXY: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]".
+
+Since the task is for me to classify (CITSEG) in a given passage, perhaps the user is testing me by giving this example. The example's citation references are [REF1-REF12], so the (CITSEG) here would be those references. The task would be to classify that.
+
+Alternatively, maybe the user forgot to include their own specific example. Since the user's question is about a scientific article citation in the plant health domain, perhaps the example given isn't about plant health. 
+
+Given that, perhaps in this case, the user is actually testing me with that specific example, expecting me to confirm that it belongs to the CoCoXY class. Let's proceed under that assumption.
+
+Looking at the example for CoCoXY: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". Here, the citation is pointing out that the cited studies (REF1-12) have contradictory results. The rhetorical class is CoCoXY when the citation is used to compare or contrast two cited studies with each other (not with the citing paper). 
+
+The sentence structure here is that the paper is stating that the available literature has "contradictory results", and the references are the ones cited to demonstrate this confusion due to their contradictory nature. Since the comparison is between the studies themselves (the references), not between the cited works and the current paper, this fits CoCoXY. The key point is that it's comparing multiple cited studies with each other, not the citing paper's work. 
+
+Therefore, the correct label here is CoCoXY.
+</think>
+
+CoCoXY

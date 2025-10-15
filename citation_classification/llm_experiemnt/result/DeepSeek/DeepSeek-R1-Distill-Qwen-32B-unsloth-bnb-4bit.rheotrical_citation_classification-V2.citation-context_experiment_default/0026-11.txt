@@ -1,0 +1,10 @@
+Okay, let me try to classify this citation. The example given is: (CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes.
+
+Looking at the rhetorical classes, the citation is being used as the foundation for the current research. The authors are replicating the cited work's results, which means they are building upon that study. So, it's clearly contributing to their new solution. Therefore, the appropriate class is Basis.
+</think>
+
+Basis
+
+```json
+"Basis"
+```

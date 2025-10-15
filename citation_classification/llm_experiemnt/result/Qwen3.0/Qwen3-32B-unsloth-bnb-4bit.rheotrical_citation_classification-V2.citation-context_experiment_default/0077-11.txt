@@ -1,0 +1,13 @@
+<think>
+Okay, let me tackle this classification problem step by step. The user provided a citation passage and a list of possible rhetorical classes. My job is to figure out which class fits best.
+
+First, I need to look at the example passage given. Let me read it again: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+The key here is that the passage is comparing their results to those from another study. The phrase "substantially differ from" is a strong indicator of comparison between the current work and the cited work. 
+
+Looking at the CoCoRes class, which is for comparing or contrasting results, this seems like a perfect fit. The example given for CoCoRes mentions comparing results, which matches the sentence structure here. The cited work's results are being directly contrasted with the authors' own findings.
+
+I should check other classes to rule them out. Basis would be if the cited work is foundational, but here it's about differing results. Motivation or Future don't fit here either. CoCoGM is about goals or methods, but the example specifies results. So CoCoRes is the right choice here.
+</think>
+
+CoCoRes

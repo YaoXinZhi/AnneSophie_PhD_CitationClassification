@@ -1,0 +1,13 @@
+<think>
+Okay, let's tackle this citation classification. The user provided a citation (CITSEG) in the context of a scientific article about plant health. The task is to determine the rhetorical class from the given list.
+
+First, I need to look at the passage around the citation. The example given is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Looking at the classes, the 'Future' class is used when the citation suggests directions for future research. Here, the cited work mentions a finding (the peptide's effect) that suggests broader applicability. The phrase "suggesting potential broader applicability" indicates that this is pointing towards possible future research directions, implying that further studies could explore this applicability in more species or contexts. 
+
+Other classes like 'Support' or 'CoCoRes' don't fit here because the citation isn't being used to confirm the current study's claims or compare results directly. 'Basis' is about foundational work, which isn't the case here. 'Motivation' would be if the cited work identified a gap, but here it's more about indicating a possible future path based on their findings. 
+
+So the most appropriate class here is 'Future'.
+</think>
+
+Future

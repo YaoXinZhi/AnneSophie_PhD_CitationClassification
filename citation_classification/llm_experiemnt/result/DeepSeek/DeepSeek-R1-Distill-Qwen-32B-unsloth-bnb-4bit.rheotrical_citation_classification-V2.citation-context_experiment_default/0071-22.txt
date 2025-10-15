@@ -1,0 +1,10 @@
+Alright, I'm trying to figure out how to classify this citation passage. Let me read through it again. The passage mentions that most closely related to their work is the concurrent study by CITSEG, proposing a method to "debias" word embeddings. They then explain that their work is complementary as they focus instead on demonstrating human-like biases in word embeddings.
+
+So, the citing authors are comparing their research goals with those of the cited work. CITSEG's study is about debiasing word embeddings, which is different from their focus on showing biases in them. This indicates a comparison of goals or methods.
+
+Looking at the classes, CoCoGM stands for Comparison of Goals or Methods. This seems to fit because they're highlighting how their approach differs. The example provided under CoCoGM also matches this scenario, where one study contrasts their method with another.
+
+I don't think it's any other class. For instance, it's not Support because they're not using CITSEG to back up their findings, nor is it Motivation. They’re not pointing out a weakness either. It's clearly a comparison between the two studies' objectives.
+</think>
+
+CoCoGM

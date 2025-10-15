@@ -1,0 +1,18 @@
+Okay, let's tackle this classification problem. The user provided a citation passage, and I need to figure out which rhetorical class it belongs to based on the examples given.
+
+First, I need to understand the task clearly. The goal is to look at how the citation (marked as CITSEG) is used in the passage and assign it to one of the predefined classes like Basis, CoCoGM, CoCoRes, etc. The key is to determine the rhetorical function here, meaning why the authors are citing this work in this context.
+
+The example provided by the user is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Hmm. So the sentence before the citation says "is supported by recent cross-taxon investigations...", which points to the cited work supporting their finding. The citation here is backing up their own results by mentioning that other studies found similar things. Let me check the classes again to see which one fits best.
+
+Looking at the Support class example: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample..." That's exactly like the given example. The cited work supports the current findings, so that's Support.
+
+Wait, but there's also the Similar class. Let me check that again. The Similar class example is when the citation points out a similarity between the cited work and their own. Like "our findings are similar to those in CITSEG". Here, the structure is "is supported by... (CITSEG)", so the emphasis is on support rather than just noting similarity. Support is more about confirmation or backing up a claim. 
+
+The Weakness class is when they criticize, which isn't the case here. CoCoRes is comparing results between the cited and current study, but the wording here is that their finding is supported by others, which is using the citation to support their result. The example given under Support matches this scenario. 
+
+Therefore, I think the correct class here is Support.
+</think>
+
+Support

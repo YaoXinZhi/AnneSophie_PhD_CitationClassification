@@ -1,0 +1,13 @@
+<think>
+Okay, let's tackle this citation classification task. So, the user provided a passage where I need to figure out the rhetorical class of the CITSEG placeholder. The options are all these different categories like Basis, CoCoGM, CoCoRes, etc.
+
+First, I'll read the example passage again to understand the context. The example given under the 'CoCoGM' class is about comparing methods or goals with the cited work. The example says something like the cited work proposes a method to "debias" word embeddings, while the current work is complementary because it focuses on a different aspect. So, the key here is comparing goals or methods between the current paper and the cited one.
+
+Now, looking at the user's input example that needs classification, I need to see how the citation is being used. The user's example is: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to 'debias' word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings."
+
+Breaking it down, the citation is pointing out that the cited work has a method related to debiasing word embeddings, and the current work's focus is complementary. The main point here is contrasting their goals or methods. The cited work's goal is to propose a method for debiasing, whereas the current work's goal is to demonstrate biases. They're both addressing word embeddings but with different focuses. So this fits into the CoCoGM category because it's comparing the goals or methods of the two works.
+
+I need to make sure this isn't slipping into another category. For example, 'Support' would be if they were using the cited work as evidence for their claims, but here it's more about how their approaches differ. 'Basis' would be if the cited work is foundational for the current study, but it's presented as a related work with a complementary focus. 'CoCoRes' would be comparing results, but here it's about methods/goals. So yes, CoCoGM is correct.
+</think>
+
+CoCoGM

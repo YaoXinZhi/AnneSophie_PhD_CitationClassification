@@ -1,0 +1,78 @@
+Okay, let's tackle this classification problem. The user provided a scientific article citation passage and wants me to determine the rhetorical class of the citation marked by (CITSEG). The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to read the example given carefully. The example is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm, the key here is to figure out the rhetorical role of the citation here. The sentence starts with "Similarly," which might indicate that the cited work is supporting or showing a similar finding. The main claim here is that the peptide's applicability might be broader. The cited work is mentioned as showing that the peptide interferes with virus uptake and binds to other species' gut epithelia. The authors are using this previous work to suggest that their own findings (or perhaps the cited work itself) indicate broader applicability. 
+
+Looking at the classes: The 'Future' class is for when the citation suggests future research directions. The example given for Future is similar in structure: "suggesting potential broader applicability" which aligns with future directions. 
+
+Alternatively, the 'Support' class is when the citation supports a claim made by the authors. But in this case, the cited work's results are being used to imply a suggestion for future research (broader applicability). The example given under Future uses the structure where the cited work's results lead to a suggestion, so that's probably the right category.
+
+Wait, the sentence structure says "suggesting potential broader applicability (CITSEG)"—does the citation itself suggest that, or is the current paper making that suggestion based on the cited work? The phrasing here is a bit ambiguous. Let me parse it again. The sentence says that the peptide also bound to two other species, suggesting broader applicability. Then they cite that work. So the cited work's results (the binding to other species) leads to the conclusion that there's broader applicability. The citation here is supporting the authors' current statement. Wait, maybe that's Support? Or is the citation being used to point out that this suggests future research?
+
+The example for Future is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." The cited work's results are used to suggest that there's potential for broader applicability. So the citation is the basis for suggesting future research directions. Hence, the Future class seems correct here because it's pointing out that this finding (from the cited work) implies a direction for future work. Alternatively, maybe Support? But Support is when the citation supports the authors' own claims. Wait, the authors are saying "suggesting potential broader applicability"—so they're using the cited work's findings to make that suggestion. The citation here is the evidence leading to the suggestion, which is a future direction. So Future fits better here.
+
+Alternatively, let me check the example provided for the Future class. The example given by the user under Future is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." Wait a second—that's exactly the same as the current example given here. Wait no, the user's example is part of their instruction. Wait, looking back, the user's example under Future is exactly the example given in the problem. That must mean the correct answer is Future. But this is the exact example under the Future class. Wait, the user's instruction is to classify the example given (the one starting with Similarly) into the correct class. Wait, actually no—wait the user's problem is to classify the citation in the user-provided prompt. Wait, wait, hold on. Let me re-examine the exact inputs.
+
+Wait, in the user's message, they provided the task, the classes, and then an example of the problem they expect us to solve. But in the Output Format section, they say "the passage provided [by the user]"—but in their message, the actual example given after Output Format is the example for the Future class. Wait, let me check:
+
+Wait, looking at the user's message:
+
+The user says: 
+
+"Prompt for citation classification [...] Output Format: Return a single label [...] corresponding to the rhetorical function of (CITSEG) in the passage without any additional explanation."
+
+Wait, the user's "example" here is part of the instruction. Wait, perhaps the actual input they give us is the example under Future. Wait no, actually the user's final input is the structure of their problem, but perhaps the user's actual input is the example sentence given here. Let me parse the user's message again.
+
+The user provides a prompt where they want us to classify a citation. They list the classes with examples for each.
+
+Then in the "Output Format" part, they give an example input: 
+
+Example: "Similarly, a small aphid gut binding peptide was shown to interfere with [...] suggesting potential broader applicability (CITSEG)."
+
+Wait, no. Wait the user's message has a long structure, including a sample example. Let me parse the exact question given by the user. The user is providing this structure for their problem and asking for the correct classification. Wait, actually the user's input ends with "Your output must be the single most appropriate class label from the predefined list below and nothing else."
+
+Wait perhaps I misread. Let me see again. The user's actual query is:
+
+They want us to act as a classifier. The user has given an example of a citation passage (starting with "Similarly... suggesting potential broader applicability (CITSEG)") and wants us to assign the rhetorical class.
+
+Wait, the structure is: The user wants the assistant to classify a citation in a passage provided by the user, but in their message, the example is part of the problem setup. Wait the actual citation passage to classify is in the user's message. Wait in the problem's "User's Input" section (the entire query is the user's input), the user provides an example citation sentence and wants the correct class. Wait, the first part is the instructions for the task. Then, the user's specific input to be classified is in the "Example" under the "Future" class. Wait, but perhaps the actual input the user wants classified is the example sentence here. 
+
+Wait, perhaps there's confusion here. Let me look back.
+
+The user's message is structured as a task description. They want the assistant to perform a classification. The example given in the Future class is part of the instructions. But the actual input to classify is the example provided in the Output Format section. Wait no, looking at the user's message:
+
+The user's message includes the task explanation, the class definitions with examples. Then, under "Output Format", they give an example input and then ask for the label. 
+
+The example given in the Output Format section is: "Similarly, a small aphid gut binding peptide was shown to interfere with [...] suggesting potential broader applicability (CITSEG)." 
+
+Wait, but the user's instructions include: "Return a single label [...] corresponding to the rhetorical function of (CITSEG) in the passage without any additional explanation." So the actual input to be classified is that example. The example given in Future is actually the testing example. But the example for Future has the same text. Wait this is confusing.
+
+Alternatively, maybe I need to read the user's entire query as the structure to the problem, but the actual input to classify is the sentence they provided in their message under Output Format. The exact input text would be the example sentence starting with "Similarly...". 
+
+Yes. Because the user's instruction ends with "Output Format", where they state: "Return a single label from the list above corresponding to the rhetorical function of (CITSEG) in the passage without any additional explanation." The example under "Output Format" is the example of such a passage. Wait let me check the exact user's message again.
+
+Ah, the user's "Output Format" section includes an example. For example:
+
+They say:
+
+"Output Format:
+
+Return a single label [...] 
+
+Example: Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake [...] suggesting potential broader applicability (CITSEG)."
+
+Wait, no—the example for the Output Format is actually the input text that needs labeling. So the user is saying that the output should be the label for the given example. Wait, the user's input includes that example as part of the problem's structure. They are providing an example of how the output should be formatted, but also presenting that example as the actual input to be classified.
+
+Wait, no. Actually, looking at the user message structure again:
+
+The user's message presents the complete task prompt, including the example input (the aphid peptide sentence) as part of the Output Format section. Therefore, the example input to classify is "Similarly, a small aphid gut binding peptide..." So, the job is to classify this sentence's (CITSEG) reference as one of the rhetorical classes. The example given is exactly the scenario where the correct answer is Future, as that's the example under the Future class.
+
+Wait but in the Future class's own example, the exact same sentence is given as an example. Therefore, when the task is to classify that sentence, the correct answer is Future. Therefore, the output should be "Future".
+
+Wait yes, because the user is providing that example (the "Similarly" sentence) as an example in the Future explanation. Therefore, in their task prompt, the user wants the assistant to classify such examples, so the given example must be classified as Future, as that is its own example.
+
+So the answer is "Future".
+</think>
+
+Future

@@ -1,0 +1,10 @@
+Okay, I need to figure out the rhetorical class for the given citation example. Let me start by reading the task carefully. The user provided a passage where a citation (CITSEG) is mentioned, and I have to classify it into one of the predefined classes like Basis, CoCoGM, CoCoRes, etc.
+
+Looking at the example given in the prompt, here's the part I need to analyze: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
+
+Hmm, the sentence says that the cited work introduced and validated the IAT, and the current paper is replicating those results. The key here is that the cited work is the foundation for the current research. The current study is building upon the cited work's initial findings. The example under the "Basis" class in the instructions matches this scenario. The Basis class is when the cited work is the intellectual foundation, contributing directly to the new solution or continuing prior work. 
+
+Let me check the other classes to be sure. CoCoGM is about comparing goals or methods, but this passage isn't comparing; it's building on. CoCoRes is comparing results, which isn't the case here. Support is when the citation supports the current claim, but here it's more foundational. The sentence says they replicated the results, so it's using the cited work as a basis. So yeah, Basis seems correct.
+</think>
+
+Basis

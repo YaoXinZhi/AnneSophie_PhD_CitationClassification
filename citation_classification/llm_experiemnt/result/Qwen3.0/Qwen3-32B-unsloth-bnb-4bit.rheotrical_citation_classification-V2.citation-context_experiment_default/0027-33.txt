@@ -1,0 +1,13 @@
+<think>
+Okay, let's see. I need to classify the CITSEG in this passage under one of the rhetorical classes. The passage is: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment." 
+
+First, I should look at the examples provided for each class. The Motivation class example says the citation is used to justify why the research is being done, identifying a knowledge gap or need. In the given passage, the authors mention their previous work showed prevention with a magnetic field, but the explanation isn't there yet, so this study aims to understand the mechanism. That sounds like they're pointing out a gap (no explanation yet) which motivates their current research. 
+
+The Basis class is when the cited work is the foundation of the current research. The example uses CITSEG as the basis for their replication. In this case, the previous research is their own prior work that established the prevention, which they now want to explain. Maybe Basis applies here because their prior study is the foundation. Wait, the example under Motivation says "identify a knowledge gap, need or open question" which matches here because they state the explanation isn't offered yet. 
+
+Wait, in the passage, they are citing their own previous research to show that prevention is possible but the mechanism isn't understood, hence motivating the current study. That's exactly like the Motivation example where past research identifies a gap. So I think it's Motivation. 
+
+Let me double-check other classes. Support would be if they are using the citation to back up their current claim. But here, they are using the citation to explain why they're doing the current work. Future refers to directions for future research, which doesn't fit. CoCo classes involve comparisons, which aren't present here. Neutral is descriptive without argument support, but here the citation does support the motivation. So Motivation seems right.
+</think>
+
+Motivation

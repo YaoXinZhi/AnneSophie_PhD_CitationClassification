@@ -1,0 +1,8 @@
+Okay, I need to classify the citation (CITSEG) in the given passage. Let me read the passage again. It mentions that the researchers replicated inoffensive results to study human biases in a similar way as the cited study. The example given is of introducing the IAT, which is being continued in their work. So, the cited work is serving as the foundation for their research. That means it's Basis.
+</think>
+
+Basis
+
+```json
+"Basis"
+```

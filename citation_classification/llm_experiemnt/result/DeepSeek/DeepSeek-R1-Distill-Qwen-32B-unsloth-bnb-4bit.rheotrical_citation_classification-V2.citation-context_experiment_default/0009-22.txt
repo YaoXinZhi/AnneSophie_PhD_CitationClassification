@@ -1,0 +1,10 @@
+Okay, so I'm trying to figure out the rhetorical class for this citation in the plant health domain. The passage is about an aphid gut binding peptide interfering with virus uptake and binding to other aphid species. The example given in the "Future" class seems relevant because the finding suggests this peptide could be applicable more broadly, hinting at potential future research directions. 
+
+Let me break it down. The cited work shows that the peptide could work on two other aphid species, which implies it might have wider applications. The authors are pointing this out as a possibility for future exploration. This aligns with the "Future" class because they're suggesting where more research could go. They're not just supporting their current findings or comparing methods; they're indicating an avenue for further study. 
+
+So yeah, it makes sense to classify this as "Future".
+</think>
+
+The citation discusses a peptide's broader applicability, hinting at further research possibilities.
+
+Output: Future

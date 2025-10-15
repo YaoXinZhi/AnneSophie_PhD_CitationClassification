@@ -1,0 +1,10 @@
+Okay, let's tackle this classification task. The user provided a passage about plant health, and I need to figure out the rhetorical class for the citation marked by (CITSEG). First, I should read the example passage carefully.
+
+The example given is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+Hmm, looking at the citation context, the key part is "substantially differ from the results of the experiments...". The citing paper is directly comparing their own results with those of the cited work. The contrast here is about the outcomes of the experiments. 
+
+Now, checking the classes. The options include CoCoRes which is for comparing results. The example for CoCoRes is similar: "The results obtained... differ from... (CITSEG)". That matches exactly what's happening here. Other classes like CoCoGM are for methods or goals, which isn't the case here. Support would be if they agreed, but since they're contrasting, it's not support. Basis is about foundational work, which isn't indicated. Weakness is criticizing the cited work, but here it's just a comparison of results. So, CoCoRes seems correct.
+</think>
+
+CoCoRes

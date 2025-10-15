@@ -1,0 +1,17 @@
+<think>
+Okay, let me try to work through this classification problem step by step. The user provided a citation passage and wants me to determine which rhetorical class it belongs to based on the given categories.
+
+First, I'll read the example passage again: "Motivation: Assign this class when the citation is used to justify why the current research is being conducted e.g. by identifying a knowledge gap, need or open question. Example: Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+In this example, the citation refers to the author's own previous research ("Our previous research (CITSEG)"). The cited work is mentioned to establish a foundation because it's their own prior work which demonstrated that magnetic fields prevent scale formation. However, the key part is "The explanation of the phenomena is not yet offered..." which points out a knowledge gap. The current study aims to address this gap by exploring the mechanism. 
+
+Looking at the classes, "Motivation" is used when a citation is used to justify the current research by showing a need or open question. The example fits this as the citation is pointing out that the previous research lacks an explanation, motivating the current work to investigate further. 
+
+The passage is using the cited study to highlight a gap, hence motivating the current research. The rhetorical function here is motivation, so the correct label should be "Motivation".
+</think>
+
+```json
+{
+  "label": "Motivation"
+}
+```

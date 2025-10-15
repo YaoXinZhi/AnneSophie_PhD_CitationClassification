@@ -1,0 +1,10 @@
+Alright, so I've got this passage that needs to be classified into one of the predefined rhetorical classes. Let me read through it first.
+
+The passage says that the authors' previous work (CITSEG) showed that magnetic fields can prevent hard water scaling, but the mechanism isn't understood yet. They're doing this new study to figure out why magnetic treatment works.
+
+Okay, looking at the classes: Motivation is used when the citation justifies why the current research is being done, like pointing out a knowledge gap. That seems to fit because the citation explains why they're conducting their study now. 
+
+Other options like Basis or Support don't quite match because it's not about building on prior work or supporting their findings. It's more about why they're doing the research in the first place.
+</think>
+
+Motivation

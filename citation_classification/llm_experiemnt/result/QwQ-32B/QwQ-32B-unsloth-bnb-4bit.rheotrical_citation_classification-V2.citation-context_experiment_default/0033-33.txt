@@ -1,0 +1,16 @@
+Okay, let me try to figure this out. The task is to classify the citation in the given passage into one of the predefined rhetorical classes. The user provided an example, so first I need to understand the example they gave and the classes properly.
+
+The example passage is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+The citation here is citing a previous study where a peptide's effect on virus uptake and binding in different aphid species was observed. The key part here is "suggesting potential broader applicability." The authors are pointing out that this previous work suggests the peptide's effect could be more widespread. The example given by the user for the 'Future' class is exactly this scenario. The example under 'Future' states that if a citation is used to suggest directions for future research, it falls under that category. 
+
+Wait, but let me check the definitions again to be sure. The 'Future' class is when the citation is used to suggest future research directions. The example given in the prompt for 'Future' is indeed similar. The example sentence says, "Similarly... suggesting potential broader applicability (CITSEG)." The authors here are using the cited work to suggest that there's a possibility of broader applicability, implying that further research could explore that. 
+
+Alternatively, could this be another class? Let me check others. 'Support' is when the citation supports the authors' claims. Here, it's not exactly supporting their own findings but pointing out that the cited work's results suggest future possibilities, so 'Support' might not fit. 'Motivation' is about justifying why the current research is done. The current research here might be building on that, but the sentence isn't stating that the cited work motivated their research, but rather that the cited work's findings point to future directions. 'Similar' is about similarities between studies, but again, the key word 'suggesting potential broader applicability' points more towards future implications. 
+
+Another possible candidate is 'Weakness', but the citation here is not pointing out any flaws or problems in the cited work, so that's not it. 'CoCo...' classes are about comparisons, which isn't the case here. 'Usage' refers to using a method or tool, which isn't mentioned here. 'Basis' would be if the cited work is foundational to their current work, but again, the sentence is more about the implication of the cited study for future applications. So 'Future' seems correct here. 
+
+So the correct class for the example provided should be 'Future'.
+</think>
+
+Future

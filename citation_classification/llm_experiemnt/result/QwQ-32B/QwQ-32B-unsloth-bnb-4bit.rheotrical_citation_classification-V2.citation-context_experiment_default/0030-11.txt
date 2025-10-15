@@ -1,0 +1,10 @@
+Okay, I need to figure out the correct rhetorical class for the citation in the given example. The task is to classify (CITSEG) based on how it's used in the passage.
+
+The example provided for the "Similar" class says: "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Looking at this, the citation here is pointing out a similarity between the current study's findings and the cited work. The key phrase is "supported by recent cross-taxon investigations," which suggests that the cited work's results are similar to the current study's results, reinforcing the idea that hosts influence bacterial communities. The example for Similar class mentions that similarity can be in results, patterns, or observations, which matches this context. 
+
+The other classes: Support might seem close, but Support is for when the cited work directly backs a claim made in the current paper. Here, it's more about showing a similarity between the two studies rather than direct support. The citation isn't being compared to the current work's methods or goals (so not CoCoGM). It's not pointing out a weakness, nor is it a basis for the current work. The example says "supported by," but the structure here is comparing similarities in findings, so "Similar" fits better. Therefore, the correct class here should be Similar.
+</think>
+
+Similar

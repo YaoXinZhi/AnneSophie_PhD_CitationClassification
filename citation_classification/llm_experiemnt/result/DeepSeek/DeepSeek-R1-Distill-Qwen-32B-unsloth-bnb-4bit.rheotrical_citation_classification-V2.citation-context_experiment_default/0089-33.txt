@@ -1,0 +1,10 @@
+Okay, I'm trying to figure out the rhetorical class for the citation in the given passage. The passage says that the "results in the present work" differ from the experiments conducted with deuterium-saturated metal targets cited by (CITSEG). So, the authors are comparing their results with those of the cited work.
+
+Looking at the classes, the one that stands out is CoCoRes. This class is used when the citation is directly comparing the results or findings between two studies. The example provided for CoCoRes also involves comparing results, so that matches perfectly.
+
+I don't think it's Basis because the cited work isn't the foundation here. CoCoGM and CoCoXY are about comparing goals or methods, not results. Usage is about methods or tools, which isn't the case here. Neutral is just descriptive without comparison. Similar is about similarities, but here it's contrasting results. Support uses the citation to back up the current findings, which it's not doing—instead, it's showing a difference. Future and Motivation don't fit here either.
+
+So, the correct class is definitely CoCoRes.
+</think>
+
+CoCoRes

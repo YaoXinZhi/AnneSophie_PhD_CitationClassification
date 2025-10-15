@@ -1,0 +1,9 @@
+<think>
+Okay, let's break down the example given to determine which rhetorical class it fits into.
+
+The user provided a citation passage example under the "CoCoXY" class. The example states: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]"
+
+CoCoXY is for comparing two cited studies with each other, not with the citing paper. In this example, the authors mention that there are conflicting results in the literature, but they don't compare their own research with these cited studies. Instead, they're pointing out contradictions between the cited studies themselves (REF1-REF12), which aligns with CoCoXY. The cited works are being contrasted with each other in terms of their explanations or claims, hence the classification.
+</think>
+
+{"label": "CoCoXY"}

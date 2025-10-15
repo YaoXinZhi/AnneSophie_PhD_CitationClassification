@@ -1,0 +1,11 @@
+<think>
+Okay, let me try to figure this out. So the task is to classify the rhetorical class of the citation in the given example sentence. Let's look at the example provided:
+
+"The experimental set-up was described in details previously (CITSEG)."
+
+Hmm, according to the classes listed, the Usage class is for when the citation refers to a method, tool, dataset, or experimental setup from the cited work that's directly used in the current study. In this case, the sentence says that the experimental setup was described in detail previously by the cited work. That sounds like the authors are using the method from CITSEG in their current study. So the CITSEG here is being referenced for providing the experimental setup that the current study is based on. Therefore, the correct classification would be Usage.
+
+Wait, let me check other classes just to be sure. Basis is when the cited work is the foundation of the current research. But in this case, the setup is specifically mentioned as having been described previously, which points to using their method. So Usage seems right. Also, the example given under Usage matches this scenario exactly. Yep, definitely Usage.
+</think>
+
+Usage

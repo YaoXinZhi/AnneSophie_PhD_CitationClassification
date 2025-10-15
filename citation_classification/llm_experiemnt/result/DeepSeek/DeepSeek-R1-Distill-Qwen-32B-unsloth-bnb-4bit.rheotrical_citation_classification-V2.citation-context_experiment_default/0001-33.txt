@@ -1,0 +1,12 @@
+Okay, so I need to figure out the right rhetorical class for the (CITSEG) in this passage. Let me read the passage again carefully. It says: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes." 
+
+Hmm, the first thing I notice is that the cited work introduced something, the IAT, and validated it. The current research is replicating their results. So, this seems like the IAT is the foundation for their new study. The current work is building upon it, right? They're replicating the results, which means they're using it as a basis for their own research. 
+
+Looking back at the classes, "Basis" is when the cited work is the foundation of the current research. This fits because the current paper is directly using the IAT and building upon it. It's not comparing methods or results, just using it as a starting point. 
+
+I don't think it's "CoCoGM" or "CoCoRes" because they're not comparing goals or results; they're replicating. No motivation either, since they're not stating a gap but rather building on existing work. Also, it's not a neutral mention because it's clearly foundational. 
+
+So, yeah, the correct class must be "Basis" because the cited work provides the intellectual foundation for their current research.
+</think>
+
+Basis

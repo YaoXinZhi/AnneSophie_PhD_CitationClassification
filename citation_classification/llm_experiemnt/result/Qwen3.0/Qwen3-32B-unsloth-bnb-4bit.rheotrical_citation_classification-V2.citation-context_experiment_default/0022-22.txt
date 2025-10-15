@@ -1,0 +1,9 @@
+<think>
+Okay, let's see. I need to figure out the rhetorical class for the citation in this passage. The passage says: "The use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." Hmm.
+
+First, looking at the definitions. The Neutral class is for citations that are used in a neutral, descriptive way without supporting, comparing, criticizing, or motivating. The example given is similar: "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." That's exactly like the passage here. The citation here is just stating a fact about when the use started, without any comparison, support, or motivation. It's just providing background information. So the Neutral class seems right here. 
+
+I should check the other options to be sure. Basis would be if the cited work is the foundation of the current research. But in this case, the citation is just giving a historical fact. Motivation would be if it's pointing out a need for research, which isn't the case here. Support would be if they're using it to back up a claim, but it's more of a statement of fact. So Neutral is definitely the correct class here.
+</think>
+
+Neutral

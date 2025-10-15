@@ -1,0 +1,12 @@
+Okay, so I'm trying to figure out how to classify this citation in the passage. Let me read through the prompt and the example again to make sure I understand the task. 
+
+The task is to assign each citation (denoted as CITSEG) in a scientific passage to one of the predefined rhetorical classes. The example provided is about the introduction of a study on human-ape communication. In the example, the citation is about a study that used a keyboard and a lexigram, and the current passage is explaining something similar but using a different method—the computer.
+
+I need to determine what the citation is doing in this context. The example says that "they [the cited work] used a keyboard and a lexigram," and the passage is contrasting that with their own method using a computer. So, it's comparing the methods of the cited work with those of the current paper. 
+
+Looking back at the rhetorical classes, I see CoCoGM is for cases where the citation is used to compare or contrast the research goals or methods of the cited work with the current paper. That seems to fit here because the passage is highlighting that their method is different from the cited study. They're not just mentioning it neutrally or using it for support; instead, they're comparing their approach. 
+
+I should check if there's any chance it could fit into another category, like Support or Usage, but in this case, the focus isn't on supporting their findings or using a specific tool. It's more about contrasting methods. So yes, CoCoGM is the most appropriate class here.
+</think>
+
+CoCoGM

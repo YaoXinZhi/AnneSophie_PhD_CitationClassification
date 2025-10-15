@@ -1,0 +1,16 @@
+Alright, I need to classify the citation's rhetorical role in the given passage. The passage is in the plant health domain, so I'll focus on that context. First, I'll read the example provided to understand the structure and what's expected.
+
+The user gave an example where the citation is used to point out a similarity between studies. Specifically, the example mentions that the findings are supported by similar cross-taxon investigations in fleas and ticks. So, the cited work is showing a similar pattern or result, which fits the "Similar" class.
+
+Now, I need to apply this reasoning to any given passage. Let's say I have a passage like: "Our results align with previous findings showing that certain environmental factors influence plant disease susceptibility (CITSEG)." This would likely be the "Similar" class because it's pointing out a similarity in findings.
+
+Another example: "Recent studies have shown that the same host factors impact bacterial communities in other insects as well (CITSEG)." This also shows similarity in the phenomena observed, so it's "Similar."
+
+I should ensure that I correctly identify when the citation is highlighting a similarity in results, patterns, or observations between different studies without necessarily comparing or contrasting methods or results directly. It's more about noting that the same kind of thing happened elsewhere, supporting the current findings without direct comparison.
+
+If the passage uses the citation to merely state a fact without any supportive, comparative, or critical intent, it's "Neutral." But if it's pointing out a similar result elsewhere, it's "Similar."
+
+So, the key is to look for language that indicates the cited work shares a similar finding, pattern, or observation, which reinforces the current study's conclusions without necessarily integrating it as a foundation or contrasting it.
+</think>
+
+Neutral

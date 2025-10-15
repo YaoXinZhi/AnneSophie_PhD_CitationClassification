@@ -1,0 +1,16 @@
+Okay, let's tackle this citation classification. The user provided a passage where a citation is marked as (CITSEG), and I need to determine which rhetorical class it falls into. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+First, I need to read the example they gave. The passage says: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)." Wait, actually, looking back, the example they provided for Motivation is the case where the citation is used to justify the current research because there's a knowledge gap. Let me check the example again.
+
+The user's example for Motivation: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+So the citation here is pointing out a prior work that identified a result, but there's a lack of explanation, which is the motivation for the current study. The (CITSEG) here is the prior work that showed the effect exists, but the current paper is addressing the why behind it. 
+
+In the given passage provided by the user, which is the example here, the structure is "Our previous research (CITSEG) did X. Since the explanation is not yet offered, the purpose of this work is..." So the citation is used to state prior work that identified something but left an open question, hence motivating the current research.
+
+Therefore, the class should be Motivation. 
+
+Wait, I need to make sure there's no confusion with Basis. The Basis class is when the cited work is the foundation of the current work. Here, the prior work highlights a knowledge gap which the current work is addressing. That fits Motivation's definition of justifying the research by identifying an open question. Basis would be if the current work is a continuation or built upon the cited work as its foundation. Here, the cited work shows a result, but the current work is aiming to explain it, which is more about motivation based on a gap rather than a direct foundation. So the answer is Motivation.
+</think>
+
+Motivation

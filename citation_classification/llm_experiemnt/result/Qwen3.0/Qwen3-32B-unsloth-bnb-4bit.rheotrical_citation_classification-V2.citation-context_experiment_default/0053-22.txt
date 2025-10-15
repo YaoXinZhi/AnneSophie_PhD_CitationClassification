@@ -1,0 +1,7 @@
+<think>
+Okay, let's start by looking at the passage provided. The sentence around the citation says, "The IAT was originally introduced by (CITSEG)." So the author is talking about the origin of the IAT.
+
+The citation here is being used to give credit for introducing the IAT. According to the classes, the 'Basis' class is when the cited work is the foundation of the current research. Since the IAT's introduction is being referenced, and the current work is built upon that foundation, this fits the 'Basis' category. There's a direct contribution mentioned because the cited work introduced the method they're building on. Examples given for 'Basis' align well here. It doesn't fit 'Usage' because it's about introducing the concept, not using a method from the paper. 'Motivation' might be if they cited it to show a need, but here it's more about the foundation. So 'Basis' is the right class here.
+</think>
+
+Basis

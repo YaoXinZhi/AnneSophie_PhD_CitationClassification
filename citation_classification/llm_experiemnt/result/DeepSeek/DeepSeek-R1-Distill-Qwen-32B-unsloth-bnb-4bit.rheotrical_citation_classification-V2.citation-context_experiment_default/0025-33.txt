@@ -1,0 +1,21 @@
+Okay, let's tackle this classification task. So, the user provided a scientific passage and a specific sentence with a citation placeholder (CITSEG). My job is to figure out the rhetorical class of that citation based on the predefined list.
+
+First, I'll read the passage carefully. It says, "Moreover, the application of a magnetic field significantly reduces the density of the scale (CITSEG). The scale formation is a major problem in many technical devices and can cause severe failures, which in turn result in high repair and maintenance costs." 
+
+The citation here is supporting a point about magnetic fields reducing scale density. The context of the citation is that the authors are presenting a finding and then explaining why it's important by discussing the problem of scale formation.
+
+Looking at the rhetorical classes, I need to pick the most appropriate one. Let's go through each:
+
+- **Basis**: This is when the cited work is foundational. Not sure yet.
+- **CoCoGM/CoCoRes/CoCoXY**: These are about comparisons or contrasts, which I don't see here.
+- **Future**: About suggesting research directions. Not applicable here.
+- **Motivation**: Explaining the reason for the current study. It might be close because the authors mention the problem they're addressing.
+- **Neutral**: Just a neutral mention, but the context here seems supportive.
+- **Similar**: About similarity with another study. Doesn't fit.
+- **Support**: The citation supports a claim. The authors are stating a result from a previous study that reduces scale density.
+- **Usage**: About methods or tools. Doesn't seem to fit.
+
+Hmm, the sentence directly supports the point that magnetic fields reduce scale density, so it's providing evidence. Therefore, 'Support' seems to be the right class.
+</think>
+
+Support

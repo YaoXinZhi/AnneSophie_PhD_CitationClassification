@@ -1,0 +1,4 @@
+Okay, so I'm trying to classify the rhetorical role of the citation (CITSEG) in the given passage. The passage mentions that the cited work "introduced and validated the IAT," which they used as a basis for their research. Since the citation is directly building upon prior work, the appropriate class is Basis.
+</think>
+
+basis

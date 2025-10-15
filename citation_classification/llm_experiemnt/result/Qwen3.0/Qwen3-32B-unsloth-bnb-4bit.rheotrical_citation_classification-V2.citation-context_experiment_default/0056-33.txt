@@ -1,0 +1,7 @@
+<think>
+Okay, let's see. I need to figure out the correct rhetorical class for the given citation example. The example provided is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Looking at the classes, CoCoRes is for comparing or contrasting results. The sentence mentions that their results differ from those of the cited work. That's a direct comparison of findings, so CoCoRes seems right. Basis is when the cited work is the foundation, which isn't the case here. Motivation is about justifying the research, which isn't happening. Support would be if they're backing up their claim with the citation, but they're contrasting. So CoCoRes fits.
+</think>
+
+CoCoRes

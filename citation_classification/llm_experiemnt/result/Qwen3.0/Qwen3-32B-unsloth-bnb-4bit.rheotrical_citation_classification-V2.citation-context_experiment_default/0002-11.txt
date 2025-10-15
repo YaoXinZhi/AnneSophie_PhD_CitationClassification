@@ -1,0 +1,11 @@
+<think>
+Okay, let's start by understanding the task. I need to classify the citation in the given passage into one of the specified rhetorical classes. The citation is marked as (CITSEG), so I need to look at the surrounding text to determine the context.
+
+The example passage provided is: "(CITSEG) showed that aphid-resistant genotypes of Pisum sativum L are less sensitive to drought than susceptible genotypes." 
+
+Looking at this sentence, the citation is being used to present a finding from another study. The verb "showed" indicates that the cited work demonstrates a result. The current sentence isn't comparing methods or goals with the citing paper, nor is it suggesting future work. It's stating a result from the cited research. There's also no indication of similarity, motivation, or criticism. The sentence is straightforwardly reporting a finding from the cited study without aligning it with the current paper's claims. 
+
+The Neutral class example says the citation is used in a neutral, descriptive way without supporting or motivating an argument. Here, the citation is being used to state a fact from previous research without elaborating on how it relates to the current work beyond presenting the finding. So this fits the Neutral category.
+</think>
+
+Neutral

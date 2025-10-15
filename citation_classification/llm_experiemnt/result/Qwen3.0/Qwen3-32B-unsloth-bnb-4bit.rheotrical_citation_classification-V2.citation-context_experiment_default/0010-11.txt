@@ -1,0 +1,9 @@
+<think>
+Okay, let's see. I need to figure out what rhetorical class the citation belongs to here. The user provided a passage where they're talking about their research building on previous work. The example given is when a cited study introduced something, and the authors are replicating their results. The class for that is "Basis". 
+
+In the example under CoCoGM, it's about comparing goals or methods. The current paper contrasts their approach with another's. For CoCoRes, it's about comparing results directly. CoCoXY is when comparing cited studies with each other. Future is when suggesting directions for future work, Motivation is why the research is done, Neutral is just a neutral mention, Similar if pointing out similarity, Support when backing up claims, Usage for methods used, Weakness when criticizing the cited work.
+
+Now, looking at the example passage provided: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." The key here is that they are comparing their results with those of the cited work. That's a direct comparison of results. So the correct class should be CoCoRes.
+</think>
+
+CoCoRes

@@ -1,0 +1,42 @@
+Okay, I need to classify a citation passage from a scientific article into one of several rhetorical classes. The task is to assign the most appropriate label based on how the citation is used in the context of the citing paper. Let's see what each class entails.
+
+First, I'll go through each possible class and understand their definitions:
+
+1. **Basis**: This is when the cited work is the foundation of the current research, directly contributing to the new solution or as a continuation of prior work.
+2. **CoCoGM (Comparison of Goals or Methods)**: Used when the citation compares or contrasts the research goals or methods with the citing paper.
+3. **CoCoRes (Comparison of Results)**: When the citation directly compares or contrasts results or findings with the citing paper's results.
+4. **CoCoXY (Comparison of Explanations or Claims)**: When the citation compares or contrasts two cited studies with each other, not with the citing paper.
+5. **Future**: When the citation suggests or implies directions for future research.
+6. **Motivation**: When the citation justifies why the current research is being conducted, like identifying a knowledge gap.
+7. **Neutral**: When the citation is used neutrally without supporting, comparing, criticizing, or motivating any specific argument.
+8. **Similar**: When the citation points out a similarity concerning results, patterns, phenomena, or general observations.
+9. **Support**: When the citation supports, confirms, or reinforces a claim made by the authors, aligning with their findings or arguments.
+10. **Usage**: When the citation refers to a method, tool, dataset, or experimental setup used in the current study.
+11. **Weakness**: When the citation criticizes, questions, or points out limitations in the cited work.
+
+Now, I need to look at the passage in which the citation is used to determine its role. Since I don't have the actual passage, I'll assume a hypothetical context based on common scenarios.
+
+**Hypothetical Passage Example:**
+"Our findings are consistent with previous studies demonstrating the impact of environmental factors on plant pathogen resistance (CITSEG)."
+In this case, the citation is supporting the current findings by aligning with prior research, so it would likely be labeled **Support**.
+
+Another Example:
+"The methodology we employed builds upon the earlier work of Smith et al. (CITSEG) to improve the accuracy of soil nutrient analysis."
+Here, the citation is establishing the foundation or basis for the current study, so it would be **Basis**.
+
+Alternatively:
+"Although previous studies have focused on bacterial community assembly in insects (CITSEG), our research extends this by examining the role of host-specific factors."
+This might be **CoCoGM** as it compares the research goals or methods.
+
+Wait, no—the citation is contrasting the methods or goals by pointing out what previous work has done versus current efforts.
+
+But if the passage is neutral, like mentioning a previous work without comparing or supporting, it would be **Neutral**.
+
+In this process, key considerations are the context in which the citation is placed, whether it's comparing, supporting, establishing a foundation, or merely mentioning prior work without an argumentative role.
+
+Without the exact passage, I have to consider the reasoning process as hypothetical, but in real scenarios, I would analyze the specific usage of the citation to assign the correct class.
+</think>
+
+The most appropriate class label for the hypothetical passage where the citation supports the findings by aligning with prior research is:
+
+`Support`

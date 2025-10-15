@@ -1,0 +1,12 @@
+Okay, let me tackle this classification step by step. The user provided a citation passage and needs to determine the rhetorical class. The example given is about magnetic water treatment devices in the USA. The sentence says, "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." The task is to figure out which class this falls into.
+
+First, I'll review the classes again to make sure I have them right. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+Looking at the example sentence here, the citation is used to state a fact— that the use spread since 1975. The citation is providing a source for that statement. The key point here is that the citation isn't being compared to another study, nor is it supporting the current paper's findings or highlighting a method used. It's just a descriptive statement. 
+
+The Motivation class is about justifying the current research, like pointing out a knowledge gap. The Support class is when the cited work backs up the authors' claims. Here, the citation is merely stating a fact without endorsement or comparison. The Neutral class is for when the citation is used in a neutral, descriptive way without supporting, comparing, or criticizing. 
+
+So the sentence here is giving a historical fact about the spread of the devices, without any argumentative or comparative element. Therefore, it fits best under Neutral.
+</think>
+
+Neutral

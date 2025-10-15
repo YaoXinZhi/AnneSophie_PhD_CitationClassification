@@ -1,0 +1,10 @@
+Okay, let's see. The task is to determine the rhetorical class of the citation in the given passage. The user provided the example: "The experimental set-up was described in details previously (CITSEG)." 
+
+Hmm, the options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+The example here says that the experimental setup was described in detail in the cited work. That means the current study is using that setup. So they're referring to a method or experimental setup from the cited paper. Looking at the classes, the Usage class is for when the citation refers to a method, tool, dataset, or experiment used in the current study. That fits here because they're using the previous description of the setup. 
+
+Let me make sure none of the other classes fit better. Support would be if the citation supports their claim, but here it's about using the setup. Similar is about similarity, which isn't the case. So yes, Usage is the right one.
+</think>
+
+Usage

@@ -1,0 +1,13 @@
+<think>
+Okay, let's tackle this classification step by step. The task is to determine the rhetorical class of the citation marked as (CITSEG) in the given passage. The possible classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness.
+
+First, I'll read the example provided under the "Motivation" class. The example states that the citation is used to justify why the current research is being conducted by identifying a knowledge gap or need. The passage in question here mentions previous research that showed magnetic fields preventing calcite scale formation but notes that the mechanism isn't explained yet. The purpose of the current work is to understand this mechanism. 
+
+Looking at the given citation's role here, it's cited to establish the reason for the current study because there's an unexplained phenomenon in the cited work. The citing authors are addressing a gap in knowledge by building on the prior research. This aligns with the Motivation class definition since the citation is justifying the need for their research by pointing out that previous work hasn't resolved the underlying explanation yet.
+
+I need to ensure it's not a Basis instead. Basis is when the cited work is the foundation for the current research, contributing directly to a new solution or continuation. However, in this case, the cited work is highlighting a gap (the lack of explanation) which motivates the current research rather than serving as the foundation. The current study aims to address that gap, which fits Motivation better than Basis. 
+
+Also, it's not Support because the authors aren't confirming their findings but rather stating that the cited work shows an area needing further explanation. Weakness isn't applicable here since the citation points to an existing research finding but doesn't criticize it. Neutral is incorrect because the citation is used to justify the purpose of the study. Thus, the correct class is Motivation.
+</think>
+
+Motivation

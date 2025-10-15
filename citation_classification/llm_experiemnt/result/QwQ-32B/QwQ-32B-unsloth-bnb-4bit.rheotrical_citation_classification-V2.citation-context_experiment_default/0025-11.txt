@@ -1,0 +1,14 @@
+Okay, let's tackle this classification. First, I need to read the example given. The user provided a citation passage and wants to know which rhetorical class it fits into. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+The example is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+So I need to see why this example is labeled as Future. Let me break it down.
+
+The sentence starts with "Similarly", which might indicate a similar finding, but the key part here is "suggesting potential broader applicability." The citation is pointing out that the previous work's findings might lead to future research directions, like applying the peptide to more species or exploring its broader uses. The phrase "suggesting potential" implies that the cited work provides a lead or idea for what could be done next. That lines up with the Future class definition: when the citation is used to suggest or imply future research directions. 
+
+Now, checking other possible classes. Could it be Support? The cited work's findings are supporting the idea of broader applicability, but the focus here is more on the implication for future work rather than just confirming a current claim. Support is about reinforcing existing claims, while Future is about suggesting what should be done next. The example sentence uses the citation to point towards possible future research, so Future is appropriate.
+
+No comparison here, so not CoCoGM or CoCoRes. No mention of weaknesses or contrasting the cited work with their own. It's not explaining motivation for the current study's need, but suggesting where to go next. So yes, Future is correct.
+</think>
+
+Future

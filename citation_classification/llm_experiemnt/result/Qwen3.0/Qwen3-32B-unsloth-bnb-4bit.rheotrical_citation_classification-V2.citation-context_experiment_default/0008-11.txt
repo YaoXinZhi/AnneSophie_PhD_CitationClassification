@@ -1,0 +1,11 @@
+<think>
+Okay, let's try to figure out how to classify this citation. So the user gave me a passage where I need to determine the rhetorical class of the citation marked as (CITSEG). The task is to pick from classes like Basis, CoCoGM, CoCoRes, etc. 
+
+First, I need to look at the example provided. Let's see the example under CoCoRes (Comparison of Results): it says the results obtained "substantially differ" from experiments conducted by CITSEG. So when the citation is used to compare findings or results between the current paper and the cited work, it's CoCoRes. 
+
+Now, looking at the sample passage given by the user: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." The key phrase here is "substantially differ from the results of experiments," which directly points to comparing results. The citation here is being used to contrast the results of the cited work with the present study's results.
+
+So according to the CoCoRes class definition, this example fits perfectly because it's discussing differences in results between the two studies. The other classes don't seem to fit here. It's not Basis because the cited work isn't foundational here. It's not Motivation or Future either. The comparison is not about methods or goals, nor is it pointing out weaknesses. There's no similarity mentioned either, so Similar isn't it. Neutral doesn't apply because there's a direct comparison happening. The citation supports isn't the case here either as it's contrasting rather than supporting. Therefore, CoCoRes is the correct class.
+</think>
+
+CoCoRes

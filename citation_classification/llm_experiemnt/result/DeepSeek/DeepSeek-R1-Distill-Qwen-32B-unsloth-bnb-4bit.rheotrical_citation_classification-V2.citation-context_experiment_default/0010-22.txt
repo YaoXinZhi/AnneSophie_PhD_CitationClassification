@@ -1,0 +1,14 @@
+Alright, so I'm trying to figure out the rhetorical class for the citation in this passage. Let me start by reading through the example again:
+
+"In our previous research (CITSEG), we have found that plant growth is significantly influenced by soil pH levels. This leads us to investigate further into the effects of different pH levels on crop yields."
+
+Hmm, okay, the citation here is referring to the authors' own previous work. They mention that their current research is motivated by the findings from their past study. The way it's phrased, "leads us to investigate further," suggests that the cited work is setting the stage for the current research. It's explaining why they're doing this new study because they found something important before.
+
+Looking at the classes, "Motivation" seems to fit here. The citation is used to justify why the current research is necessary, identifying it as a follow-up to previous work. It shows that there's a knowledge gap—specifically, they found something interesting in their last study and now want to explore it more deeply.
+
+I don't think it's "Basis" because "Basis" is about the intellectual foundation contributing directly to the new solution, whereas here it's more about motivating the new research based on past findings. It's not comparing methods or results, so "CoCoGM" or "CoCoRes" doesn't apply. "Usage" is about methods or tools used, which isn't the case here. Similarly, "Support" would involve citing someone else's work to back up their claim, but this is their own work leading into the current study.
+
+So, the most appropriate class here is "Motivation" because it's explaining the reason behind conducting the current research based on prior findings.
+</think>
+
+Motivation

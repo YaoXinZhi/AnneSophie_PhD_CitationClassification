@@ -1,0 +1,11 @@
+<think>
+Okay, let's look at the task. I need to classify the rhetorical role of the citation labeled (CITSEG) in the given passage. The possible classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+Looking at the example passage: The results here are compared with a previous experiment conducted with different metal targets. The key phrase is "substantially differ from the results of..." which directly points to CoCoRes since it's comparing experimental results. 
+
+The example given for CoCoRes mentions results differing from another study's experiments. The sentence structure matches the CoCoRes example provided in the guidelines where findings are directly compared. The passage uses the citation to contrast results, not goals or methods or explanations between cited works. 
+
+So, the correct classification here is CoCoRes.
+</think>
+
+CoCoRes

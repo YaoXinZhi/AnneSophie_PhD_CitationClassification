@@ -1,0 +1,20 @@
+Okay, so I need to figure out the rhetorical class for the given citation passage. Let me start by reading through the passage carefully. 
+
+The passage is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Alright, the key here is to understand what the authors are doing with this citation. They mention that their finding is supported by recent cross-taxon investigations. So they're pointing out that another study has similar findings, which supports their own work. 
+
+Looking at the rhetorical classes, I need to see which one fits best. The "Support" class is used when the citation is used to back up the authors' own claims or findings. In this case, the authors have a finding that insect hosts affect bacterial assembly, and they're citing another study that supports this by showing similar patterns in fleas and ticks. 
+
+I should also consider other classes to make sure I'm not misclassifying. For example, "Similar" is when pointing out a similarity, but here it's more about supporting the claim rather than just stating something similar. "Comparison of Results" is another possibility, but that's usually when contrasting results, which isn't the case here. The authors are aligning their results with the cited work, not comparing or contrasting. 
+
+So, it seems the most appropriate class is "Support" because the citation is directly backing up their finding with another study's results that align with theirs.
+</think>
+
+Support
+
+```json
+{
+  "rhetorical_class": "Support"
+}
+```

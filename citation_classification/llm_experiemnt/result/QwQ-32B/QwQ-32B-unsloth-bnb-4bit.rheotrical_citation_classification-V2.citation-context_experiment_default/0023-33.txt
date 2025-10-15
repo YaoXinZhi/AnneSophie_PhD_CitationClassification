@@ -1,0 +1,12 @@
+Okay, let's tackle this classification. The user provided a citation passage and wants to know which rhetorical class the (CITSEG) belongs to. First, I need to remember the different classes and their definitions.
+
+The example given is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Looking at the definitions, the Future class is when the citation suggests directions for future research. The sentence here mentions "suggesting potential broader applicability," which seems to point towards future applications or possibilities. The citation is used to imply that there's potential for further research based on the cited work's findings. 
+
+Checking other classes: Support would be if the citation supports the current paper's claim, but here it's more about suggesting that there's more to explore. The example given for Future is similar, where the citation leads to a suggestion for future work. The key phrase is "suggesting potential broader applicability," which aligns with the Future class. 
+
+I should make sure none of the other classes fit better. CoCoRes is about comparing results, which isn't happening here. Weakness is about criticism, which isn't present. Usage refers to methods, which isn't the case. So yes, Future is the right choice here.
+</think>
+
+Future

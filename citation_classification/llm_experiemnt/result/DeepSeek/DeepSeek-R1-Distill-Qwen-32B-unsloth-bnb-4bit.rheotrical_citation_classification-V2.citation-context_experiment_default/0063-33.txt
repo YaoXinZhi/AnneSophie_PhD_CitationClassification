@@ -1,0 +1,8 @@
+Okay, I need to figure out the rhetorical class for the given citation passage. The passage mentions that the study of specific bacteria's ability to infect only certain plant species is influenced by bacterial effector proteins, as reported in CITSEG. The authors then state that in-depth knowledge of these proteins is critical for understanding the infection process. 
+
+So, the citation is used to support the claim that effector proteins are important. This aligns with the Support class because the cited work provides evidence backing the authors' assertion. 
+
+I think the correct label is Support.
+</think>
+
+Support

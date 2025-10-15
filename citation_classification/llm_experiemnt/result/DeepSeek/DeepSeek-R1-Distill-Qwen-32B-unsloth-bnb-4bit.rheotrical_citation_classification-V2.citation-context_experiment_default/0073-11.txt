@@ -1,0 +1,16 @@
+Alright, I need to classify the citation (CITSEG) in the given passage into one of the predefined rhetorical classes. Let me read the passage carefully.
+
+The passage says, "Our finding that insect hosts affect bacterial community assembly is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Breaking this down, the authors are presenting their finding that insect hosts influence bacterial community assembly. They then mention that this finding is supported by recent cross-taxon investigations. Then they cite the study (CITSEG) which talks about how in fleas and ticks, the arthropod host governed bacterial assemblages, while other factors didn't.
+
+The use of "supported by recent cross-taxon investigations" indicates that they are presenting another study that aligns with their own findings. So the citation is being used to support their claim, showing that their result is in line with other research.
+
+Looking at the rhetorical classes, the Support class is exactly for when a citation is used to confirm or reinforce the authors' own claims or findings. The example provided for Support shows a similar pattern, where previous research aligns with the current work.
+
+Therefore, the correct classification here is Support.
+</think>
+
+```json
+"Support"
+```

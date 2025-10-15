@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification task step by step. The user provided a citation passage and wants me to determine the appropriate rhetorical class from the given list. First, I need to understand the context around the CITSEG placeholder. Let me read through the example passage again.
+
+The passage starts by mentioning that the results in the present work differ from experiments using deuterium saturated metal targets, citing CITSEG. The example given for CoCoRes is when results are compared directly. Here, the authors are stating their results "substantially differ" from those in CITSEG. That sounds exactly like a comparison of results. 
+
+I should check other classes to make sure. Basis is for foundational work, which doesn't fit here. CoCoGM would involve comparing goals or methods, but the passage is about results. CoCoXY compares two cited studies, not the citing paper. Future and Motivation aren't relevant here. Neutral is for descriptive use without argument, but this is contrasting findings. Similar would be if they agreed, not differed. Support is when the citation backs up a claim, which isn't the case. Usage refers to methods, not results. Weakness criticizes the cited work, but here it's about their own results differing. 
+
+Therefore, the correct class should be CoCoRes.
+</think>
+
+CoCoRes

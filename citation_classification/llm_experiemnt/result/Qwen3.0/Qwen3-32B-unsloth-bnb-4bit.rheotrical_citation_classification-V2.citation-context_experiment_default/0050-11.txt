@@ -1,0 +1,13 @@
+<think>
+Okay, let's tackle this classification task step by step. The user provided a scientific citation passage and wants me to determine the rhetorical class for the citation denoted by (CITSEG). The possible classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to carefully read the example passage to understand the context in which the citation is used. The example given under the "Motivation" class states that the citation is used to justify the current research by pointing out a knowledge gap or need. In the example, the citing paper mentions their previous research showed a phenomenon but notes the explanation is not yet offered, hence their current work aims to address that gap.
+
+Now, looking at the passage provided by the user, I need to identify the role of (CITSEG). The passage says, "Our previous research (CITSEG) has shown that the formation of the hard calcite scale can be prevented with a magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism."
+
+Here, the citation (CITSEG) refers to the previous work by the authors themselves. They mention what their prior research has demonstrated but highlight that an explanation is lacking. The current research's purpose is to fill that gap by understanding the mechanism. This clearly matches the "Motivation" class because the citation is justifying the need for the current research by pointing out that the previous findings don't yet have an explanation. The cited work is being used to identify a knowledge gap, which motivates the current study.
+
+I should check if there's any other possible class that might fit. For example, could it be "Basis"? The Basis class is when the cited work is the foundation for the new research. However, in this case, the citation shows prior results but the motivation here is to address an unresolved question from that prior work. So it's more about justifying the need rather than continuing or building directly on prior methods or findings. "Motivation" fits better here because it's about identifying a gap that the current work aims to fill.
+</think>
+
+Motivation

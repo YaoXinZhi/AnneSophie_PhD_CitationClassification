@@ -1,0 +1,11 @@
+<think>
+Okay, let's start by looking at the citation passage provided.
+
+The passage says: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
+
+Here, the authors mention that their results align with previous research by CITSEG. They specifically note consistency with CITSEG's findings, pointing out that participants didn't differentiate certain categories as before. 
+
+Looking at the rhetorical classes, the "Support" class is used when a citation backs up a claim or finding. Since the authors are using CITSEG's work to reinforce their own results by showing consistency, this fits the Support category. There's a clear alignment indicated here, not just a neutral mention or a comparison. They’re highlighting agreement with prior work, which is exactly what "Support" entails.
+</think>
+
+Support

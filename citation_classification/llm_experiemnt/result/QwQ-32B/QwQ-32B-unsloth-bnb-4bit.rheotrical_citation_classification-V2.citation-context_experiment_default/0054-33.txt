@@ -1,0 +1,14 @@
+Okay, so I need to figure out the rhetorical class for this citation. The user provided the example where (CITSEG) is mentioned in a sentence about the formation of hard calcite scale and magnetic fields. Let me read it again: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+Hmm. The first thing I notice is that the authors are talking about their own previous research which showed a certain result—preventing scale with magnetic fields. But now they're saying the explanation isn't there, so this work aims to understand the mechanism. The citation here is pointing out a knowledge gap. The current study's motivation is to address that gap. 
+
+Checking the classes, the Motivation class is for when the citation justifies why the current research is being done by identifying a gap or need. The example given for Motivation also mentions prior work showing something, then stating the current work's purpose. That's exactly what this example does. 
+
+The other classes don't fit as well. Basis might be a contender because it's their own prior work, but Basis is more about being the foundation for new solutions or continuation. Here, it's specifically about motivating the current study because a prior result's mechanism isn't explained. 
+
+Wait, the example for Basis says "introduced and validated" and then they replicate. Here, the current work isn't building on the cited work to create a new solution but rather explaining why it happens. So Motivation is better. 
+
+CoCoGM or CoCoRes compare with other works, which isn't the case here. Support would be if they were using the citation to back up their current claims, but here they're using it to state the gap. So yes, Motivation is the right class.
+</think>
+
+Motivation

@@ -1,0 +1,25 @@
+<think>
+Okay, let's go through this step by step. The task is to classify the citation denoted by CITSEG into the correct rhetorical class based on the provided examples and explanations.
+
+First, I need to understand what the citation is doing in the given passage. The example sentences for each class should guide me. Let me recall each class's definition:
+
+- **Basis**: The cited work is the foundation of the current research.
+- **CoCoGM**: Compares goals or methods.
+- **CoCoRes**: Compares results.
+- **CoCoXY**: Compares explanations or claims between cited studies.
+- **Future**: Suggests future research directions.
+- **Motivation**: Justifies the research by highlighting a knowledge gap.
+- **Neutral**: Describes neutral, non-argumentative use.
+- **Similar**: Points out similarities between works.
+- **Support**: Supports the authors' claims with evidence.
+- **Usage**: Uses methods/tools from the cited work.
+- **Weakness**: Criticizes or points out limitations in the cited work.
+
+Now, looking at the example for CoCoXY: "a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". Here, the citation is comparing multiple studies with each other, not contrasting them with the citing paper. The key here is that the comparison is between cited studies, not between a cited study and the current work.
+
+In the given example, the citation is used to highlight contradictory results among different references (REF1-REF12), which are compared against each other. The citing paper is pointing out confusion in the literature due to these contradictory findings. Since the comparison is between the cited studies themselves and not with the current paper's findings, methods, or goals, this fits the CoCoXY class.
+
+So the correct class here would be CoCoXY. I need to ensure that there's no other class that might apply. For instance, CoCoRes compares the citing paper's results with the cited work's results, but in this example, there's no mention of the current paper's results being contrasted. Similarly, Basis would imply the cited works are foundational, which doesn't fit. Motivation isn't relevant here as there's no justification for current research. Neutral is when it's just descriptive, but this example is about contrasting cited studies, which is more than just description. Therefore, CoCoXY is the right choice here.
+</think>
+
+CoCoXY

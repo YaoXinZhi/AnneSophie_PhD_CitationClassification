@@ -1,0 +1,14 @@
+Okay, let me try to figure out how to classify the role of (CITSEG) in this citation passage. So, the passage is from the plant health domain, and I need to assign one of the predefined rhetorical classes to it.
+
+First, I'll read the passage closely. The passage says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Looking at this, the sentence starts by stating a finding and then mentions that it's supported by other investigations. The citation is presented right after that, giving an example of another study where a similar pattern was observed.
+
+So, the cited work is being used to support the authors' own findings. They're saying that their results align with previous research, which strengthens their argument. This fits well into the "Support" category because they're using the citation to back up their claim.
+
+I should also consider if it could fit into any other categories. For instance, is it a comparison of results? Well, it's more of an agreement rather than a comparison, so not CoCoRes. It's also not pointing out a weakness or providing a motivation. It's clearly supporting their own findings with another study's results.
+
+Therefore, the most appropriate rhetorical class here is "Support."
+</think>
+
+Support

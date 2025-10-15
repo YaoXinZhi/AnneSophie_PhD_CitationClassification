@@ -1,0 +1,12 @@
+Okay, so I'm trying to classify the rhetorical function of the citation (CITSEG) in this passage. Let's see.
+
+The passage says: "In the first step, the model extracts the features of the input image. Several methods for feature extraction in neural networks have been proposed in the literature (CITSEG), but they all require a large number of training samples to work effectively."
+
+Hmm, the authors are talking about existing methods for feature extraction in neural networks and citing (CITSEG) as references. They mention that these methods require a large number of training samples. 
+
+Looking at the classes, the one that fits is "Weakness" because the citation is pointing out that all these methods require a lot of training data, which is a limitation. They're not comparing their method to the cited work, nor are they supporting their own findings with this citation. They're highlighting a drawback common to existing approaches.
+
+So, the rhetorical class here is pointing out a weakness in the cited studies regarding the requirement of large training datasets.
+</think>
+
+Weakness

@@ -1,0 +1,9 @@
+<think>
+Okay, let's see. I need to determine the rhetorical class for the citation in the given passage. The passage is: "This is because it has been reported that in certain situations (CITSEG) and (CITSEG) may result in different consequences." 
+
+Looking at the classes, CoCoGM is for comparing goals or methods of cited works with the current paper. CoCoRes is for comparing results. CoCoXY is for comparing explanations or claims between cited studies. The example for CoCoXY involves contrasting two cited studies without comparing with the citing paper. 
+
+The sentence here mentions two citations and states they may result in different consequences. It doesn't compare them with the current study's goals or methods (so not CoCoGM), nor is it comparing results directly with the current paper (CoCoRes). Instead, it's contrasting the two cited works' outcomes. Therefore, this fits CoCoXY.
+</think>
+
+CoCoXY

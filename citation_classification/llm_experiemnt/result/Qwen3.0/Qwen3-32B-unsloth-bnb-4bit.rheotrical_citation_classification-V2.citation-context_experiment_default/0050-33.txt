@@ -1,0 +1,19 @@
+<think>
+Okay, let me try to figure this out. The user provided a citation classification task where I need to determine the rhetorical class of a citation in a scientific article. The example given is from the plant health domain, but the actual task seems to involve understanding the context around the CITSEG placeholder.
+
+The citation passage is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The task is to assign the correct rhetorical class from the given list.
+
+First, I'll look at the example provided for CoCoXY. The example says: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". This matches the structure of the given passage exactly. The key here is that the citation is used to compare or contrast two cited studies with each other, not with the citing paper. The phrase "often contradictory results" suggests that the cited works (REF1-REF12) have conflicting findings, which the authors are pointing out as a reason for the confusing literature review. 
+
+Looking at other classes, "Basis" would be if the cited work is the foundation for the current research, which doesn't fit here. "CoCoGM" is for comparing goals or methods, but the example here is about results. "CoCoRes" compares results of the cited work with the citing paper, but in this case, the authors aren't comparing their own results but are discussing contradictions between the cited studies. "Neutral" would be if it's just a descriptive citation without argument, but the citation here is highlighting a problem in the literature. "Similar" and "Support" don't fit because the authors aren't stating similarity or using the citation as support. "Usage" is about methods, which isn't the case here. "Weakness" would involve criticizing the cited work, but here it's about the contradictory results in the literature, not pointing out flaws in a specific study. 
+
+Therefore, the correct class should be CoCoXY because the citation is used to compare or contrast the explanations or claims of the cited studies themselves (the contradictory results between REF1-REF12), not with the citing paper's own work.
+</think>
+
+CoCoXY
+
+```json
+{
+  "rhetorical_class": "CoCoXY"
+}
+```

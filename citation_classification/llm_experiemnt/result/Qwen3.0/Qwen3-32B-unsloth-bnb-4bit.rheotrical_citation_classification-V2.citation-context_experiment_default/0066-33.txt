@@ -1,0 +1,15 @@
+<think>
+Okay, let's start by looking at the citation passage provided. The example given is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]".
+
+The task is to classify the rhetorical role of the citation [REF1-REF12] in this context. The reference is mentioned in the context of contradictory results in the literature. The key phrase here is "often contradictory results that were reported." The author isn't comparing their own results or methods with the cited work, nor are they supporting their argument with the citation. Instead, they are pointing out that multiple studies (REF1-REF12) have conflicting findings, leading to confusion. 
+
+Looking at the classes, CoCoXY is defined for comparing or contrasting two cited studies with each other, not with the citing paper. Since the author is mentioning several references together and highlighting their contradictory results without directly relating them to their own work's findings or methods, this fits CoCoXY. The cited works are being compared against each other in terms of their results, hence the contradiction. 
+
+Other classes like CoCoRes involve comparing the citing paper's results with the cited work's results, which isn't the case here. Motivation or Support don't fit because there's no indication of justifying the research need or supporting the current study's claims. Neutral might be a possibility, but the author is actively pointing out a problem with the cited works (contradictory results), which is more of a comparison between the cited studies themselves rather than a neutral statement.
+
+Therefore, the correct class here is CoCoXY.
+</think>
+
+{
+  "class": "CoCoXY"
+}

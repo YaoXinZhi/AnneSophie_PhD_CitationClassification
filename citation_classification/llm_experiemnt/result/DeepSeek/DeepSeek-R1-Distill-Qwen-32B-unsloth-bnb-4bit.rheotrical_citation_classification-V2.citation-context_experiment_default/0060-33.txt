@@ -1,0 +1,10 @@
+Alright, so I'm trying to figure out how to classify the citation (CITSEG) in this passage. The passage mentions that the cited work supports a finding, which is about participants not distinguishing between personal interests and values as reasons for disputes. The cited work used a U.S. sample, similar to the current study. The current study found the same thing, so the citation is backing up their result. That makes me think the rhetorical class here is Support because the citation is used to confirm the authors' findings.
+</think>
+
+The citation is used to back up the authors' finding, thus it belongs to the Support class.
+
+```json
+{
+  "label": "Support"
+}
+```

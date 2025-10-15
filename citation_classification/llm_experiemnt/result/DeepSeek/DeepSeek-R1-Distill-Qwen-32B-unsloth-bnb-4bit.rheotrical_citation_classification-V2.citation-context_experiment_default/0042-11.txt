@@ -1,0 +1,14 @@
+Okay, I need to determine the rhetorical class for the given citation in the passage. The prompt says to assign one class from the predefined list. Let me first understand the context.
+
+The passage is about plant health and the use of magnetic water treatment. The sentence mentions that previous research showed preventing scale formation but didn't explain the mechanism, so the current work aims to understand it. The (CITSEG) is cited here to justify why they're conducting this research.
+
+Looking at the classes, "Motivation" seems appropriate. The citation is explaining the need for the current study by pointing out an open question. It sets the stage for their research, so it's not comparing, supporting, or anything else. It's purely motivational.
+</think>
+
+The citation is used to explain why the current research is being conducted, pointing out a knowledge gap. 
+
+Motivation
+
+```json
+"Motivation"
+```

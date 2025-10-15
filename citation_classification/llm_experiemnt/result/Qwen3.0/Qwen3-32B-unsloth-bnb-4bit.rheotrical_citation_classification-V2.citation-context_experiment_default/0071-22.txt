@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification. The task is to determine which rhetorical class the citation belongs to based on the given passage. Let me read through the examples again to make sure I understand each category correctly. 
+
+The passage provided is: "However, the results of other authors are contradictory or even opposing (CITSEG)." 
+
+First, I need to figure out how the citation is being used here. The phrase "contradictory or even opposing" suggests that the cited work's results are in conflict with others. The example for CoCoXY mentions comparing two cited studies with each other, not the citing paper. The example given is about contradictory results in the literature. The sentence here is similar—it's pointing out that other authors have contradictory results, which are cited. Since the citation is used to highlight conflicting findings between studies, not comparing with the current paper's work, this seems like CoCoXY.
+
+Let me check other classes. CoCoRes is comparing results with the current work, but here the citation isn't contrasting with the current study's results. Basis is about foundational work, which doesn't fit. Motivation is about justifying the current research, which isn't the case here. Neutral is a descriptive use without argument, but this is about contrasting results. So CoCoXY is the right choice here.
+</think>
+
+CoCoXY

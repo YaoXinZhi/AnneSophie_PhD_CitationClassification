@@ -1,0 +1,15 @@
+<think>
+Okay, let's try to figure out the correct rhetorical class for this citation. The task is to assign the citation (CITSEG) to one of the predefined classes based on its role in the passage provided by the user.
+
+First, I need to look at the context around the citation. The example given under the 'CoCoXY' class says that the literatures are contradictory, and the citation is used to compare two studies with each other rather than comparing with the citing paper. Let me look at the example given for CoCoXY again:
+
+"However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]"
+
+In the user's question, the example under CoCoXY is similar to this. Here, the citation is used to compare multiple studies with each other rather than comparing with the citing paper's own results or methods.
+
+Now, in the given passage the user provides, "However, a review of the available literature is rather confusing due to the often contradictory results that were reported." The part in brackets [REF1-REF12] refers to the citations. According to the instructions, this is CoCoXY because it's referring to multiple cited studies being contradictory, not comparing with the current paper's findings but comparing among themselves.
+
+So when the passage points out contradictory findings among different cited works, the class is CoCoXY. In this case, the CITSEG is in the example of CoCoXY because the passage isn't comparing their own study with another, but is pointing out contradictions among multiple cited studies.
+</think>
+
+CoCoXY

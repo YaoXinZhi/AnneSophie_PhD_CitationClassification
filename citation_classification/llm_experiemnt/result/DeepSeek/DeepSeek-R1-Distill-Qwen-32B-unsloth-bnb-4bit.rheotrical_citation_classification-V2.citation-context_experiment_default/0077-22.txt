@@ -1,0 +1,10 @@
+Okay, I need to classify a citation in a scientific article into one of the predefined rhetorical classes. The passage provided is: "The taxonomic status of these species is problematic and some may not develop on Pyrus (CITSEG)."
+
+First, I look at the context. The sentence mentions that the taxonomic status is problematic and suggests that some species may not develop on Pyrus. The citation is following this statement. 
+
+Now, checking the classes: the most relevant one here seems to be "Weakness." This is because the cited work is being criticized for having problematic taxonomic status, implying issues or limitations in their findings.
+
+I don't think any other classes fit better. It's not a comparison (so not CoCoGM, CoCoRes, or CoCoXY), not providing motivation, supporting, or using their work directly. It's pointing out a flaw, so "Weakness" is appropriate.
+</think>
+
+Weakness

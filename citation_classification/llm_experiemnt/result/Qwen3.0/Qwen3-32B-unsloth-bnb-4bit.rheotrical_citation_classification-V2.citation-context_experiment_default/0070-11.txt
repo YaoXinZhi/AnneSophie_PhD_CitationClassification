@@ -1,0 +1,9 @@
+<think>
+Okay, let's see. I need to classify the rhetorical role of the citation in the given passage. The passage says: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Looking at the rhetorical classes provided, CoCoRes is for comparing results between the current work and the cited paper. The example given under CoCoRes mentions comparing results or findings directly. Here, the authors are stating that their results differ from those in the cited study. That's exactly comparing results, so it fits CoCoRes.
+
+Other classes like Basis don't fit because they're not building on the previous work's foundation. CoCoGM is for goals or methods, which isn't the case here. Future, Motivation, Neutral, Similar, Support, Usage, Weakness also don't apply. So it's CoCoRes.
+</think>
+
+CoCoRes

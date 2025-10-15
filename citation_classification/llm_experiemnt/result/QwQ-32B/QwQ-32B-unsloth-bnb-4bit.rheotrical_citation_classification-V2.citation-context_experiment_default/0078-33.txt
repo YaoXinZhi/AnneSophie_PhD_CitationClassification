@@ -1,0 +1,10 @@
+Okay, I need to figure out the correct rhetorical class for the citation in the given passage. Let me start by reading the example carefully. The user provided a passage where a citation is marked as (CITSEG). 
+
+The example given is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+Hmm, the key here is to determine the role of the citation in this sentence. The sentence is comparing the current results with those of the cited work. The phrase "substantially differ from the results" directly indicates a comparison of the outcomes between the two studies. 
+
+Looking at the classes, CoCoRes is for when the citation is used to compare results. The example provided under CoCoRes matches this scenario exactly. The other classes like CoCoGM or CoCoXY involve comparisons of goals, methods, or explanations between studies, but here it's specifically about the results differing. Support and Basis involve aligning or building on the cited work, which isn't the case here. Weakness would be if they were pointing out flaws, but here it's a straightforward comparison. So CoCoRes seems correct.
+</think>
+
+CoCoRes

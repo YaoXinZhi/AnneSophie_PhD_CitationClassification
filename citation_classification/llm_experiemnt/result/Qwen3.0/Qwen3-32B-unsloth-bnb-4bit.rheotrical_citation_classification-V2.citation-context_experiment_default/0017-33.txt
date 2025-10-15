@@ -1,0 +1,9 @@
+<think>
+Okay, let's try to figure out which class this citation falls into. The passage is about how previous research introduced and validated the IAT by studying certain biases and then the authors replicated those results. 
+
+Looking at the examples, the Basis class is used when the cited work is the intellectual foundation for the current research. The example there says they replicated the results for similar purposes. The current passage seems similar because they mention replicating the inoffensive results from the cited work. So maybe Basis is the right class here.
+
+Let me check other classes just to be sure. CoCoRes is about comparing results, but here they're not contrasting; they're building on the previous work. Neutral doesn't fit because they are using the citation as a foundation. Support might be possible, but in the example given under Support, they are confirming their findings with past research, whereas here they are replicating the previous work's results as a basis for their own study. That sounds more like Basis. Yeah, I think Basis is correct here.
+</think>
+
+Basis

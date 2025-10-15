@@ -1,0 +1,8 @@
+Alright, I'm trying to classify the citation in the given passage. The text is about the formation of calcite scales in hard water and how it can be prevented using a magnetic field. The authors reference "CITSEG" which shows the effectiveness of magnetic treatment. This reference is used to justify why they're conducting their current research. So, the class here is Motivation.
+</think>
+
+Motivation
+
+```json
+"Motivation"
+```

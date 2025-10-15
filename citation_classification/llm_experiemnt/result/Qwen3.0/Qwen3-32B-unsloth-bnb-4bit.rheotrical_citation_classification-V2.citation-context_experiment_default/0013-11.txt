@@ -1,0 +1,9 @@
+<think>
+Okay, let me try to figure out the correct rhetorical class for this citation. The passage says, "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods." 
+
+Looking at the example under the "Support" class, it mentions that the citation is used to support or confirm a claim made by the citing authors. Here, the authors state that their subscales were consistent with previous research by (CITSEG), indicating that their findings align with what was previously found. The cited work is presented as evidence supporting their own results.
+
+In the example provided for Support, they mention that the subscales were consistent with previous research, exactly like in the user's example. The cited work here serves to confirm their own findings, so the correct classification should be Support.
+</think>
+
+Support

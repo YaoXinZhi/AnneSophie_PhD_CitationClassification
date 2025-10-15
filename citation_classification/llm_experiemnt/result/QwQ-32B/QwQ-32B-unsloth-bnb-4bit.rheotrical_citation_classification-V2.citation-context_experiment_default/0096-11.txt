@@ -1,0 +1,14 @@
+Okay, let's tackle this classification problem. The user provided a citation passage and needs to determine the rhetorical class for (CITSEG). The example given is: "The experimental set-up was described in details previously (CITSEG)." 
+
+First, I need to go through each of the classes to see which one fits best. Let me start by recalling the definitions.
+
+The "Usage" class is when the citation refers to a method, tool, dataset, or experimental setup from the cited work that's directly used in the current study. The example given for Usage is exactly about the experimental setup being described before, which matches the example here. 
+
+Looking at the other classes: "Support" is when the citation supports a claim, but here it's about describing the setup. "Basis" would mean the cited work is foundational, but the sentence here is more about the setup being previously described, not the foundation. "Neutral" is possible, but the sentence is using the citation to refer to a prior description of their own method, which is a direct usage. 
+
+"CoCoGM" or "CoCoRes" involve comparisons, which isn't the case here. "Motivation" involves justifying the research, which isn't happening here. "Similar" is about similarities in results, which isn't the case. "Future" relates to future directions, not here. "Weakness" is criticism, which is not present. "Neutral" is a possibility but the exact example given for Usage matches this scenario perfectly. 
+
+Therefore, the correct class is Usage.
+</think>
+
+Usage

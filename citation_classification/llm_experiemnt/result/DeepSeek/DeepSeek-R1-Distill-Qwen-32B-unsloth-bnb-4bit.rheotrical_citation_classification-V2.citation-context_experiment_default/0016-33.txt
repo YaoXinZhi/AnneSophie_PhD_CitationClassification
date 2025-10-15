@@ -1,0 +1,6 @@
+Okay, let me try to figure out the rhetorical class for this citation. The passage mentions that (CITSEG) introduced and validated the IAT, studying biases considered nearly universal in humans. The current research then begins by replicating these inoffensive results for the same purposes.
+
+So, the cited work is setting the foundation for the current research. It's not just a mention but a direct continuation of prior work. The current study builds upon the IAT framework established by (CITSEG). Therefore, this should be classified as "Basis."
+</think>
+
+Basis

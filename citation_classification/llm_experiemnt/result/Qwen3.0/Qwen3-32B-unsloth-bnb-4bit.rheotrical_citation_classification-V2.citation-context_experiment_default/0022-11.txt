@@ -1,0 +1,13 @@
+<think>
+Okay, let's see. I need to figure out the rhetorical class for the given citation passage. The task is to determine which label from the list (like Basis, CoCoGM, etc.) fits best. 
+
+First, I'll look at the example provided. The example under CoCoGM says that the citation is for comparing or contrasting goals or methods. For instance, when they mention that another study proposed a method and their work is complementary in focus instead.
+
+Now, looking at the actual passage: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to 'debias' word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings."
+
+So, here the authors are comparing their work with the cited one. They acknowledge that the cited work's method is on 'debiasing', while their own focuses on demonstrating biases. That's a comparison of goals or methods, right? Because one aims to debias embeddings and the other aims to show biases exist. Therefore, this is contrasting their methods (or goals) with the cited paper's. 
+
+It doesn't talk about results directly (so not CoCoRes), nor does it point out similarities (Similar). It's not supporting their claim with evidence (Support), nor is it about future work or motivation. It's purely contrasting the methods or objectives between their paper and the cited one. Hence, the correct class should be CoCoGM.
+</think>
+
+CoCoGM

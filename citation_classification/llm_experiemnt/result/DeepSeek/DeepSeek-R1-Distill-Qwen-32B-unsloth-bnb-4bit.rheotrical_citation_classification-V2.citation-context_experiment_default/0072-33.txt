@@ -1,0 +1,10 @@
+Alright, so I'm trying to figure out the rhetorical class for the citation in this passage. Let me read it again: "(CITSEG) reported that the average level of parasitoid hyperparasitism in natural populations of the gypsy moth is about 20-50%, which is lower than that observed in our study." Hmm.
+
+Okay, let's break down the components. The author is comparing the results of their study with the cited work. They mention that their observation is lower than what (CITSEG) reported. So, they're directly contrasting their findings with those of the cited study.
+
+Now, looking at the classes. CoCoRes is for when the citation is used to compare or contrast the results. That fits here because the author is showing a difference in the data. They're not just citing as a basis or using it for motivation, but specifically discussing how their results differ from the cited one.
+
+I don't think it's Support because they're not using the citation to back up their own claim; rather, they're showing a discrepancy. It's not about similar findings or using the work as a foundation either. So, CoCoRes seems to be the right class here.
+</think>
+
+CoCoRes

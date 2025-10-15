@@ -1,0 +1,15 @@
+<think>
+Okay, let's tackle this classification task step by step. The user provided a citation passage and wants me to assign the correct rhetorical class from the given list.
+
+First, I'll look at the passage where the citation is used. The example sentence is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+I need to determine which rhetorical class this falls into. Let me recall the different classes. 
+
+The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+The key phrase here is "substantially differ from the results of the experiments." The author is comparing their own results with those of the cited work. Comparing results directly is a clear indicator of the CoCoRes class. 
+
+Let me cross-check the example for CoCoRes given in the prompt. The example states comparing results of the present work with cited experiments. The user's example matches this structure. The cited work's results are being compared to show differences. Therefore, the correct class should be CoCoRes.
+</think>
+
+CoCoRes

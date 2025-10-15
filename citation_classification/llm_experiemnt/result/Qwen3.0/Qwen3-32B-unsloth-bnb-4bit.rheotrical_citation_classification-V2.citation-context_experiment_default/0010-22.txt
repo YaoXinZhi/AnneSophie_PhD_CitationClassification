@@ -1,0 +1,15 @@
+<think>
+Okay, let's go through this step by step. The task is to classify the citation in the given passage under one of the specified rhetorical classes. The passage provided is:
+
+"In plant pathology, integrated pest management (IPM) strategies aim to suppress pest populations below economically damaging levels while minimizing environmental impact (CITSEG)." 
+
+First, I need to understand the context of the citation here. The sentence is introducing IPM strategies and their objectives. The citation (CITSEG) is used to support the statement about IPM's goals. The author is likely referencing a foundational work that originally proposed or validated these strategies. 
+
+Looking at the rhetorical classes, "Basis" is used when the cited work is the intellectual foundation of the current research or continues prior work. The example given for Basis mentions that the cited work introduced a method which the current study replicates or builds upon. In this case, the passage is stating the purpose and objectives of IPM, suggesting that the citation is providing the foundational basis for the discussion on IPM.
+
+The classes like "Support" involve using a citation to back up a claim, but here the citation is presented more as the origin or key reference for the concept being discussed rather than merely supporting evidence. The phrase "aim to suppress pest populations" followed by a citation suggests that the cited work established or outlined these aims.
+
+Other classes like "Motivation" or "CoCoRes" don't fit here because there's no mention of addressing a knowledge gap or comparing results. The "Neutral" class would apply if the citation was a factual statement without argumentation, but the mention of IPM strategies implies that the citation is foundational to the topic. Therefore, the most appropriate class seems to be "Basis".
+</think>
+
+Basis

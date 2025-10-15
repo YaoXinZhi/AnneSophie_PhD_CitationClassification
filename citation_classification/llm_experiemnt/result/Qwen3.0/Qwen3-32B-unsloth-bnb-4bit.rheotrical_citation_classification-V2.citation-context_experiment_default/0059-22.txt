@@ -1,0 +1,13 @@
+<think>
+Okay, let's see. I need to figure out the rhetorical class for the citation labeled CITSEG in the given passage. The user provided several examples and definitions for each class. Let me start by looking at the example passage again.
+
+The example given for CoCoXY is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The explanation says this is when the citation compares two cited studies with each other, not with the citing paper.
+
+In the user's specific case, the passage is a study on plant diseases caused by fungi. The sentence mentions that previous studies have reported conflicting results regarding the efficacy of certain fungicides. They refer to two previous studies (CITSEG). The context here is talking about existing literature having contradictory findings, which needs to be reconciled.
+
+Looking at the classes, CoCoXY is for comparing explanations or claims between cited studies, not involving the current paper. The example here matches that because the citation is pointing out contradictions between the cited works themselves. The current study is not directly comparing its own methods or results but is highlighting that the cited works have conflicting results.
+
+Other classes like CoCoRes would involve comparing the current paper's results with the cited work. Motivation might be if the citation is about a knowledge gap leading to their research. But here, the focus is on existing studies contradicting each other, so CoCoXY seems right.
+</think>
+
+CoCoXY

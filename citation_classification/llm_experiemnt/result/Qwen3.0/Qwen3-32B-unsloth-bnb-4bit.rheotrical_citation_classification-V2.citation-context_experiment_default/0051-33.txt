@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this citation classification task. The user provided a passage where each citation is marked as CITSEG, and I need to classify each one into the correct rhetorical class from the given list.
+
+First, I'll start by carefully reading the passage to understand the context around each CITSEG. The classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. 
+
+Looking at each CITSEG occurrence in the passage, I'll check how the cited work is being used. For example, if the citation is providing foundational work for the current study, it would fall under Basis. If it's comparing methods or goals with another study, that's CoCoGM. If the citation supports the author's claims, then Support is appropriate. Each CITSEG needs thorough examination against the examples given in the guidelines to ensure the correct classification. 
+
+I'll need to pay attention to the verbs used around CITSEG—like 'replicating', 'complementary', 'supported by', etc.—as they often indicate the rhetorical role. Also, context clues about future research directions, limitations, similarities, or neutral mentions will guide the classification accordingly. I'll go through each CITSEG systematically, applying these criteria to determine the most fitting label.
+</think>
+
+{"CITSEG-1": "Support", "CITSEG-2": "Basis", "CITSEG-3": "Motivation", "CITSEG-4": "Similar", "CITSEG-5": "CoCoRes", "CITSEG-6": "Neutral", "CITSEG-7": "Usage", "CITSEG-8": "Weakness", "CITSEG-9": "Future"}

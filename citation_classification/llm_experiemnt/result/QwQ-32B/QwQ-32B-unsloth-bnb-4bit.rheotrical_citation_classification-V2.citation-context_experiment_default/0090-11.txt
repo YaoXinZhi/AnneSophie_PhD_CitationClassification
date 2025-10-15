@@ -1,0 +1,10 @@
+Okay, let's tackle this classification problem. The user provided a passage and wants me to determine the rhetorical class of the citation (CITSEG). First, I need to understand the context of the citation in the given example. 
+
+Looking at the example given for the Similar class: "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." The key point here is pointing out a similarity between the current study's findings and the cited work. The cited study's results are similar in showing that the host influences bacterial communities, much like in the current paper.
+
+In the example passage, the authors mention their own finding and then state that another study (CITSEG) supports this with similar observations in fleas and ticks. The phrase "supported by" indicates similarity in results. The cited work isn't being contrasted, criticized, or used as a foundation; instead, it's pointing out that both studies found the same kind of relationship (host governing bacteria). 
+
+I should check other classes to be sure. CoCoRes is about comparing results, but here it's more about similarity rather than a direct comparison. Support would be if the citation is backing their own results, but the example says "supported by" others, which makes me think Similar is more appropriate. The key difference is that Similar is about pointing out a shared pattern, while Support is about the citation backing the current claim. Since the example mentions cross-taxon investigations showing the same phenomenon, it's about similarity across studies. Therefore, the correct class here is Similar.
+</think>
+
+Similar

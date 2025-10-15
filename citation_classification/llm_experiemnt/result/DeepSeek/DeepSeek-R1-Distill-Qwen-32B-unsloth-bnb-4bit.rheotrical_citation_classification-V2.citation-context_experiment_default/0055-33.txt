@@ -1,0 +1,8 @@
+Okay, so I need to determine the rhetorical class for the citation in this passage. The passage says, "Furthermore, we propose that this effect is also observed in other plant systems, as demonstrated for Arabidopsis thaliana (CITSEG)." 
+
+Let me look at the options. The citation mentions that the effect is observed in Arabidopsis, which is a model plant. The use here seems to support the claim that the effect isn't limited to one system but exists elsewhere. The class "Support" fits because the cited work is used as evidence to back up the current authors' claim. They're saying it's been shown in Arabidopsis, strengthening their argument. So the label should be "Support."
+</think>
+
+The passage uses the citation to support the claim by providing evidence from another plant system, thus reinforcing their argument.
+
+**Answer:** Support

@@ -1,0 +1,15 @@
+<think>
+Okay, let's start by looking at the example provided for the "Motivation" class. The example says that previous research showed something (formation of scale prevented by magnetic field) and the current work aims to explain the mechanism. The citation here sets up why the current research is needed—they want to understand the mechanism that prior work didn't explain.
+
+Now, the passage in question is: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+Breaking it down, the authors reference their own prior research to establish that they've observed an effect (scale prevention via magnetic field). However, they note that the explanation behind this phenomenon hasn't been provided yet. The purpose of the current work is precisely to investigate that missing explanation. 
+
+The key here is that the cited research is setting up the motivation for the current study. They're pointing out that there's an unexplained aspect (the mechanism) from their own previous findings, so the current research is filling that gap. The citation isn't being used to support a claim they're making now beyond stating the prior result. Instead, it's showing that due to this prior finding (which lacks an explanation), they're now studying the mechanism.
+
+Comparing this to the Motivation class definition: it's about justifying the current research by identifying a need or gap. Here, the cited work is their own prior research, which has a gap (explanation not offered), motivating the current study to address that gap. So this fits Motivation perfectly.
+
+Other classes like Basis might be if the cited work is the foundation for the new solution, but in this case, the foundation is the prior finding, but the focus is on the lack of explanation. The current work's purpose is to explore the mechanism not explained, so Motivation is appropriate.
+</think>
+
+Motivation

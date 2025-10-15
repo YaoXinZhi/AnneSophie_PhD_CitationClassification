@@ -1,0 +1,8 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into the appropriate rhetorical class. Let me read the passage carefully first. 
+
+The passage says: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
+
+Hmm, the cited work introduced and validated the IAT, which is foundational for the current research. The authors are replicating these results, indicating that the cited work is the basis for their own study. So, the rhetorical class here is Basis because the cited work provides the intellectual foundation.
+</think>
+
+Basis

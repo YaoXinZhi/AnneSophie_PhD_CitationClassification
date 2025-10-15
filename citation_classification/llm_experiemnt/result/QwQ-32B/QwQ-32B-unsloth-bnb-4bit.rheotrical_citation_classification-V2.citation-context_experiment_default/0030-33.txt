@@ -1,0 +1,10 @@
+Okay, I need to determine the rhetorical class for the citation in the given passage. Let me start by reading the example provided. The passage says: "The experimental set-up was described in details previously (CITSEG)." 
+
+Hmm, the key here is understanding why the citation is mentioned. The sentence is stating that the experimental setup they used was described before in the cited work. That sounds like they are referring to a method or procedure that was used in their current study. 
+
+Looking at the classes, the "Usage" category is for when a method, tool, dataset, or experimental setup from the cited work is directly used. The example given for Usage is almost identical: "The experimental set-up was described in details previously (CITSEG)." So this seems to exactly fit the Usage class. 
+
+I should check the other classes to make sure. "Support" is for supporting a claim with the citation, but here it's more about using the setup. "Basis" would be if the cited work is foundational, but the sentence is just mentioning prior description. "Neutral" is possible, but the mention here is specific to the method's description. So yes, "Usage" is the right choice.
+</think>
+
+Usage

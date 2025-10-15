@@ -1,0 +1,4 @@
+Okay, let's tackle this classification task. I'm looking at a citation in a plant health article. The citation is mentioned in a passage that talks about replication of results. The sentence structure indicates that the cited work introduced the IAT and validated it, establishing a foundation that the current research builds upon. Since the work is foundational and directly contributes to the new research, it fits the "Basis" class.
+</think>
+
+Basis

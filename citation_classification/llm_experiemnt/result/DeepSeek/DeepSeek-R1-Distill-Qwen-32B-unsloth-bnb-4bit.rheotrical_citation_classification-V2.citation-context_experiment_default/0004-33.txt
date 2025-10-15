@@ -1,0 +1,20 @@
+Alright, let's break this down. The user has given me a task where I need to classify citations in a scientific article into specific rhetorical classes. They provided a list of classes like Basis, CoCoGM, CoCoRes, etc., each with examples. 
+
+First, I realize that the user is probably an academic or researcher looking to analyze how citations are used in their field, specifically in plant health. They want to understand the function or role each citation plays in the argumentation of the paper. This could be for improving their own writing, assessing existing literature, or perhaps developing a tool to automate this classification.
+
+The user's detailed explanation of each class suggests they need precise classification. They also emphasized strict output format, so I need to ensure I only return the correct label without any extra text. 
+
+In the query example provided, the user gave an example where "CoCoRes" is the correct class. They explained that it's used when comparing results. My task is to replicate this process for any given citation passage.
+
+I should focus on identifying the context in which (CITSEG) appears. For instance, is the citation showing a comparison of results? If the passage mentions differing results from another study, it's likely CoCoRes. If the citation is just providing background, it might be Basis or Neutral.
+
+I also need to be cautious to not overcomplicate. Each example gives a clear clue about the class. I'll look for keywords like "compare," "differs," "substantially vary," etc., which often indicate comparison of results.
+
+Understanding the nuances between classes is key. For example, Motivation is about why the research is being done, while Support is about backing a claim. I must make sure I don't confuse these.
+
+Overall, my approach is to read the citation passage carefully, identify the function or role the citation serves, match it to the predefined classes, and return the specific label. I need to be systematic and precise to meet the user's requirements effectively.
+</think>
+
+```json
+"CoCoRes"
+```

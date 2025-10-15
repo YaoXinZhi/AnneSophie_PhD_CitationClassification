@@ -1,0 +1,13 @@
+<think>
+Okay, let's see. I need to classify the citation in the given passage. The passage is: "The experimental set-up was described in details previously (CITSEG)." 
+
+First, I'll look at the context around the citation. The phrase "was described in details previously" suggests that the cited work provided the setup that the current study is using. 
+
+Looking at the classes, the Usage class is for when the citation refers to a method, tool, dataset, or experimental setup from the cited work that is directly used in the current study. The example given under Usage is almost identical: "The experimental set-up was described in details previously (CITSEG)." 
+
+So, the key here is that the cited work's setup is being referenced because it's directly used in the current study. The authors aren't comparing results, methods, or explaining why they did the research; they're just stating that the setup was previously described in the cited work. 
+
+No other classes fit here. Basis would be if the cited work is the foundation of their research, but the example for Basis talks about introducing a new method. CoCoGM or others don't apply. Neutral might be close, but the example under Neutral is more about a neutral statement without supporting any argument. Here, the citation is about using a setup, which aligns with Usage.
+</think>
+
+Usage

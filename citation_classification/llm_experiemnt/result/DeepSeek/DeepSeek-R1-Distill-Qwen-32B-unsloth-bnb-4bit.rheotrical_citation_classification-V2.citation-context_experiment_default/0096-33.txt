@@ -1,0 +1,12 @@
+Okay, I need to figure out the rhetorical class for the citation in this passage. Let me read the passage again.
+
+The passage says, "Previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+So, the citation is mentioned to justify why this current research is being done. It points out that previous work has shown a certain effect, but the explanation is lacking, which motivates the current study. This is about identifying a knowledge gap.
+
+Looking at the classes, "Motivation" fits here because it's explaining why the current work is necessary. They're using the cited work to set up the motivation for their research by pointing out an unanswered question.
+
+I don't think it's any other class like "Basis" because it's not directly building on the cited work as a foundation, but rather using it to justify the need for the current study. So, the correct class should be "Motivation".
+</think>
+
+Motivation

@@ -1,0 +1,18 @@
+Okay, so I have this task where I need to classify a citation in a scientific article passage into one of several rhetorical classes. The passage given is about the role of magnetic water treatment in preventing hard calcite scale formation. The sentence mentions that a previous study showed the prevention of scale formation but hasn't explained the mechanism, which is the motivation for the current research.
+
+First, I need to identify what each rhetorical class entails. The classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. My job is to figure out which one fits the context here.
+
+Looking at the example, the authors are citing their previous work to justify why they're conducting the current study. They mention that while they've shown magnetic treatment prevents scale, the mechanism isn't understood, so they're now trying to explain it. This sounds like the motivation for their research.
+
+So, the class for Motivation is used when the citation is justifying why the current research is being done, pointing out a knowledge gap or open question. That matches perfectly here.
+
+I don't think it's Support because they're not using the citation to back up their own findings; they're using it to explain the rationale behind their study. It's not CoCoRes or CoCoGM because they're not comparing methods or results with previous studies. It's also not Basis because the cited work isn't directly foundational but rather highlighting a gap. So Motivation is the right choice.
+</think>
+
+Motivation
+
+```json
+{
+  "label": "Motivation"
+}
+```

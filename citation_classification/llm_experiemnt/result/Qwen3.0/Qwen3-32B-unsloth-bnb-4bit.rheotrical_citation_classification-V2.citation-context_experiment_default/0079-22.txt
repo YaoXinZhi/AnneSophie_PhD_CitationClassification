@@ -1,0 +1,21 @@
+<think>
+Okay, let's tackle this citation classification problem. So the task is to assign the correct rhetorical class to the (CITSEG) placeholder in a given scientific article passage. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to understand the context of the citation in the example provided. The example given under the CoCoXY class says: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The explanation is that the citation compares two cited studies to each other, not with the citing paper.
+
+Wait, in the user's case, the citation is in a passage that might be using the CoCoXY class if they are contrasting two studied results from different authors. Let me check the specific passage where the citation is placed. In the example given for CoCoXY, the authors mention conflicting results in the literature but don't compare the cited works to their own study—they're pointing out contradictions among previously cited works.
+
+So, applying this logic to a new citation: if the citation is used to compare or contrast two studies cited in the literature review (rather than comparing with the current paper) and highlighting their conflicting results, it's CoCoXY. 
+
+Let me look at the actual sentence in the example again. It's referring to the existing literature as confusing due to contradictory results, listed as references. The citation is not about comparing their method or goals to the current work but showing that other studies have conflicting conclusions. 
+
+In the user's own example, if the citation is doing the same—pointing out contradictions between cited works without mentioning the current paper's own methods, goals, results, etc.—then CoCoXY is correct. On the other hand, if they are comparing their own results with previous findings, it would be CoCoRes. 
+
+So I need to determine whether the citation is used to compare studies mentioned to each other or if the citation relates to the current study's own methods/results. Based on the given example, CoCoXY is when the citations are compared among themselves. Let me check the passage where CITSEG is. 
+
+In the user's passage: Suppose the sentence is something like "The literature presents conflicting findings; some studies report [CITSEG]..." where CITSEG represents a study that contradicts another cited study. In this case, CoCoXY applies because it's a contrast between cited works themselves. 
+
+Therefore, applying this reasoning step-by-step will lead me to assign CoCoXY if the citation is contrasting two studies in the existing literature without reference to the current study's approach.
+</think>
+
+CoCoXY

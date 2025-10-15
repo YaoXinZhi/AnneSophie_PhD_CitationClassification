@@ -1,0 +1,4 @@
+Okay, I'm looking at the citation classification task. The passage mentions (CITSEG) discussing issues in plant health. The next sentence points out that these problems affect crop yields. This suggests the cited work is supporting the current argument by providing evidence of the problem's impact, thus reinforcing the need or context for the current study. Therefore, the rhetorical class is Motivation because it highlights why this research is important.
+</think>
+
+Motivation

@@ -1,0 +1,12 @@
+Okay, I need to classify the citation in the given passage using the predefined rhetorical classes. Let me read the passage carefully.
+
+The passage says: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Looking at this, the cited work is being mentioned to support the authors' finding. They're saying their finding is supported by the cited research, which shows similar results in fleas and ticks. So, the cited study provides evidence backing their claim.
+
+I also see that the structure of the sentence indicates support. They're aligning their results with the cited work without comparing or contrasting. The purpose is to reinforce their own findings.
+
+Looking at the classes, the "Support" class is appropriate here because the citation is used to confirm or reinforce the authors’ findings by presenting additional evidence.
+</think>
+
+Support

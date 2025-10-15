@@ -1,0 +1,12 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into one of the specified rhetorical classes. Let me look at the passage again.
+
+"...in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)."
+
+This sentence is providing information about how magnetic water treatment devices have been spreading in the USA since 1975, citing a reference. The use of the citation here is purely to provide factual information without any further analysis or comparison. It's a neutral statement, just mentioning the trend without supporting or contrasting it with any other study or argument.
+
+Looking at the classes, the Neutral class is for citations used in a neutral, descriptive way without supporting, comparing, or motivating any specific argument. This fits because the citation is simply stating a fact without any additional role in the argument.
+
+So, the correct class for this citation is Neutral.
+</think>
+
+Neutral

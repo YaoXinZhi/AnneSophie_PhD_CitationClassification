@@ -1,0 +1,17 @@
+<think>
+Okay, let me try to figure this out. The user provided a citation and wants me to classify it into the correct rhetorical category. Let's start by reading the passage carefully. 
+
+The passage says: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
+
+So the authors are talking about their subscales being consistent with previous research, specifically mentioning the cited work. They also note that similar results were found in the cited study. The key here is that they're using the citation to support their own findings. They're saying their results align with what (CITSEG) found. 
+
+Looking at the classes, the Support category is when the citation is used to back up a claim, confirm results, or strengthen the authors' arguments. The example given for Support mentions that the cited work is presented as evidence aligning with their findings. 
+
+Another possible class could be Basis, but Basis is more about the cited work being the foundation for the current research. Here, it seems like they're supporting their consistency with previous work, not that the cited work is the base of their study. 
+
+Comparison classes (CoCoGM, CoCoRes, CoCoXY) don't fit because they aren't contrasting or comparing methods, results, or explanations. The Motivation and Future classes aren't relevant here. Neutral is when it's just a descriptive citation without argument, but here they're using it to support their point. 
+
+Therefore, Support is the right class here because they're reinforcing their claim with the cited study's alignment.
+</think>
+
+Support

@@ -1,0 +1,21 @@
+Okay, so I have this citation passage from a scientific article related to plant health. The task is to classify the rhetorical class of the cited work. The passage is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+First, I need to understand the context. The authors are discussing their finding that insect hosts influence bacterial community assembly. They mention their own data from Table 3 and Figure 4. Then, they refer to recent studies on other insect-associated bacteria, citing (CITSEG). 
+
+Looking at the options, I need to determine which rhetorical class fits here. Let's review the classes:
+
+- **Basis**: If the cited work is foundational to the current research. Not the case here since the cited work isn't the foundation but rather supporting another observation.
+- **CoCoGM**: If comparing goals or methods. The passage isn't about comparing methods but rather similar findings.
+- **CoCoRes**: Comparing results. Here, both the current work and the cited work show similar results about hosts influencing bacterial assemblages.
+- **CoCoXY**: Comparing two cited studies. No, it's comparing the cited study with their own.
+- **Future**: Not relevant; no mention of future research.
+- **Motivation**: Not about justifying the research; it's supporting a finding.
+- **Neutral**: The citation is used descriptively but with the purpose of supporting, so probably not neutral.
+- **Similar**: If pointing out a similarity. The passage does state that the cited work supports their findings, implying similarity.
+- **Support**: The cited work is used as evidence to back up their claim.
+- **Usage**: If referring to methods, tools, etc. Not the case here.
+
+In the passage, "supported by recent cross-taxon investigations" and the example in fleas and ticks shows the cited work is providing evidence reinforcing the authors' findings. Therefore, the rhetorical class is **Support** because the citation is used to confirm their own results.
+</think>
+
+Support

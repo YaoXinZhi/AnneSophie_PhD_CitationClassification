@@ -1,0 +1,12 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into the appropriate rhetorical class. Let me read through the passage again to understand the context.
+
+The passage says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+So, the authors are making a claim about insect hosts affecting bacterial community assembly and are supporting that claim with their own findings in Table 3 and Figure 4. They then mention that this finding is "supported by" recent investigations by (CITSEG), and provide more details about what those investigations found.
+
+The key point here is that (CITSEG)'s work is being used to back up the authors' claim. The authors are saying their findings align with those of (CITSEG), thus reinforcing their argument. This indicates that the citation is being used to support their own results, not just to compare methods or results, but to strengthen their argument.
+
+Looking at the classes, the Support class is when a citation is used to support, confirm, or reinforce a claim made by the authors. Since the citation here is used to align with the authors' findings and thereby support their claim, the correct class is Support.
+</think>
+
+Support

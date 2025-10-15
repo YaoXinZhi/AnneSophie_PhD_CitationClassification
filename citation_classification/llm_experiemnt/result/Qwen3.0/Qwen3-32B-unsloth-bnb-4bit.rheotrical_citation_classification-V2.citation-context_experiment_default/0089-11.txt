@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification task step by step. The sentence provided is: "These symptoms are typical of those reported previously from citrus in the field (CITSEG)." My goal is to determine the correct rhetorical class from the given list.
+
+First, I'll parse the sentence structure. The authors are stating that the symptoms they observed are similar to those previously reported by CITSEG. The phrase "typical of those reported previously" suggests they are drawing a comparison based on similarity. 
+
+Looking at the classes, "Similar" is used when the citation points out a similarity between the cited work and the citing paper, which could involve results, patterns, phenomena, etc. Another possibility might be "Support" if they're using CITSEG's findings to corroborate their claim. However, in the example given under "Support," the citation is used to confirm their own claims with prior research, often stating alignment or reinforcement. Here, the authors are indicating that their findings align with prior results by pointing out similarity, which fits the "Similar" class description better. 
+
+The example under "Similar" mentions a study supporting findings by citing a related cross-taxon investigation, which parallels using prior work to show similarity in results. In contrast, "Support" examples refer to validating their claims through prior studies. Since the sentence directly equates the symptoms with those previously reported, the correct class should be "Similar."
+</think>
+
+Similar

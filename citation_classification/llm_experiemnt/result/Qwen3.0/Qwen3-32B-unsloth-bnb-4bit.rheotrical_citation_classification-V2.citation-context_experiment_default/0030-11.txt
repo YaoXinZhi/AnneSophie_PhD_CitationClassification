@@ -1,0 +1,9 @@
+<think>
+Okay, let's tackle this classification task step by step. First, I need to read the provided passage carefully to understand the context in which the citation (CITSEG) is used. The example passage says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Now, I need to match this to the appropriate rhetorical class. The key phrase here is "is supported by recent cross-taxon investigations," which indicates that the cited work is providing support to the current findings. The CITSEG reference is used to confirm or reinforce the claim made by the authors, pointing out that their findings are not unique and have been corroborated by other studies. 
+
+Looking at the classes, "Support" is defined as when the citation is used to support, confirm, or reinforce a claim, result, or interpretation made by the citing authors. The cited work here aligns with the authors' findings, which fits the "Support" class. It's not a comparison, a basis for future work, or a motivation. The citation isn't being used to contrast methods, results, explanations with others either. Therefore, the most suitable class here is "Support."
+</think>
+
+Support

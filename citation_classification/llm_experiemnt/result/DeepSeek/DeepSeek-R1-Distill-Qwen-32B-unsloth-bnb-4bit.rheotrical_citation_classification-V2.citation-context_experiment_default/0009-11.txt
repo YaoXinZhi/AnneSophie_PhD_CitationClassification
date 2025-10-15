@@ -1,0 +1,8 @@
+Okay, let's try to figure out the rhetorical class for the given citation. The passage mentions that the authors used a specific experimental setup from another study. They say, "The experimental set-up was described in detail previously (CITSEG)." This seems like they're referring to the actual method or setup they used in their current study. 
+
+Looking at the predefined classes, "Usage" is when the citation refers to a method, tool, dataset, or setup used in the current study. In this case, the authors are explicitly stating that they used the setup from the cited work. That makes sense because they're relying on that previous work for their own methodology. 
+
+I don't think it's "Basis" because it's not the foundation of their research idea. "Support" isn't right because they're not using it to back up a claim but rather as the method they followed. "CoCo..." classes don't apply as there's no comparison involved. It's clearly about utilizing a specific method, so "Usage" fits best.
+</think>
+
+Usage

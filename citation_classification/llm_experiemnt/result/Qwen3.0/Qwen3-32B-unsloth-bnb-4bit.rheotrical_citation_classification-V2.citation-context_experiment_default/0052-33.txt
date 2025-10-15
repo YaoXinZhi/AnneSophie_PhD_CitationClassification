@@ -1,0 +1,17 @@
+<think>
+Okay, let's try to figure out the correct rhetorical class for the given citation passage. The user provided the citation in a scientific article and the task is to assign it to one of the predefined classes like Basis, CoCoGM, CoCoRes, etc. 
+
+First, I need to understand the context where the citation (CITSEG) is used. Let me look at the example given under each class to get a sense of how they work.
+
+The example given for the Basis class is when the cited work is the intellectual foundation of the current research. For instance, if the paper replicates the results of the cited study, it might fall under Basis. The example says they replicated the results for the same purposes. So if the citation serves as a foundation or continuation, it's Basis.
+
+Next, looking at the provided passage: "Example : (CITSEG) introduced and validated the IAT by studying biases... We began by replicating these inoffensive results for the same purposes." Here, the citing authors replicate the results of the cited work. Replicating results implies that the cited work is the foundation upon which their current research is built. Therefore, this would be Basis.
+
+Another class is Support, which is when the citation supports a claim. But in this case, it's not just supporting a claim; they are replicating the study itself, which is more foundational. 
+
+So the correct class here should be Basis. I need to make sure that the citation isn't being compared or used neutrally. Since they mention replicating the results for the same purposes, that's a continuation, so Basis fits best.
+</think>
+
+{
+  "label": "Basis"
+}

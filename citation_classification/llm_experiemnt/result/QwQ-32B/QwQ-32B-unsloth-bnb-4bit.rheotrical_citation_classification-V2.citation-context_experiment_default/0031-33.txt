@@ -1,0 +1,8 @@
+Okay, let's see. I need to figure out the rhetorical class for the citation in this passage. The user provided an example where the citation is about a study showing that a peptide binds to gut epithelia of different aphid species, suggesting broader applicability. The example given under the "Future" class is similar. The task is to determine which class fits best.
+
+First, I'll recall the definitions. The "Future" class is used when the citation suggests future research directions. The example given for Future mentions "suggesting potential broader applicability" which aligns with the example here. The passage says the peptide's binding to other species suggests broader applicability, which implies that it's pointing towards future applications or research in that direction.
+
+Other classes to consider: "Support" might be if it's confirming a result. But the key here is "suggesting potential broader applicability" which is more about future possibilities rather than current support. "Motivation" is about justifying why the current research is done, but the citation here is about the peptide's potential, not the current study's motivation. "CoCoRes" is about comparing results, but there's no comparison here. "Usage" is about using a method, which isn't the case. "Weakness" is about criticizing, which isn't here. So the best fit is "Future" because it's pointing towards possible future research or application based on the cited work's findings.
+</think>
+
+Future

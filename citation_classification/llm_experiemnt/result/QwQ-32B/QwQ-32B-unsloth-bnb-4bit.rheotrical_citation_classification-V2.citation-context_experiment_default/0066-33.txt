@@ -1,0 +1,18 @@
+Okay, let me try to figure out the rhetorical class for the given citation in the passage.
+
+The example provided here is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+The task is to assign the correct rhetorical class from the list provided. The options include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+Looking at the passage, the key phrase is "substantially differ from the results of the experiments conducted..." which indicates a direct comparison between the current study's results and those of the cited work. The cited work's results are being contrasted with the current findings.
+
+Now, checking the definitions again:
+
+- CoCoRes: Assign when the citation is used to directly compare or contrast the results or findings of the cited work with those of the citing paper. 
+
+Yes, that fits here because the passage is directly contrasting their results with the cited study's results. 
+
+Other possible options: CoCoGM compares methods or goals, but here it's about results. Support would be if the cited work's results were in agreement. Since it's contrasting, not supporting. So the best fit is CoCoRes.
+</think>
+
+CoCoRes

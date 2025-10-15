@@ -1,0 +1,20 @@
+Okay, so I need to classify a citation in a scientific article passage into one of the predefined rhetorical classes. Let's break it down step by step.
+
+First, I'll look at the passage provided. The user's original message included an example where the citation is used. Let me focus on that example.
+
+The passage says: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+So, the context is that the authors are discussing their findings about how insect hosts affect bacterial communities. They mention their own data (Table 3, Figure 4) and then talk about supporting evidence from other studies, specifically citing the fleas and ticks study. 
+
+Looking at the rhetorical classes:
+
+- **Support**: This is when the citation is used to back up the author's own findings or claims. The cited work here is showing similar results, supporting the authors' conclusion.
+
+- **Similar**: This is when the cited work is noted for having similar results or approaches, but the authors might not be using it to directly support their findings.
+
+In this case, the authors explicitly state that their finding is "supported by" the cited work. They're using it to reinforce their own conclusion. So, it's not just pointing out a similarity but actively using it as evidence.
+
+Therefore, the appropriate class is **Support**.
+</think>
+
+Support

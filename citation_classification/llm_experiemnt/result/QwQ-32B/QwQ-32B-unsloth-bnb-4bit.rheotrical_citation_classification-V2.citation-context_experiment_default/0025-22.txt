@@ -1,0 +1,6 @@
+Okay, I need to classify the rhetorical class for the citation in the given passage. Let's see the example provided. The user mentioned that the citation is about a study where a small aphid gut binding peptide interfered with virus uptake and also bound to gut epithelia of other aphid species, suggesting broader applicability. The example for the "Future" class was similar, where the citation points towards potential future research directions.
+
+Looking at the options, "Future" is used when the citation suggests directions for future research. The phrase "suggesting potential broader applicability" here indicates that the cited work's findings open up possibilities for more research or applications. The example given for Future class also uses similar language like "suggesting potential broader applicability," so this seems to fit. The citation isn't comparing methods or results directly with the current study, so CoCoGM or CoCoRes aren't right. It's also not supporting the current study's results (Support) or motivating their research (Motivation). The key is the implication that this finding could lead to further studies, so "Future" is the best choice.
+</think>
+
+Future

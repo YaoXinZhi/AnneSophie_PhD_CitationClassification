@@ -1,0 +1,6 @@
+Okay, so I need to classify the rhetorical function of the citation (CITSEG) in the given passage. Let me read the passage carefully. It says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Hmm, the main sentence before the citation is stating that their findings are supported by recent studies. So the cited work is backing up their own results. The example given in the Support class is about supporting a claim with a previous study, which exactly fits here because they mention that their finding is supported by another investigation. Therefore, the correct class should be Support.
+</think>
+
+Support

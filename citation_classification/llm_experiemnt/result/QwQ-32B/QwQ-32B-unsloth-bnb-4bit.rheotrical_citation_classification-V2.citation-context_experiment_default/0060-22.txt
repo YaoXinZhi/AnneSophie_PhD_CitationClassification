@@ -1,0 +1,20 @@
+Okay, let's see. The user wants me to classify a citation's rhetorical class based on the given example. The example here is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm, the task is to figure out which class this fits into. Let's go through the classes again. 
+
+First, the options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+Looking at the sentence, the key part is "suggesting potential broader applicability (CITSEG)." The phrase "suggesting potential broader applicability" seems to indicate that the cited work is pointing towards future possibilities. The example under the Future class says it's when the citation is used to suggest future research directions. The example given for Future is similar: the cited work's findings suggest a direction to explore further, like broader applicability here.
+
+Wait, let me check the Future example again: "Similarly, a small aphid gut binding peptide was shown... suggesting potential broader applicability (CITSEG)." The example in the prompt for Future uses exactly this structure. Oh wait, actually the user's own example for Future is the same as the one provided here. Wait no, the user's example here is the one given in the Future class. Wait, no, maybe I need to check.
+
+Wait no, the user's input is the citation passage, which in their case is the same as the example under Future. Let me confirm. The user's prompt is asking to classify a citation, and the example they provided for Future is exactly this case. So the correct answer here is Future. 
+
+Alternatively, could it be Support? The sentence says the peptide was shown to do X, which supports the idea of broader applicability. Wait, but the key is that the citation is used to suggest future directions. The sentence structure here is using the cited work's findings to imply that there's potential for more research. The verb "suggesting" points towards future research. 
+
+The Support class is when the citation supports the current paper's claims. Here, maybe the current paper is building on this and suggesting that future work should explore that broader applicability. Therefore, the citation is indicating a future direction based on the cited work's findings. 
+
+So the correct class should be Future.
+</think>
+
+Future

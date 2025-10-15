@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification task. So the user provided a citation passage and wants me to assign the correct rhetorical class from the given list. Let me read the example again to understand the context.
+
+The passage says: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The task is to figure out which class this falls into. The options include CoCoXY, which is for comparing two cited studies with each other, not with the citing paper. 
+
+In the example given for CoCoXY, the citation is used to point out contradictions between different studies. The current passage mentions contradictory results in the literature, and the citation [REF1-REF12] is listing those studies. The author isn't comparing their own work to the cited studies but is instead highlighting that the cited studies have conflicting findings. This matches the CoCoXY description where the comparison is between the cited works themselves. 
+
+I should check other classes to make sure. Basis is for foundational work, which doesn't fit here. Motivation would be about why the current research is done, but here it's about existing literature's confusion. Support would be if the citation backs up a claim, but here it's showing a problem in existing literature. CoCoRes or CoCoGM involve comparing results or methods with the current paper, which isn't the case here. Neutral is for neutral mentions, but the passage is pointing out a problem (confusing literature), so it's more active than Neutral. Weakness would be criticizing the cited work, but the criticism here is about the cited works' contradictory results, not pointing out a specific flaw. The key is that the comparison is between the cited studies, not between the current work and the cited ones. Therefore, CoCoXY is the right class.
+</think>
+
+CoCoXY

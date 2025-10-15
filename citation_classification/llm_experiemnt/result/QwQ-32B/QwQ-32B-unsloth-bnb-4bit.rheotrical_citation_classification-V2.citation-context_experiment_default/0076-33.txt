@@ -1,0 +1,28 @@
+Okay, let me see. I need to determine the rhetorical class for the citation in the given example. The task is to figure out why the (CITSEG) is mentioned here. 
+
+The example given for CoCoRes says that when the citation is used to directly compare or contrast the results of the cited work with the current paper's results, it's CoCoRes. The example provided mentions that the results differ from those in the citation. 
+
+Looking at the user's input example for CoCoRes: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." The key here is the comparison of results between the current study and the cited work. 
+
+Now, the user wants me to apply this to a new passage. Wait, actually, in the current query, the user provided a generic task and then an example for each class, but the actual input they want me to process isn't shown here. Wait, the user's instruction says "Prompt for citation classification" and then includes the entire setup. But the actual task is when the user provides a specific citation passage, and I need to classify it. 
+
+Wait, but in this case, maybe the user is giving me the setup and I have to look for the example given here. Wait, no, perhaps I need to read the problem again. Wait, the user has presented the problem and the example, and the actual input they want me to process is the example under "CoCoRes" given here. Because the user's message is structured as a prompt that I am supposed to use, but the actual input they are asking me to classify is the example under CoCoRes. Or maybe I'm overcomplicating.
+
+Wait, no, perhaps the user is testing the system with the example provided in CoCoRes. Let me re-read.
+
+The user's message is a setup where they want me to act as a classifier. The example given for CoCoRes is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+So they want me to process this example and output the rhetorical class. Since the example is given under CoCoRes, the answer should be "CoCoRes".
+
+Wait, but maybe the user is providing the full setup so that when they input a real passage later, I can process it. But in this case, the user's input is asking for the classification of this specific example. Let me check again:
+
+The user's instruction says: "Prompt for citation classification" and gives the rhetorical classes with examples, then ends with the output format. But perhaps the actual input they want me to process is the example under CoCoRes here, but they want to confirm that I can identify that example as CoCoRes. 
+
+Alternatively, maybe the user is giving me a scenario where the input is the example given, and the correct output is CoCoRes. Since in the problem statement, the user is setting up a classifier that needs to handle such citations, and in this case, the example for CoCoRes is provided, so my job here is to see that when given that example, the correct answer is CoCoRes.
+
+Yes, I think that's right. So the step-by-step reasoning here is:
+
+The example provided is under CoCoRes, so the rhetorical class for the citation in this example is CoCoRes. Therefore, the JSON should have the value "CoCoRes".
+</think>
+
+CoCoRes

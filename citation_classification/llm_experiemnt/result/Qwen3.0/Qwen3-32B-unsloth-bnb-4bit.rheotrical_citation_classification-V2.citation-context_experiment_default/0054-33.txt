@@ -1,0 +1,7 @@
+<think>
+Okay, let's start by looking at the citation segment provided. The example given is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+The key here is the phrase "substantially differ from the results of the experiments." This indicates that the cited work's results are being compared directly to the current study's results. The class CoCoRes is specifically for comparing or contrasting results or findings between the cited work and the current paper. Since the sentence is highlighting a difference in results, this fits under CoCoRes.
+</think>
+
+{"class": "CoCoRes"}

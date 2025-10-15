@@ -1,0 +1,13 @@
+<think>
+Okay, let's see. I need to classify the citation in this passage. The example given is from a paper discussing the use of a new method for debiasing word embeddings, referencing another work that also looked into this area but with a different focus.
+
+The task is to determine which rhetorical class the citation falls into. The possible classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+Looking at the example sentence: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to 'debias' word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings."
+
+Here, the citation is pointing out a paper that's working on a similar topic but with a different method. The authors compare their goals or methods. The phrase "Our work is complementary" suggests that they are contrasting their approach with the cited paper's method. So comparing goals or methods would be CoCoGM. 
+
+Therefore, the correct class here is CoCoGM.
+</think>
+
+CoCoGM

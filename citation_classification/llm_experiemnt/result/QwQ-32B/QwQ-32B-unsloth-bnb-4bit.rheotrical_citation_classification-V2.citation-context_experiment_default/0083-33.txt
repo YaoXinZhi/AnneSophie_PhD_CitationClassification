@@ -1,0 +1,8 @@
+Okay, let's see. I need to figure out the rhetorical class for this citation. The example given is about a citation where the author mentions that a small aphid gut binding peptide was shown to interfere with virus uptake and also bound to gut epithelia of other aphid species, suggesting broader applicability. 
+
+Looking at the classes, the "Future" class is for when the citation suggests future research directions. The example here says "suggesting potential broader applicability," which implies that this finding could lead to further studies or applications. The citation here is pointing out that the peptide might work beyond the initial species tested, which is hinting at future research possibilities. 
+
+Let me check other classes to be sure. "Support" is when it's backing up a claim, but here it's more about the potential for future work rather than supporting their current findings. "Motivation" is if it's a knowledge gap, but the example is more about suggesting applicability rather than a gap. "Similar" is about similarities, but the key here is the suggestion for broader use. Yeah, "Future" seems right because it's pointing to where the research could go next.
+</think>
+
+Future

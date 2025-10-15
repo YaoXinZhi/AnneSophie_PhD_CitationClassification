@@ -1,0 +1,10 @@
+Okay, so I need to classify the citation in the given passage into one of the predefined rhetorical classes. The passage is: "In our study, we found that the application of magnetic fields significantly reduced the formation of scale in hard water systems. Previous studies (CITSEG) have shown similar reductions, suggesting a consistent effect across different experimental setups."
+
+First, I'll read through the passage to understand the context where the citation is used. The authors are talking about their study showing reduced scale formation with magnetic fields. They mention that previous studies have shown similar reductions, pointing out consistency.
+
+Next, I'll look at the list of rhetorical classes to determine which one fits best. The citation is comparing their findings with those of previous studies. The example given under the 'Similar' class mentions pointing out similarities in results, which seems to match here because the authors are noting that their results are consistent with others.
+
+So, the appropriate class is 'Similar' because the cited work is being used to highlight a similarity in results.
+</think>
+
+Similar

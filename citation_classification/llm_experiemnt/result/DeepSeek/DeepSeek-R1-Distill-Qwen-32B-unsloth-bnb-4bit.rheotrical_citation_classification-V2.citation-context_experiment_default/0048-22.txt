@@ -1,0 +1,10 @@
+Alright, let's determine the rhetorical class for the given citation passage. The passage states: "In our study, we compared the effectiveness of three different pesticides against aphids. Our results contradict those reported by (CITSEG), who found that pesticide A was the most effective." 
+
+First, I need to analyze the context in which the citation (CITSEG) is used. The main point here is that the current study's results contradict the cited work. The authors are comparing their findings with the ones from (CITSEG). 
+
+Looking at the predefined classes, "CoCoRes" is for when the citation is used to directly compare or contrast the results or findings of the cited work with those of the citing paper. In this case, the authors explicitly state that their results contradict the cited work's findings, which fits perfectly under CoCoRes.
+
+Other classes don't seem to fit as well. It's not about motivation, supporting, or usage; it's directly comparing results. So, the most appropriate class is CoCoRes.
+</think>
+
+CoCoRes

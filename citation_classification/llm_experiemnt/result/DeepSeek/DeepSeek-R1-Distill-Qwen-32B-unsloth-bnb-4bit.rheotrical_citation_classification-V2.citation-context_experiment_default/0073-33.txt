@@ -1,0 +1,14 @@
+Alright, I need to classify the given citation passage into one of the rhetorical classes provided. Let me read through the passage again to understand the context.
+
+The passage is about a study on the effect of magnetic water treatment on calcite scale formation. The authors mention that their previous research (CITSEG) demonstrated the prevention of calcite scaling using a magnetic field. However, they also point out that the mechanism behind this effect hasn't been explained yet. The current work aims to explore this mechanism further.
+
+So, the citation here is referring to their own prior work which showed the effectiveness of magnetic treatment but didn't explain why it worked. The current paper is addressing this gap. This seems to justify why the current research is being conducted because there's a knowledge gap—the mechanism isn't understood.
+
+Looking at the list of rhetorical classes, the "Motivation" class is used when the citation justifies the current research by identifying a knowledge gap or open question. Since this citation is pointing out the need to understand the mechanism, it fits the Motivation category. The authors are motivating their current study by referencing an unanswered question from their previous work.
+
+I shouldn't confuse this with "Basis" because the cited work isn't directly the foundation for the new solution, but rather highlights a missing piece that this research aims to fill. It's more about why the research is necessary rather than serving as the intellectual foundation.
+
+So, the appropriate class is "Motivation."
+</think>
+
+Motivation

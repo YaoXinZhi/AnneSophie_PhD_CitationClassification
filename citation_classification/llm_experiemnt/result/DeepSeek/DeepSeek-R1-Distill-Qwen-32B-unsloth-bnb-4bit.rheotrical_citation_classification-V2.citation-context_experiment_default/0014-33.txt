@@ -1,0 +1,20 @@
+Alright, I need to determine the appropriate rhetorical class for the (CITSEG) reference in the given passage. Let's break this down step by step.
+
+First, I read the passage to understand the context: "Our finding that insect hosts affect bacterial community assembly is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." The citation follows a statement where the authors mention their finding being supported by other investigations, specifically referring to studies on fleas and ticks.
+
+Next, I analyze the function of the citation here. The authors are pointing out that another study supports their own findings on how hosts influence bacterial communities. This indicates that they are highlighting a similarity in results or observations between their work and the cited study.
+
+Looking at the predefined rhetorical classes, I consider "Similar," which is used when a citation points out a similarity between the cited work and the citing paper. The similarity can be in results, patterns, phenomena, or general observations. In this case, both the cited study and the current paper found that arthropod hosts influence bacterial assemblages, which fits the "Similar" class.
+
+No other classes seem appropriate here. It's not a basis for their research, nor a comparison of goals, methods, or results, nor is it about future directions, motivation, neutral description, support (since it's not directly supporting their own claim but rather citing similar findings), usage, or weakness.
+
+Therefore, "Similar" is the most appropriate class for this citation.
+</think>
+
+Similar
+
+```json
+{
+  "rhetorical_class": "Similar"
+}
+```

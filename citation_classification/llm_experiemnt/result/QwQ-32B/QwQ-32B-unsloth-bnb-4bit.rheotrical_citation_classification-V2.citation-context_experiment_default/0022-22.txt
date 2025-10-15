@@ -1,0 +1,16 @@
+Okay, let's tackle this classification problem. The task is to determine the rhetorical class for the citation in the given passage. The user provided examples and definitions for each class, so I need to go through each one carefully.
+
+First, I'll read the example again. The citation here is about a study where a small aphid gut peptide interfered with virus uptake and also bound to other aphid species' gut epithelia. The example says this suggests potential broader applicability. The user's instruction mentions assigning one of the specified classes: Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The key sentence here is "the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." The citing paper is pointing out that this result suggests possibilities for future research because of the broader applicability. The citation is used to imply that there's potential for more applications, which might be directions for future work.
+
+Looking at the classes, "Future" is used when the citation is suggesting directions for future research. The example given under "Future" is similar: a study's results imply broader applicability, and the citation is pointing towards future research areas. 
+
+Alternatively, could it be "Support"? If they wanted to say the result supports their current findings, but the phrasing "suggesting potential broader applicability" seems more about suggesting future directions rather than directly supporting their current findings. The example for "Future" also uses a similar "suggesting potential" phrasing, like in their example: "the peptide also bound... suggesting potential broader applicability (CITSEG)". The user's example for "Future" says that the citation is used to suggest future directions, which matches.
+
+"Support" would be if the cited work's finding backs the current authors' own findings. But the phrase here is more about the cited work suggesting a future possibility rather than supporting the current work's results. 
+
+Therefore, the correct classification here should be the "Future" class.
+</think>
+
+Future

@@ -1,0 +1,11 @@
+<think>
+Okay, let's start by reading the example given for each class to understand how the citation is used. The task is to classify the (CITSEG) in the provided citation passage into one of the rhetorical classes. The classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to look at the specific citation passage provided in the input. The example given in the prompt is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". In this case, the citation is used to highlight conflicting findings between different studies. 
+
+So according to the CoCoXY example, when citations are compared with each other rather than the citing paper, it should be classified as CoCoXY. The example given explicitly states that the citations are contradictions reported in the literature, meaning they're pointing out differences between cited studies themselves, not comparing them to the current work. The key here is that the comparison is between the cited works (REF1-REF12) themselves regarding contradictory results.
+
+Therefore, the correct class here would be CoCoXY because the citation is used to contrast different cited studies with each other, not with the current paper's findings or methods. There's no mention of how the current work compares; instead, the literature's inconsistency is the focus.
+</think>
+
+CoCoXY

@@ -1,0 +1,59 @@
+Okay, so I need to figure out the rhetorical class for each CITSEG in the given passages. Let's start by looking at each passage one by one.
+
+First example: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
+
+The author is talking about building on prior work, specifically using the IAT as a foundation for their new research. This means the cited work is the basis for their study, so the class should be Basis.
+
+Second example: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to 'debias' word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings."
+
+Here, the author is comparing their approach with that of the cited work, pointing out that their goals are different. This is a comparison of goals or methods, so the class is CoCoGM.
+
+Third example: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+The author is directly contrasting their results with those of another study. That's a comparison of results, so the class is CoCoRes.
+
+Fourth example: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]"
+
+The passage mentions that the cited studies have conflicting results, which are being compared to each other. This is a comparison of explanations or claims, so the class is CoCoXY.
+
+Fifth example: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+The author is using the cited work to suggest future research directions, so the class is Future.
+
+Sixth example: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+The author is explaining why they're doing this research by pointing out a knowledge gap. That's the motivation, so the class is Motivation.
+
+Seventh example: "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)."
+
+This is a neutral mention without any comparison or argumentative use, so the class is Neutral.
+
+Eighth example: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+The author is supporting their findings with another study, so the class is Support.
+
+Ninth example: "The experimental set-up was described in details previously (CITSEG)."
+
+The author is referencing a method or setup used in their study, so the class is Usage.
+
+Tenth example: "The taxonomic status of these species is problematic and some may not develop on Pyrus."
+
+The author is critiquing the cited work, pointing out its weaknesses, so the class is Weakness.
+
+I think I've gone through each example step by step, determining the rhetorical class based on how the CITSEG is presented in the passage.
+</think>
+
+**CITSEG Classification:**
+
+1. Basis  
+2. CoCoGM  
+3. CoCoRes  
+4. CoCoXY  
+5. Future  
+6. Motivation  
+7. Neutral  
+8. Support  
+9. Usage  
+10. Weakness  
+
+Each classification is based on the context in which CITSEG is used, assigning the appropriate rhetorical class from the predefined list.

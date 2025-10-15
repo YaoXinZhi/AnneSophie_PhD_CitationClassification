@@ -1,0 +1,18 @@
+Alright, I need to classify the given citation passage into the appropriate rhetorical class. Let me first understand the passage.
+
+The passage says: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+So, the authors are stating their finding and then mentioning that it's supported by other recent studies. They reference a study which found that in fleas and ticks, the arthropod host influenced bacterial communities, similar to their own findings.
+
+Looking at the rhetorical classes:
+
+- **Support**: When the citation supports, confirms, or reinforces the authors' claims with evidence.
+- **Similar**: When pointing out a similarity in results, patterns, etc., between the cited work and theirs.
+- **Comparison of Results (CoCoRes)**: When comparing results directly.
+
+In the passage, the authors are supporting their finding with another study that shows a similar pattern. They're not directly comparing their results to others or pointing out differences, nor are they using it as a foundation or motivation.
+
+So, the cited work is providing supporting evidence, aligning with their findings. Therefore, it fits the **Support** class.
+</think>
+
+"Support"

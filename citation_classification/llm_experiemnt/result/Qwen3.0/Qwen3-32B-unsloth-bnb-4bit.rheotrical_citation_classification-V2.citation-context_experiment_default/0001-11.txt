@@ -1,0 +1,15 @@
+<think>
+Okay, let's tackle this classification. The user provided a citation and needs to determine its rhetorical class.
+
+First, I need to read the surrounding passage carefully. The example given is: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
+
+The key part here is "consistent with previous research" and "also using a U.S. sample; as before..." This suggests that the cited work supports the current findings. The phrase "as before" indicates that the results align with what was previously found by the cited study. 
+
+Looking at the classes, "Support" is defined as when the citation is used to support, confirm, or reinforce a claim. The cited work here is presented as evidence aligning with the authors' findings. 
+
+I should check other classes too. "Basis" is for foundational work, but the example here isn't saying the cited work is the basis of the current research. "CoCoRes" is for comparing results, but the passage isn't contrasting; it's showing consistency. "Motivation" is for justifying research need, which isn't the case here. The passage isn't introducing future work or pointing out weaknesses either. 
+
+So the best fit is "Support" as the citation supports the current claim by showing alignment with previous results.
+</think>
+
+Support

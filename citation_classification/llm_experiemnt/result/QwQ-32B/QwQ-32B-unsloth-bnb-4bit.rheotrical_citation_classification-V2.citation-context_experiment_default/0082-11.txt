@@ -1,0 +1,12 @@
+Okay, let's tackle this classification problem step by step. The task is to determine which rhetorical class the citation (CITSEG) falls into based on the given passage. The example passage here is about plant health, so I need to pay attention to how the citation is used in that context.
+
+First, I need to read the example passage carefully. The user provided an example where the passage mentions that a small aphid gut binding peptide was shown to interfere with virus uptake in pea aphids and also bound to gut epithelia of other species. The citation is used here to highlight that the peptide's broader applicability is suggested. The rhetorical classes include things like 'Future', 'Support', 'Similar', etc. 
+
+Looking at the options, 'Future' is for when the citation points to future research directions. The example says "suggesting potential broader applicability," which implies that the cited work's findings open up possibilities for further studies or applications. That seems to fit under the 'Future' category because it's pointing towards what could be explored next. 
+
+Another possible class could be 'Support', but 'Support' is when the cited work backs up the current authors' findings. Here, it's more about suggesting that there's potential for more research rather than supporting their current results. 'Similar' is about similarities between the cited work and the current paper, but the example is more about implication for future work. 'Weakness' or 'CoCoGM' don't seem relevant here since there's no criticism or comparison of methods. The 'Future' class example given in the prompt actually matches this: the example provided for 'Future' is almost exactly this scenario. 
+
+So the most appropriate class here is 'Future'. The citation is used to suggest that the peptide might have broader applications, hence implying a direction for future research.
+</think>
+
+Future

@@ -1,0 +1,12 @@
+Okay, so I need to figure out the rhetorical class for the given citation passage. First, I'll read the passage carefully to understand the context in which the citation is used. The passage mentions that the cited work introduced and validated the IAT, studying biases that are nearly universal and without social concern. The current study then says they began by replicating these inoffensive results for the same purposes.
+
+Looking at the possible classes, I recall that "Basis" is used when the cited work is the intellectual foundation of the current research, contributing directly to the new solution or being a continuation of prior work. In this case, the cited work provided the basis for the current study's methodology. The current authors are replicating the results, which indicates that the cited work is foundational for their research.
+
+Other classes might be considered, such as "Support" or "Usage," but those don't fit as well here. "Support" would be if they were using the cited work to back up their findings, but here it's more about building upon the cited work. "Usage" would pertain if they were using a method or tool from the cited work, which isn't exactly the case. The key here is that the cited work underpins their replication, making "Basis" the most appropriate class.
+</think>
+
+The citation is used to establish the foundation for the current research, as the authors are replicating the cited work's results.
+
+```json
+"Basis"
+```

@@ -1,0 +1,12 @@
+Okay, let's tackle this classification problem. The user provided a scientific article citation passage where I need to determine the rhetorical class of the citation (CITSEG). The task is to assign the most appropriate class from the list provided.
+
+First, I'll read through the example provided to understand the context better. The passage is about the effect of magnetic treatment on calcite scale formation in hard water. The example mentions that their previous research showed the magnetic field prevents scale formation, but the mechanism isn't understood yet, so this work aims to explain it. The key here is that the citation is referenced as prior work that identified a phenomenon, which now the current study is trying to address the gap. 
+
+Looking at the classes, "Motivation" seems relevant here because the cited work points out a knowledge gap that the current research is addressing. The example given for "Motivation" is similar: previous research found an effect without an explanation, so the current purpose is to understand the mechanism. That matches exactly with the passage provided. 
+
+I should check other classes to be sure. "Basis" is when the cited work is the foundation or continuation. Here, the current work is motivated by a gap, not necessarily building directly on the cited work's methods or results. "Support" is about aligning findings, but this isn't the case here. "Future" suggests suggesting future directions, but the cited work isn't pointing to future research; instead, it's the current work's motivation. 
+
+Therefore, the correct class here is "Motivation."
+</think>
+
+Motivation

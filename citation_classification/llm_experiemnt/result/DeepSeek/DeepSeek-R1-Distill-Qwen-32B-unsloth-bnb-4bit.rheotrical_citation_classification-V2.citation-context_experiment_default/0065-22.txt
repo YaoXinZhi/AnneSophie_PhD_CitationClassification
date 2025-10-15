@@ -1,0 +1,4 @@
+Okay, so I'm trying to figure out the rhetorical class for the given citation passage in the plant health domain. The passage mentions that all subscales were consistent with previous research, particularly referring to (CITSEG). The example shows that the cited work aligns with the authors' findings because they used a U.S. sample as well. So the citation is being used to support or confirm their results by referencing prior consistent findings. This seems like it's using the citation to strengthen their argument, so I think it should be labeled as Support. I need to make sure this fits the Support category's description, which is when the citation supports or confirms the authors' claims. Yeah, that makes sense. So the final label should be Support.
+</think>
+
+Support

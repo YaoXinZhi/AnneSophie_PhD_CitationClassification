@@ -1,0 +1,14 @@
+Alright, let's break this down. I'm given the task of classifying a citation in a scientific article into one of several predefined rhetorical classes. The passage provided is a single sentence: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+I need to determine how the citation (CITSEG) is being used in this context. First, I'll read through the sentence carefully. The key phrase is "Our previous research (CITSEG) has shown..." This indicates that the cited work is being referenced as a foundation for the current research.
+
+The sentence goes on to mention that the previous research showed a successful prevention of a problem using a magnetic field. However, the current work is now aiming to understand the underlying mechanism. This suggests that the cited work provides the basis for the current research—it's the starting point or the foundation upon which the new research is built.
+
+Looking at the rhetorical classes provided, the "Basis" class is intended for citations that serve as the intellectual foundation for the current research. The cited work contributes directly to the new solution or is a continuation of prior work. In this case, the previous research by the authors sets the stage for the new study, which seeks to explain the mechanism behind the observed results. Therefore, the citation is functioning as the basis for the current investigation.
+
+Other classes don't fit as well here. It's not a comparison of goals or methods (CoCoGM), results (CoCoRes), or explanations (CoCoXY). It's not suggesting future research (Future), providing motivation (Motivation), being used neutrally, indicating similarity, supporting a claim, referring to a method used (Usage), or pointing out weaknesses. The clear function is as the basis for the current study.
+</think>
+
+The citation is used as the foundation for the current research, explaining prior work that the new study builds upon.
+
+Basis

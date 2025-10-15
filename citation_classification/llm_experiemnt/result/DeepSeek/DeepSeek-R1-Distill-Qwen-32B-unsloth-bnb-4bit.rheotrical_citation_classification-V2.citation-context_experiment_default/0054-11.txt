@@ -1,0 +1,12 @@
+Okay, so I'm trying to figure out the rhetorical class for this citation passage. Let's see what the passage says. It mentions that (CITSEG) introduced and validated the IAT, studying nearly universal biases without social concern. The current work is replicating these results for the same purposes. 
+
+Hmm, the passage is talking about the cited work being the foundation of their new research. They mention replicating the inoffensive results, which suggests that the cited study is foundational to their current work. They're building upon the prior work done by (CITSEG). 
+
+Looking at the definitions, the "Basis" class is for when the cited work serves as the intellectual foundation, contributing directly to the new solution or being a continuation of prior work. That fits here because they're replicating and building on the cited study's methods. 
+
+Other classes like "Motivation" or "Usage" don't seem to apply because they're not justifying why they're doing this research or using a specific method from the cited work. It's more about the cited work being the basis for their approach and findings. 
+
+So, the correct class is "Basis" because the cited work provides the foundation for their current study.
+</think>
+
+Basis

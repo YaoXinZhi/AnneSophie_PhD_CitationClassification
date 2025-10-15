@@ -1,0 +1,30 @@
+Okay, let's take a look at this problem. The task is to classify a scientific citation passage into one of several predefined rhetorical classes. The passage is from the plant health domain, so I need to consider the context of plant health research when analyzing the citation.
+
+The user provided both an example and the specific task along with the predefined classes. My job is to figure out which class best fits the citation based on the function it serves in the text.
+
+First, I'll read through the example provided to understand how the classification should be done. The example mentions using the (CITSEG) placeholder in the text and classifying it into one of the specified classes. The classes range from Basis, which indicates foundational work, to Neutral, which is a descriptive use without argumentative support.
+
+Next, I'll look at the output format: it's just the single label without any explanations. So, after determining the class, I just need to provide that label.
+
+The main challenge here is accurately determining the rhetorical function of the citation in the given context. I need to consider what each class entails. For example, if the citation is supporting a claim made by the current research, it would be classified as Support. If it's being compared in terms of methods, it would be CoCoGM.
+
+I should also be cautious about overcomplicating things. Sometimes, the passage might seem to fit multiple classes, but I need to pick the most appropriate one based on the context.
+
+I'll need to go through each class definition again to make sure I don't misclassify. For example, CoCoXY is when comparing two cited studies, which is different from CoCoRes, which compares results with the current paper.
+
+In the plant health domain, citations often relate to methods or prior research findings. So, if a citation is about a method being used in the current study, it's likely Usage. If it's pointing out a similarity in results, it's Similar.
+
+I'll also need to pay attention to keywords that indicate the function, like "similar to," "supported by," or "compared to." These can be strong indicators of the class.
+
+Another thing to consider is the flow of the argument in the passage. If the citation is used to introduce a point that strengthens the current argument, it's probably Support. If it's used to point out where previous work has gaps, it could be Motivation or Future.
+
+I should also be aware of the structure of research papers. Introductions often use Motivation to explain why the study is necessary, while the Methods section might use Usage for citing specific techniques.
+
+Lastly, it's important to avoid overcomplicating the analysis. Sometimes, the function is straightforward once you strip away the technical jargon.
+
+So, to sum up, I'll read the passage, identify the role the citation plays, match it to the class definitions, and pick the most fitting label without overthinking it.
+</think>
+
+The step-by-step analysis involves identifying the function of the citation in the passage, such as supporting a claim, providing motivation, or comparing methods, and mapping it to the appropriate class from the predefined list.
+
+Support

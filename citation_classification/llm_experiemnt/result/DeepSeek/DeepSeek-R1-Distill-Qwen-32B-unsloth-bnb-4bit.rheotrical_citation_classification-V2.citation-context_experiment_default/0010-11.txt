@@ -1,0 +1,10 @@
+Alright, I'm trying to figure out the rhetorical class for the citation in this passage. The sentence says, "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+First, I notice that the citation is part of a sentence that starts with "Our finding... is supported by..." This indicates that the authors are using the cited work to back up their own results. The cited study’s findings are being presented as evidence that aligns with the current paper's conclusion.
+
+Looking at the predefined classes, the Support class is for when the citation supports, confirms, or reinforces a claim of the current paper. This fits because the authors are saying their own finding is supported by the cited work. 
+
+The other classes don't seem to apply here. It's not a comparison of goals or methods (CoCoGM), nor a comparison of results (CoCoRes). It's not used to introduce a new idea or future research direction (Future). It's not pointing out a similarity (Similar), nor is it neutral or usage. It's definitely supporting their own claim, so Support is the right choice.
+</think>
+
+Support

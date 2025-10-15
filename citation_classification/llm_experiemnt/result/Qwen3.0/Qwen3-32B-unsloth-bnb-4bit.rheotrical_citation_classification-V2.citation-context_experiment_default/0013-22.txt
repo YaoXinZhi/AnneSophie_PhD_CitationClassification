@@ -1,0 +1,11 @@
+<think>
+Okay, let's see. I need to figure out the rhetorical class for the citation in the given passage. First, I'll read the example passage again to understand the context.
+
+The passage says: "(CITSEG) reported that the pathogen could be effectively controlled with a combination of fungicides and biological agents. Building on these findings, we investigated the efficacy of an additional biological control agent in our study." 
+
+Hmm, the citing authors mention that they built on the findings from CITSEG. The key phrase here is "building on these findings," which suggests that the cited work is the foundation for their own research. That makes me think of the 'Basis' class, which is defined as the cited work being the intellectual foundation for the current research and contributing directly to the new solution or being a continuation of prior work. 
+
+Let me compare this to the examples given for each class. The Basis example mentions replication and continuation, which aligns with building on findings. The CoCo classes involve comparisons, which doesn't seem to fit here. The Motivation class is about justifying the research, and here it's more about continuing prior work rather than identifying a gap. The 'Support' class is when the cited work is used as evidence for the current claim, but here the authors are extending the previous work rather than confirming a claim. So 'Basis' seems correct here.
+</think>
+
+Basis

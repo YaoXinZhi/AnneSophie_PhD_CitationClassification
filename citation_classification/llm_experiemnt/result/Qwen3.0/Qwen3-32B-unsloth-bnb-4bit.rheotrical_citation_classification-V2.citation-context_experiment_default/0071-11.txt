@@ -1,0 +1,19 @@
+<think>
+Okay, let's tackle this classification task. So the user wants me to classify a citation passage into one of the rhetorical classes like Basis, CoCoGM, CoCoRes, etc. First, I need to read the given example and figure out which class fits.
+
+Looking at the example provided for CoCoXY: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". Here, the citation is used to compare two studies with each other, not the citing paper. The key point here is that the cited works are being contrasted with one another, not with the current research.
+
+Now, the task is to apply this to the input passage where the user has provided a snippet. Wait, the user actually hasn't provided a specific passage here. Oh wait, the initial prompt is a general instruction, not a specific example. So maybe in this case, the user is asking me to classify a hypothetical passage. Wait no, actually looking back, perhaps the user is giving me the prompt for the classifier and wants me to apply it when given a passage. Wait, perhaps in this case, the assistant is supposed to take a passage where (CITSEG) is a placeholder, and classify that citation based on the surrounding text.
+
+But in this case, the user hasn't provided the actual passage. Hmm, maybe I'm misunderstanding. Wait, looking back at the initial instruction, perhaps this is a prompt that's given to me as part of setting up the classifier, but in the actual scenario, when a user provides a specific citation passage, I need to classify it. However, in this case, the user is just providing the prompt and instructions, but no actual passage. Maybe this is part of a testing step where the user wants me to think through how to approach the classification, given a hypothetical example that fits CoCoXY.
+
+But since the example given is for CoCoXY, perhaps the user is asking me to classify a CoCoXY example. Wait, the user is probably providing the prompt to the classifier, and the actual passage would be provided later. Hmm. Wait, perhaps I'm confused here. Let me try to clarify.
+
+Ah, perhaps the user is presenting a prompt that explains the task but isn't providing the actual citation passage. Maybe this is part of the setup instructions, and the actual test case is when a user provides a passage with (CITSEG) in it, and then I have to determine the class. But since in this case, the user hasn't given a specific passage, maybe I'm supposed to use the example provided in the prompt as a test case. Let me see.
+
+In the CoCoXY example: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". Here, the citation is referring to multiple references (REF1-REF12) and pointing out contradictory results between them. The citation is used to compare or contrast the cited studies with each other, not with the citing paper. Hence, CoCoXY is the correct classification because it's about comparing explanations or claims among the cited works.
+
+So if this were the input passage, the correct output would be CoCoXY. Therefore, applying the instructions to that example would yield CoCoXY as the class label.
+</think>
+
+CoCoXY

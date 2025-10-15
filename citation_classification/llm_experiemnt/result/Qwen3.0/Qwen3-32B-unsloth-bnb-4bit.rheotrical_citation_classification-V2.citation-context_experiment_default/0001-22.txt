@@ -1,0 +1,13 @@
+<think>
+Okay, let me try to figure out the correct rhetorical class for this citation. 
+
+First, looking at the example sentences provided for each class. The given passage mentions that the cited work introduced and validated the IAT by studying biases considered universal and without social concern. The authors of the new paper started by replicating these results for the same purposes. 
+
+In the Basis example, the citation is used as the foundation for the current research because they replicated the experiments. So the new study builds directly on the prior work.
+
+Comparing this to the options: CoCo classes involve comparisons, which don't seem to be the case here. The Future label is about suggesting future work, which isn't it. Motivation is about justifying the current research, but here they're saying they replicated the prior work's results, not stating a gap. Neutral is descriptive use, but here they're using the citation as a basis. The Similar class would indicate similarities between their findings, but the example here is about building on prior work. Support would be using the citation to back up a claim, but again, they're using it as a foundation for their own replication. Usage refers to methods used, which isn't the case here. Weakness isn't applicable either. 
+
+The Basis class seems the most appropriate here because the cited work is presented as the foundation upon which the current research is built. They replicated the prior experiments as a starting point.
+</think>
+
+Basis

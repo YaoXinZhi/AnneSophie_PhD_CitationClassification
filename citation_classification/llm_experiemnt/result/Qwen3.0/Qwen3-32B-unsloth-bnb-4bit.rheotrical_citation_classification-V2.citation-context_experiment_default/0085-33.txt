@@ -1,0 +1,25 @@
+<think>
+Okay, let me try to figure this out. So the task is to classify the citation represented by (CITSEG) into one of the given rhetorical classes. The citation passage isn't provided, so I'm going to need to infer based on the example given. But wait, the actual example in the prompt is just the definitions. Hmm. Wait, maybe I'm supposed to look at the example given under each class. Let me check again.
+
+Wait, the user provided definitions of each class. So, the instructions are that the user will provide a passage containing a citation marked as (CITSEG), and the assistant has to assign the correct rhetorical class. Since there's no actual provided example in the user's input yet, perhaps this is a setup for subsequent classification tasks? But maybe the user is testing the setup here. Wait, the user might have included the actual passage as part of the prompt but maybe I missed it. Let me re-read the user's prompt.
+
+Looking back at the user's message, after the task description, there's a list of rhetorical classes with their descriptions and examples. Then the output format is specified. Wait, but the user hasn't provided a specific citation passage to classify. That suggests this might be a setup instruction, not a specific example. But perhaps the actual instance is missing here. Wait, maybe I'm misunderstanding the structure. Let me check again.
+
+Wait, perhaps this is the prompt that the user wants me to use, and the actual input will be something else. Maybe my confusion arises from the initial message being the task setup rather than a concrete example. Given that the instructions say "You are a classifier...", perhaps the actual task will come through in a separate input. Since this is a test, I should process the scenario as if I'm given a citation passage with (CITSEG) and must classify it. However, since no specific example is given, I might be missing the actual input data needed for classification. 
+
+But looking back at the user's message, perhaps they included a sample citation passage. Let me check again. In the example provided in the instructions for each rhetorical class, like the first example under Basis says: "(CITSEG) introduced and validated the IAT..." etc. In that case, in a real scenario, the user would provide a passage with (CITSEG) placed where the citation would be, and the task is to assign the correct label.
+
+Assuming that in the actual scenario, the user will provide a passage with (CITSEG), like, let's imagine an example like "The approach taken by (CITSEG) is similar to ours in that both aim to reduce bias in algorithms." Then, according to the classes, the answer would be Similar. But since the user hasn't provided an actual passage, perhaps this is just a setup prompt. Wait, perhaps the actual prompt is missing or I've made a mistake.
+
+Alternatively, perhaps there was an input passage given here but got omitted in transcription. Looking again at the user's message, perhaps the actual input is after the task description but before the output format. Wait, checking again:
+
+After the user's instruction, there's a prompt for classification task description with the various classes and their examples, then the output format specifying to return a single label. Then perhaps the actual input would be provided. However, in this particular case, there is no actual passage provided to classify. Therefore, perhaps this is a mistake, and the prompt is incomplete.
+
+Given that the user has instructed me to act as the classifier, but provided no actual citation passage to analyze, perhaps the assistant should recognize that insufficient information is present. But given that this is likely a formatting error in the setup, I will proceed under the assumption that perhaps the actual passage is omitted here and focus on the structure. 
+
+Assuming that when given a specific citation passage with (CITSEG), I should first identify the rhetorical function based on the definitions provided. The steps would involve analyzing how the cited work is referenced: is it establishing a basis, supporting, comparing with methods/results, etc. Then select the most appropriate label from the list provided.
+
+Given the lack of a specific example to classify, but following the instructions, perhaps the correct response would be to follow the structure strictly as required. However, given that the user expects a JSON output after step-by-step reasoning, but without any specific input data, I'm unable to proceed meaningfully. Therefore, perhaps there's an error in the setup of the query.
+</think>
+
+{"label": null, "reasoning": "The user has not provided a specific citation passage containing (CITSEG) to analyze, leaving insufficient information to determine the appropriate rhetorical class label."}

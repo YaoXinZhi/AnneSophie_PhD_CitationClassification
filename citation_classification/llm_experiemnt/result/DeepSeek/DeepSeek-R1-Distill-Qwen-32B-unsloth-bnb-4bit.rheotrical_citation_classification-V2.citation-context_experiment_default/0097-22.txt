@@ -1,0 +1,25 @@
+Okay, so I'm looking at this classification task where I need to assign the correct rhetorical class to a citation in a scientific passage. The specific passage given is:
+
+"In the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)."
+
+First, I'll need to understand the context in which the citation is used. The sentence talks about the spread of magnetic water treatment devices in the USA starting from 1975. The citation is placed at the end, right after this statement. My job is to figure out why the authors cited this particular work. 
+
+Looking at the predefined classes, I need to see which one fits best. Let's consider each category:
+
+- **Basis**: This would be if the cited work is foundational to the current research. But here, it's more of a factual statement about the spread of devices, not establishing a foundation for the current study.
+- **CoCoGM/CoCoRes/CoCoXY**: These are about comparisons, which doesn't seem to be the case here. The passage isn't comparing anything.
+- **Future**: This is for suggesting future research. The statement is about the past spread, not future directions.
+- **Motivation**: This justifies why the research is being conducted. The passage doesn't mention any motivation or gap in knowledge.
+- **Neutral**: This is when the citation is used neutrally, just providing information without supporting or comparing. The passage is purely descriptive about the spread of devices.
+- **Similar**: This points out similarities between studies, which isn't happening here.
+- **Support**: This would be if the citation is backing up a claim, but the statement isn't making a specific claim that needs support—it's just stating a fact.
+- **Usage**: This would involve using a method or tool from the cited work, which isn't the case here.
+
+So, the citation here is just providing a neutral fact about when the use of these devices started in the USA. There's no argument, comparison, or support involved. It's purely descriptive. Therefore, the most appropriate class is **Neutral**.
+</think>
+
+Neutral
+
+```json
+Neutral
+```

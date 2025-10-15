@@ -1,0 +1,16 @@
+Okay, let's see. I need to classify the rhetorical class of the citation in this passage. The user provided an example where the citation is about a study showing that a peptide interferes with virus uptake and binds to other aphid species' guts, suggesting broader applicability. The task is to figure out which class this falls into.
+
+First, I'll look at the predefined classes again. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The example sentence says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+The key here is the word "suggesting" and "broader applicability." The citation is being used to imply that there could be more applications beyond what was studied, right? So the authors are pointing out that this previous work hints at future possibilities. Let me check the Future class description: "Assign this class when the citation is used to suggest or imply directions for future research." 
+
+Yes, that seems to fit because the sentence uses the citation to suggest that the peptide might work in other species, which is a direction for future research. Alternatively, could it be Support? But the example for Support is when the cited work aligns with the authors' findings. Here, it's more about suggesting a direction rather than supporting their own results.
+
+Wait, the example given for Future is: "Similarly, a small aphid gut... suggesting potential broader applicability (CITSEG)." Wait, that's the exact example here. Wait, actually, in the user's example, the example for Future is exactly the same as the input given here. So the correct answer is Future.
+
+So the output should be "Future".
+</think>
+
+Future

@@ -1,0 +1,10 @@
+Okay, let's tackle this classification. The task is to figure out the rhetorical class for the citation marked by (CITSEG) in the given passage. The user provided examples and defined categories, so I need to make sure I match the passage's context to the right one.
+
+First, I'll read the passage again carefully. The example given is about a study where the citation is used to compare results with their own experiments. The example says that the results differ from previous studies. The key here is that the comparison is between the current work's results and the cited work's findings. 
+
+Looking at the rhetorical classes, the one that fits comparing results is CoCoRes. The definition for CoCoRes specifies that it's when the citation is used to directly compare or contrast results or findings of the cited work with the citing paper. The example provided under CoCoRes also mentions differences in experimental results. 
+
+I should check the other options to be sure. CoCoGM is about comparing goals or methods, which isn't the case here. Support would be if they are agreeing or building on the cited work, but here they're highlighting differences. Weakness is about criticizing, which the example doesn't do, just states a difference. Therefore, the correct class should be CoCoRes.
+</think>
+
+CoCoRes

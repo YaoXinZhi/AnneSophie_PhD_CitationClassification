@@ -1,0 +1,17 @@
+<think>
+Okay, let's tackle this citation classification problem. So, the task is to figure out the rhetorical class of the citation in the given passage. The passage is about a study using a modified IAT (Implicit Association Test) from a previous work citing CITSEG. The example provided mentions that the current study replicated the inoffensive results of CITSEG's IAT to look for biases in humans but extended it to other contexts where biases might not be socially concerning.
+
+First, the example says CITSEG introduced and validated the IAT by studying biases they consider nearly universal and without social concern. The current research started by replicating these results for the same purposes. The example also states they extended this approach beyond prior work. 
+
+Looking at the possible classes: Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness. 
+
+The Basis class is when the cited work is the foundation or a continuation. Since the authors replicated the methods and extended the approach, CITSEG serves as a foundational study. The current work isn't just supporting a claim but building upon CITSEG's method. 
+
+The CoCoGM is for comparing goals or methods. Here, the goal is similar but extended, so maybe Basis is more appropriate. Support is when you're using the citation to back up a claim. Here, they're replicating and building upon CITSEG's work. 
+
+The example in Basis shows replication, which is part of building on prior work. So Basis fits best. CoCoXY is comparing cited studies with each other, which isn't the case here. CoCoRes would involve comparing results directly. 
+
+Also, Motivation is about justifying the need, which isn't the focus here. The passage talks about replication and extension, so Basis seems right.
+</think>
+
+Basis

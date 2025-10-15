@@ -1,0 +1,5 @@
+<think>
+Okay, let's see. I need to figure out which rhetorical class the citation falls into here. The passage says: "The use of biological control agents is supported by a number of studies demonstrating their effectiveness in reducing pest populations [CITSEG]." Alright, the CITSEG here is cited as supporting the use of biological control agents. The phrase "supported by a number of studies" usually means that the cited work provides evidence backing up the claim. Let me check the classes again. Support is when the citation is used to support, confirm, or reinforce a claim. That seems to fit because the citation is given as evidence for the effectiveness mentioned. Basis is the foundation, but here it's more about supporting a specific claim rather than being the foundation of the research. Comparison classes aren't relevant here since there's no comparison mentioned. Neutral is when it's just descriptive, but this is clearly supporting a claim. So the answer should be Support.
+</think>
+
+Support

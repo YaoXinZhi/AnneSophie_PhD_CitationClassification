@@ -1,0 +1,21 @@
+<think>
+Okay, let's tackle this citation classification problem step by step. 
+
+First, I need to understand the task thoroughly. My job is to determine the rhetorical class of the citation marked as (CITSEG) in a given scientific passage. The possible classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. Each class has specific criteria based on how the cited work is used in the context.
+
+Next, I'll look at the example provided in the prompt to see how each class is applied. The examples clarify the distinctions between the classes. For instance, Basis refers to foundational work that the current research builds upon directly. CoCoGM involves comparing goals or methods, CoCoRes compares results, and CoCoXY compares explanations between cited studies. Future suggests directions for future research, Motivation identifies the need for current research, Neutral is a straightforward citation without argumentative role, Similar points out similarities, Support reinforces a claim, Usage refers to methods or tools used, and Weakness points out flaws.
+
+Now, applying this to the given citation passage. Let's assume the passage is something like: "Recent studies have shown that X effects can lead to Y outcomes [CITSEG]." 
+
+I need to analyze the context around CITSEG. If the passage is saying the current study builds on CITSEG's foundational work, then it's Basis. If it's contrasting methods or goals, it's CoCoGM. Comparing results would be CoCoRes. If CITSEG is compared with another study, CoCoXY. If the citation is suggesting future research based on CITSEG's work, it's Future. If CITSEG sets up why the current research is needed, it's Motivation. If it's just stating a fact neutrally, Neutral. If showing similarity between CITSEG's findings and the current study, Similar. If supporting a claim with CITSEG's results, Support. Using CITSEG's method or data would be Usage. Critiquing CITSEG's limitations is Weakness.
+
+Let's take a hypothetical passage: "Smith et al. (CITSEG) reported a different approach to solving Z, but this study introduces a more efficient method." Here, since Smith's approach is contrasted with the current method, it's CoCoGM.
+
+Another example: "Our results align with previous findings (CITSEG)." This would be Support since CITSEG's results corroborate the current findings.
+
+If the citation is in the context of explaining the research's motivation, like identifying a gap CITSEG found that the current work addresses, that's Motivation.
+
+By carefully examining the surrounding text and the role the citation plays in the argumentation, I can assign the correct class. I need to ensure I'm matching the exact criteria for each class without overlapping categories. After assessing all clues, the correct label is determined.
+</think>
+
+{"rhetorical_class": "Support"}

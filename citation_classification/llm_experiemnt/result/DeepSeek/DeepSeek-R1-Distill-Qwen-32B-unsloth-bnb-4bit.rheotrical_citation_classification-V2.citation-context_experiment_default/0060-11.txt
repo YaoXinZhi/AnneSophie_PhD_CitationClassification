@@ -1,0 +1,21 @@
+Okay, so I need to figure out the rhetorical class for each citation in the given passage. The passage mentions four references: CITSEG1, CITSEG2, CITSEG3, CITSEG4. Let me break it down step by step.
+
+First, I'll read the entire passage to understand the context. The passage is about the application of magnetic water treatment devices, specifically mentioning their spread in the USA since 1975, their use in preventing scale formation on surfaces, the lack of an explanation for how they work, and the purpose of this current study. It also references previous findings that were inconsistent or contradictory.
+
+Now, analyzing each citation:
+
+1. CITSEG1: The passage states that the use of such devices in the USA has spread since 1975. This is a factual statement without directly supporting or comparing, so it's a neutral mention. So, Neutral.
+
+2. CITSEG2: This is part of a statement that refers to the authors' previous research showing the prevention of scale formation. The purpose here is to set up the motivation for the current study by pointing out a knowledge gap (no explanation available). So, Motivation.
+
+3. CITSEG3 and CITSEG4: The phrase "Previous findings [...] were inconsistent or contradictory (CITSEG3; CITSEG4)" indicates that the authors are pointing out that there's no consensus, which highlights the need for their current research. This is again about motivating the study by showing existing gaps. So, Motivation for both.
+</think>
+
+```json
+[
+  "Neutral",
+  "Motivation",
+  "Motivation",
+  "Motivation"
+]
+```

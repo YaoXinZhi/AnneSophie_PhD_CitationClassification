@@ -1,0 +1,18 @@
+<think>
+Okay, let's tackle this classification problem step by step. The task is to determine which rhetorical class the citation falls into based on the provided example passages. The user has given me a specific passage and wants me to classify the CITSEG accordingly.
+
+First, I need to look at the example given:
+
+Motivation Example:
+"Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+In this example, the citation is used to show that prior research has demonstrated a phenomenon, but there's a gap in understanding (the explanation isn't provided). The current research aims to fill that gap. So the citation here is setting up the motivation for the current study by pointing out a knowledge gap or need.
+
+Now, applying this to my own example provided by the user. Let's look at their passage:
+
+"The use of magnetic water treatment devices has been spreading since the 1970s as a method for scale prevention in domestic and industrial settings. For example, a study indicated that magnetic treatment can inhibit calcium carbonate scaling on heat exchanger surfaces (CITSEG)."
+
+In this passage, the citation is referencing a study that supports the claim that magnetic treatment inhibits scaling. The authors are presenting this study as evidence to back up their statement. They're using the citation to support their assertion about the effectiveness of magnetic treatment. This aligns with the "Support" class because the cited work is presented as evidence that aligns with the authors' own claim about the study's findings on magnetic treatment. There's no indication of a knowledge gap or motivation here; instead, the citation is reinforcing their statement about the existing findings. Therefore, the correct classification should be "Support".
+</think>
+
+Support

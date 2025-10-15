@@ -1,0 +1,11 @@
+<think>
+Okay, let's start analyzing the given citation passage. The task is to determine the rhetorical class of the referenced work denoted by (CITSEG). The passage example provided is: "The experimental set-up was described in details previously (CITSEG)."
+
+First, I need to identify what role the citation plays here. The phrase "described in details previously" indicates that the cited work is being referenced because it contains a description of the experimental setup that the current study is using. The authors aren't comparing their methods with others, nor are they supporting a claim with the citation. Instead, they're pointing out that the setup they used has been detailed in a prior study. 
+
+Looking at the predefined classes, the "Usage" class fits here because the citation refers to a method or experimental setup that's directly used in the current study. The example under the Usage class also mentions an experimental set-up, which matches the context here. The authors are not introducing their own setup but referencing an existing one from the cited work. 
+
+Other classes like "Basis" or "Support" don't fit because the cited work isn't the foundation for the current research's intellectual contribution but rather is a reference to the setup. There's no comparison or contrast involved here either, so CoCoGM or CoCoRes aren't appropriate. The citation is straightforwardly indicating where the setup was previously described, hence "Usage" is the correct label.
+</think>
+
+Usage

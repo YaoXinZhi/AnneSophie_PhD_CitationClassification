@@ -1,0 +1,17 @@
+<think>
+Okay, let's tackle this. The user provided a citation classification task with various rhetorical classes. My job is to determine which class fits the given example passage.
+
+Looking at the example under the "Basis" class: The passage mentions that the cited work introduced and validated the IAT, studying biases. The authors replicated those results. So the citation here is foundational for their current research. The Basis class is used when the cited work is the intellectual foundation, which matches this example because they're building on the IAT they validated.
+
+For the CoCoGM example, they compare methods with another paper, so it's about goals or methods. CoCoRes is when comparing results directly, as in the third example. CoCoXY contrasts cited studies with each other, not the current paper. Future is about suggesting future research directions. Motivation is when the citation points out a need or gap. Neutral is descriptive without argument. Similar when there's a similarity pointed out. Support uses the citation to back up claims. Usage refers to methods/tools. Weakness criticizes the cited work.
+
+Now, I need to apply this to a new passage. Let's imagine a passage like: "Smith et al. (CITSEG) developed a new imaging technique that we employed in our study to analyze cell structures." Here, the citation is about the method used, so the correct class would be Usage.
+
+Another example: "Recent studies have shown conflicting results regarding the effectiveness of the treatment (CITSEG)." This would be CoCoXY since it's contrasting the cited studies with each other.
+
+If the passage says, "Our findings align with those of Johnson et al. (CITSEG) who observed similar patterns in a different species," that's Similar.
+
+Each step is about identifying the relationship between the citation and the current text based on the predefined classes.
+</think>
+
+{"label": "Basis"}

@@ -1,0 +1,14 @@
+Okay, let's see. I need to classify the rhetorical class of the citation in the given passage. The user provided an example, so I should follow their format.
+
+The task is to look at the citation placeholder (CITSEG) in the passage and determine its rhetorical role. The options are like Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to read the example given to understand the context. The example passage says: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Hmm, the key sentence here is "is supported by recent cross-taxon investigations..." and then the citation is mentioned. The authors are saying their finding is supported by other studies. That sounds like the citation is providing supporting evidence for their own results. 
+
+Looking at the classes, the Support category is when the citation supports, confirms, or reinforces the authors' claim. The example given for Support is similar: "All subscales were consistent with previous research, particularly that of (CITSEG)..." So that's exactly like this case. The citation here is used to back up their own findings. 
+
+Is there a possibility of another class? Let's check others. Similar is when pointing out similarity, but here it's more about support. CoCoRes is comparing results, but here they're not contrasting, just supporting. So the correct class should be Support.
+</think>
+
+Support

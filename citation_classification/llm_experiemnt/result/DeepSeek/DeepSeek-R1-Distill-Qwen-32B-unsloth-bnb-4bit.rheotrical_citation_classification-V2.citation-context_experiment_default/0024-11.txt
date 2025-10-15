@@ -1,0 +1,6 @@
+Okay, so I'm trying to figure out the rhetorical class for the citation in this passage. Let's read the passage again to understand the context better. It says, "Our finding that insect hosts affect bacterial community assembly..." and then mentions a study by CITSEG about fleas and ticks. From the example given, the CITSEG passage is used to support their own finding by referencing another study that shows similarities. 
+
+Looking at the predefined classes, 'Support' is when the citation reinforces their claim with evidence. 'Similar' is when pointing out a similarity between their work and others. In this case, the authors are saying their findings are supported by another study, so it's more about supporting their claim rather than just stating a similarity. So, the appropriate class is 'Support'.
+</think>
+
+Support

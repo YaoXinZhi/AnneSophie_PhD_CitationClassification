@@ -1,0 +1,26 @@
+Alright, let's tackle this citation classification task. I need to assign the correct rhetorical class to the cited reference in the given passage.
+
+First, I'll read through the passage carefully to understand the context. The sentence talks about a method used in the current study, specifically mentioning that the experimental setup was described in detail previously. The citation (CITSEG) is referring to a previous work that detailed this setup.
+
+Now, I should look at the predefined rhetorical classes to find the best fit. Let's go through them one by one.
+
+- **Basis**: This is when the cited work forms the foundation or a continuation of prior work. Although the study uses a previous setup, the passage doesn't mention that this work is foundational to their research in that sense.
+  
+- **CoCoGM, CoCoRes, CoCoXY**: These involve comparisons, which isn't the case here. The passage simply states that they used a previous setup without comparing their work to it.
+
+- **Future**: This is for suggesting future research directions, which doesn't apply here since the cited work is already used as a reference.
+
+- **Motivation**: This class is for justifying why the current research is conducted. The passage isn't about explaining the reason behind the research but rather about the method used.
+
+- **Neutral**: This is when the citation is used descriptively without supporting or comparing. The passage is descriptive, but it's also pointing out that they used a specific setup from the cited work, leaning more towards usage.
+
+- **Similar, Support**: These involve comparing or supporting their findings with the cited work. The passage isn't doing that; it's simply referencing where the method was detailed.
+
+- **Usage**: This is when the citation refers to a method, tool, dataset, or setup used in the current study. Since the passage mentions using the experimental setup described in the cited work, this fits perfectly.
+
+After evaluating each class, **Usage** seems to be the most appropriate because the citation is explicitly referring to the method used in the current study.
+</think>
+
+Usage
+
+Usage

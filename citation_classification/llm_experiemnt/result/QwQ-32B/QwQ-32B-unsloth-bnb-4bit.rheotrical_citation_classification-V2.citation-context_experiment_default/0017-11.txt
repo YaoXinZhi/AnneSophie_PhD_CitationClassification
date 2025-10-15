@@ -1,0 +1,16 @@
+Okay, let's tackle this classification problem. The user provided a citation passage, and I need to assign the correct rhetorical class from the given list. The citation placeholder is (CITSEG). 
+
+First, I need to read the example passage carefully. The example says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm, the key here is to determine the rhetorical class. Let me look at the options again. The possible classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The sentence starts with "Similarly," which might indicate that the cited work supports a similar finding. The main point here is that the current work's peptide also showed broader applicability, and the cited work is used to suggest potential future directions because of the peptide's behavior in other species. The phrase "suggesting potential broader applicability" points towards future research possibilities. 
+
+Wait, the Future class is for when the citation is used to suggest future research. The example given under Future is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." That matches exactly the sample given here. So the citation is highlighting that this previous work points towards future applications or studies, hence Future.
+
+Alternatively, could it be Support? If the authors are using the cited work to support their own findings, but the sentence structure here is more about suggesting that because the peptide worked in other species, there's potential for broader uses. The verb "suggesting" here is pointing forward, indicating a direction for future research rather than supporting current results. 
+
+So the correct class should be Future.
+</think>
+
+Future

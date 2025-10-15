@@ -1,0 +1,8 @@
+Alright, I'm trying to figure out the rhetorical class for the citation in the given passage. The passage describes that the cited work (CITSEG) introduced and validated the IAT, which looks at nearly universal human biases without social concern. The authors then mention that they began by replicating these results for the same purposes.
+
+First, I consider what each class label means. "Basis" is used when the cited work forms the foundation, directly contributing to the current research. Since the authors are replicating the cited study's results, it seems like they're building upon that foundation. The cited work provided the initial validation, and the current study is extending it.
+
+They're not comparing methods or results here, so "CoCoGM" or "CoCoRes" doesn't fit. It's not a neutral mention or pointing out a weakness. The citation isn't supporting a finding in addition to their own results, so "Support" isn't quite right either. They're not suggesting future research or justifying why the research is being done. It's more about using the cited work as a starting point for their own, making it the basis of their research.
+</think>
+
+Basis

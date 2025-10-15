@@ -1,0 +1,4 @@
+Okay, I have to classify the citation in the passage. The passage is about how a specific peptide affects virus uptake in aphids. The citation is used to show that the peptide also binds to other aphid species, suggesting broader applicability. So, the authors are using this to point towards future research directions, like maybe using this peptide more widely. That fits the "Future" class because it's suggesting where the research could go next.
+</think>
+
+Future

@@ -1,0 +1,10 @@
+Okay, so I need to figure out which rhetorical class the citation (CITSEG) falls into based on the given passage. The passage is about a study on aphid gut binding peptides interfering with virus uptake. The authors mention that the peptide also binds to other aphid species, suggesting broader applicability. The example given is in the 'Future' class, which suggests it's pointing towards future research directions.
+
+So, the context is the authors discussing their findings and then citing a previous study that shows a similar effect. They then use this to imply that their peptide might have broader applications, hinting at future research possibilities. Therefore, the citation is used to suggest where future research could go, hence it's assigned to 'Future'.
+</think>
+
+Future
+
+```json
+"Future"
+```

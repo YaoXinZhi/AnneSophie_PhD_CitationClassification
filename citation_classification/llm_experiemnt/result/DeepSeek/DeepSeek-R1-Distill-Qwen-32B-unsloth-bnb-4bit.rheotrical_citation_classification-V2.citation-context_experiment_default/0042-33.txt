@@ -1,0 +1,16 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into the appropriate rhetorical class. Let's read the example carefully.
+
+The example passage says: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+So, the authors are discussing their findings about insect hosts affecting bacterial communities. They mention their own results (Table 3, Figure 4) and then cite another study. The citation supports their finding, showing that similar patterns are observed in fleas and ticks, further backing their claim.
+
+Looking at the rhetorical classes: 
+
+- **Support**: The citation is used to back up the authors' own findings, confirming their results with another study. It reinforces their argument by showing that similar conclusions were reached in another context.
+
+Other classes don't fit here: It's not a comparison of methods (CoCoGM) because they're just supporting their results, not contrasting methods. It's not Future or Motivation because they're not discussing why the research is being done or future directions. It's not Neutral because the citation is clearly used to support their claim, so it's not just descriptive.
+
+So, the correct class is **Support**.
+</think>
+
+Support

@@ -1,0 +1,15 @@
+<think>
+Okay, let me tackle this classification step by step. So, the user provided a citation passage and wants me to determine which rhetorical class it belongs to. The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I need to look at the citation passage they included. The example passage is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Hmm, the key phrase here is "substantially differ from the results of the experiments." The author is comparing their results with those from another study. Let me check the classes again. 
+
+The CoCoRes class is for comparing or contrasting results or findings. The example given under CoCoRes is exactly about differing results from cited experiments. That matches what's happening here. 
+
+So the author is pointing out that their results differ from CITSEG's results. There's no mention of goals or methods here, just the outcomes. So it's definitely CoCoRes. Let me double-check other classes to be sure. 
+
+Not Basis, because it's not foundational. Not CoCoGM since it's about results, not goals/methods. Not Support, since they're contrasting, not supporting. CoCoXY would involve comparing explanations or claims between two cited works, which isn't the case here. Future or Motivation don't fit here either. Neutral is for passive mentions without argumentation. So CoCoRes is correct here.
+</think>
+
+CoCoRes

@@ -1,0 +1,15 @@
+<think>
+Okay, let's break down this problem. The task is to classify the rhetorical function of the citation denoted by CITSEG in a scientific passage. The classes range from 'Basis' to 'Weakness', each with specific criteria. 
+
+First, I need to carefully read the provided example sentences for each class to understand their distinguishing features. For instance, 'Basis' is when the cited work is the foundation of the current research, while 'CoCoRes' involves comparing results.
+
+Next, I'll analyze the passage containing CITSEG. The key is to determine how the citation is being used within the context. Is it supporting a claim (Support), comparing methods (CoCoGM), highlighting a knowledge gap (Motivation), etc. 
+
+I'll look for keywords or phrases that indicate the relationship. Words like "replicating" might suggest 'Basis', whereas "complementary" could mean 'CoCoGM'. If the passage contrasts findings, it might be 'CoCoRes'. 
+
+I also need to check if the citation is used neutrally, such as just stating a fact without argumentation. If it's pointing out similarities, then 'Similar' applies. Any mention of future research directions would fall under 'Future', and criticism would be 'Weakness'.
+
+Finally, cross-referencing the passage with the class definitions to ensure the correct label is applied. Making sure there's no overlap or ambiguity. Once confident, assign the most fitting class label.
+</think>
+
+{"label": "Support"}

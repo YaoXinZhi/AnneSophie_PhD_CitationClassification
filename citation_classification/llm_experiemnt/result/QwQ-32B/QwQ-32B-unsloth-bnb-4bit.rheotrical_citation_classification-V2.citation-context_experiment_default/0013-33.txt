@@ -1,0 +1,10 @@
+Okay, so I need to figure out which rhetorical class the citation (CITSEG) falls into based on the given example. Let me read the example passage again:
+
+"The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+Hmm, the key part here is that the current study's results are compared to those of the cited work. The sentence says their results "substantially differ from" the cited experiments. The options I have are the predefined classes like CoCoRes, which stands for Comparison of Results. Let me check the definitions again to be sure.
+
+CoCoRes is for when the citation is used to directly compare or contrast the results or findings of the cited work with the citing paper. That matches exactly here because the current paper is pointing out a difference in their results. The other options don't fit as well. For instance, Support would be if the citation was backing up their claim, but here it's contrasting. CoCoGM is about methods or goals, not results. Weakness is about criticizing the cited work's flaws, which isn't the case here. So the correct class should be CoCoRes.
+</think>
+
+CoCoRes

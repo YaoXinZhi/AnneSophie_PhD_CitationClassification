@@ -1,0 +1,11 @@
+<think>
+Okay, let's see. I need to classify the citation in the given passage under the correct rhetorical class. The task is to determine which category best fits the role the citation plays in the text. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+First, I'll read the example provided under the Similar class again to understand the context. The example says: "Our finding that insect hosts affect bacterial community assembly is supported by recent cross-taxon investigations... In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." Here, the citation is pointing out a similarity between the cited work and the citing paper, specifically regarding how insect hosts influence bacterial communities.
+
+Now, looking at the user's passage: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." The key part is where the authors state that their finding is supported by the cited work, and then provide an example from the citation where similar results were found in fleas and ticks. The citation is used to highlight a similarity between their study and the cited study.
+
+The class 'Similar' is intended for when the citation points out a similarity between the cited work and the citing paper. Since the authors mention that their finding is supported by the cited work and then give an instance where the cited work found a similar pattern (arthropod hosts governing bacterial assemblages), this seems to fit the 'Similar' class. The citation isn't just supporting the authors' claim in a general way but specifically pointing out that the same phenomenon was observed in a different context. Therefore, the correct classification here should be 'Similar'.
+</think>
+
+Similar

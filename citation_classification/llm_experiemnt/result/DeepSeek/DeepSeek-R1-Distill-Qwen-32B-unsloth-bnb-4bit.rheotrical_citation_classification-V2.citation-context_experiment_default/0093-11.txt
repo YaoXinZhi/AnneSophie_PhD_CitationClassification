@@ -1,0 +1,36 @@
+Okay, I'm trying to classify the citation in the given passage. Let me read through the example provided.
+
+The passage is: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]"
+
+So, the citation is [REF1-REF12], which is a range of references. The sentence is saying that the literature review is confusing because there are contradictory results. 
+
+Looking at the rhetorical classes, I need to figure out which one fits best. Let's go through them one by one.
+
+First, Basis: This is when the cited work is the foundation of the current research. I don't think that's the case here because the passage is discussing contradictory results, not building on prior work.
+
+CoCoGM: This is for comparing goals or methods. The passage isn't comparing methods or goals, just pointing out contradictions in results.
+
+CoCoRes: This is when comparing results directly. The passage mentions contradictory results from different studies. So, it's comparing or contrasting results, which seems like CoCoRes.
+
+CoCoXY: This is comparing two cited studies with each other, not with the current study. The passage is referring to multiple studies and their contradictory results, so it might fit here as well.
+
+Future: This is about suggesting future research. The passage isn't doing that; it's discussing the state of existing research.
+
+Motivation: Justifying why the current research is being done. The passage isn't about motivating the current study but about the existing literature being contradictory.
+
+Neutral: Neutral use without supporting or comparing. But the point is that the results are contradictory, so it's more than neutral.
+
+Support: The citation is supporting a claim, but here it's showing conflicting findings, not supporting the author's claim.
+
+Usage: Using a method or tool. Not applicable here.
+
+Weakness: Criticizing the cited work. The passage isn't criticizing directly but noting that results are contradictory.
+
+So, between CoCoRes and CoCoXY. CoCoRes is about comparing the results with the current paper, but this passage is talking about multiple studies having contradictory results without comparing to the current work. So it's more like CoCoXY, which compares two cited studies with each other.
+
+Wait, but the example for CoCoRes is when comparing with the citing paper's results. Here, the passage is saying that the literature is confusing because of contradictory results, so it's more about the cited studies themselves. Thus, CoCoXY fits better because it's comparing the cited works with each other, not with the current paper.
+
+So the label should be CoCoXY.
+</think>
+
+CoCoXY

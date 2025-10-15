@@ -1,0 +1,39 @@
+<think>
+Okay, let me figure out the answer step by step.
+
+First, I need to look at the example provided for each rhetorical class to understand what each one means. 
+
+The passage given is: "Our approach extends previous work on bias mitigation in word embeddings; see, for example, (CITSEG)." 
+
+The task is to assign the correct rhetorical class from the list provided. Let's go through each relevant class.
+
+The "Basis" class is when the cited work is the foundation of the current research. In the example given, the authors mention "extends previous work," which suggests they're building upon prior research. That might point towards "Basis."
+
+However, the "CoCoGM" class is for comparing goals or methods. The example mentions "extends previous work on," but also uses "see, for example," indicating perhaps they’re contrasting their approach with existing methods or goals. 
+
+Wait, the example sentence actually uses the cited work as an example of existing work in the field that the current approach is extending. Since the authors are building upon prior work in terms of their methodology (extending bias mitigation techniques), maybe it's "Basis."
+
+Alternatively, if they're contrasting the methods, it might be "CoCoGM." But the wording is "extends previous work," which suggests continuation rather than comparison. "Basis" is for when the cited work is the foundation. Since they are extending it, maybe "Basis" is correct.
+
+Another consideration: the phrase "see, for example" is often used when giving references for related work rather than for motivation. However, the "Motivation" class is for justifying the research. 
+
+Wait, the sentence seems more like a Background/Context citation rather than Motivation. But "Basis" is about continuation or foundation. 
+
+The key part is "extends previous work on bias mitigation." So the cited work is foundational or similar to their own. But in the "Support" class, they cite work that aligns with their findings. However, "Support" is about using cited work to back up their own claims.
+
+Alternatively, the "Similar" class is when citing work points out similarities. But the example is not pointing out similarity but rather building upon previous work.
+
+In the CoCoGM example, they contrast their approach with another's goals/methods. But here, it's about extending, which could imply that their method is similar but building upon, not contrasting.
+
+In the "Similar" class example, they mention similarity in findings. Here, they might be similar in approach, but the wording is about extending, which could be Basis or Support.
+
+Alternatively, maybe it's Neutral if they're just citing without supporting. But Neutral is when the citation is neutral. The example seems to be supporting that the current work builds upon prior research in bias mitigation. If they are supporting the idea that their approach is an extension, then "Basis" would fit as the cited work is the intellectual foundation.
+
+Wait, maybe "Support" is better because they cite to back up their approach being an extension. Wait, the Basis class states that the cited work contributes directly to the new solution or is continuation of prior work. So if they're extending previous work, then the cited works are part of the basis for their study.
+
+Therefore, the correct分类 here is likely "Basis."
+</think>
+
+```json
+"Basis"
+```

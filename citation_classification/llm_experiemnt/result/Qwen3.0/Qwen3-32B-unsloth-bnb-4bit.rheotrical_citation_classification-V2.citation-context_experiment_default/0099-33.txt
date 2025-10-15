@@ -1,0 +1,7 @@
+<think>
+Okay, let me try to figure out the right classification for this citation. The passage says, "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]." So here, the citation [REF1-REF12] is being used in the context of discussing conflicting results among different studies.
+
+Looking at the rhetorical classes, there's "CoCoXY" which is for comparing or contrasting two cited studies with each other, not with the citing paper. The example given here is when the authors mention contradictory results in the literature, which matches the situation here. The passage doesn't mention comparing their own work to the cited studies but rather points out inconsistencies between the cited works themselves. That fits CoCoXY because it's about contrasting different studies.
+</think>
+
+CoCoXY

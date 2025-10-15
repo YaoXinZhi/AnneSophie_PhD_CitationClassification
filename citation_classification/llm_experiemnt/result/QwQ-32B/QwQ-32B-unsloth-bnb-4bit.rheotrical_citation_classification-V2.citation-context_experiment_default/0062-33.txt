@@ -1,0 +1,8 @@
+Okay, let's tackle this classification problem. The task is to figure out which rhetorical class the citation (CITSEG) falls into based on the given passage. The user provided a list of classes like Basis, CoCoGM, Support, etc., each with their own examples. I need to read through the passage and see which one fits best.
+
+The example given here is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Hmm, the key here is the phrase "substantially differ from the results". That suggests a direct comparison between the current study's results and the cited work's results. Let's check the classes again. CoCoRes is for when the citation is used to compare or contrast the results or findings of the cited work with the citing paper. That seems to fit perfectly here. The other classes don't quite match. For instance, if they were comparing methods, it would be CoCoGM. But since it's specifically about the results differing, CoCoRes is the right choice. The example provided under CoCoRes even mentions similar wording like "differ from the results of...", so that's a strong indicator.
+</think>
+
+CoCoRes

@@ -1,0 +1,11 @@
+<think>
+Okay, let's see. I need to figure out the rhetorical class for this citation example. The example given is about a paper introducing and validating the IAT by studying biases considered universal in humans with no social concern. Then, the citing paper says they replicated these inoffensive results for the same purposes. The options include Basis, CoCoGM, CoCoRes, etc.
+
+So first, the cited work here is introducing the IAT and their research on those biases. The citing authors replicated the results. The class options include Basis when it's the foundation for their research. Basis is when the cited work directly contributes to their solution or is a continuation. Since they replicated the results, maybe Basis? They're building upon the prior work. 
+
+But wait, the example in Basis says "contributed directly to the new solution or continuation of prior work." Replicating the results might fall under that category because they're using that work as a foundation. Alternatively, if they're comparing their results to the cited ones, maybe CoCoRes. But the example example of CoCoRes says "results obtained... differ from experiments... (CITSEG)." In this case, they replicated the results, so maybe CoCoRes would be contrasting results. Hmm.
+
+Wait, the example in Basis says they began by replicating these inoffensive results for the same purposes. The replication implies continuation or building upon the original work. So Basis might be the right class here because the cited work is the foundation. So the answer would be Basis.
+</think>
+
+Basis

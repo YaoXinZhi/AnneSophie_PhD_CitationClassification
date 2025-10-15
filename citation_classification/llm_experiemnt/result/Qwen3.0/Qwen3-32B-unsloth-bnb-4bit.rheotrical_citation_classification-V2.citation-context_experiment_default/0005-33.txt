@@ -1,0 +1,17 @@
+<think>
+Okay, let's take a look at this example from the Support class:
+
+"All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
+
+The key here is that the citing paper is saying their results align with previous work (the cited study). They mention that participants didn't distinguish between certain categories "as before," meaning this is a consistent finding with CITSEG's work. The citation is being used to support or confirm their own findings.
+
+Now looking at this example in Neutral:
+
+"in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)."
+
+Here, the citation is just providing factual information about when magnetic water treatment devices started spreading in the USA. There's no argument or claim being made by the citing authors that needs this citation to support it. It's neutral background information.
+
+The difference is that in Support, the citation is being used to back up the authors' claims or findings, while in Neutral, the citation is just providing context without supporting a specific argument. Support is when the citation strengthens the authors' position, while Neutral is descriptive without evaluative language.
+</think>
+
+{"rhetorical_class": "Support"}

@@ -1,0 +1,12 @@
+Okay, I need to classify this citation into one of the provided rhetorical classes. Let me read the example passage carefully.
+
+In the example, the author is talking about their previous research (CITSEG) which showed that a magnetic field can prevent hard water scaling. They mention that this previous study didn't explain the mechanism, which is why they're conducting this new study. The citation is used to highlight a knowledge gap that motivates their current research.
+
+Looking at the classes, "Motivation" is used when the citation justifies why the current research is being done, pointing out a need or open question. The example fits this because it identifies an unexplained phenomenon that the current work aims to address.
+
+Other classes like "Basis" or "Support" don't fit here because it's not directly building upon prior work or supporting a claim with data, but rather explaining the rationale behind the study. "Neutral" is too generic because it's clearly justifying the research's purpose.
+
+So, the correct class is "Motivation."
+</think>
+
+Motivation

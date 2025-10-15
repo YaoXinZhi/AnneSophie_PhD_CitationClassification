@@ -1,0 +1,14 @@
+Okay, so I need to determine the rhetorical class for the citation marked as (CITSEG) in the given passage. Let me read the passage carefully first.
+
+The passage says: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+Here, the authors are citing their own previous work. The citation is used to establish that they have already shown a certain result (preventive effect of magnetic field on scale formation). Now, the current work aims to explain the mechanism behind this effect. 
+
+Looking at the rhetorical classes, I need to see which one fits best. The example given under "Motivation" class is almost identical to this scenario: the cited work justifies why the current research is being conducted by pointing out that the phenomena's explanation is not yet available, thus motivating the current study.
+
+So, the function here is to motivate the current research by highlighting a knowledge gap. The authors are explaining that while previous work showed an effect, the mechanism is still unknown, hence this new research is conducted. 
+
+Therefore, the appropriate class is "Motivation."
+</think>
+
+Motivation

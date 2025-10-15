@@ -1,0 +1,18 @@
+Alright, I'm looking at the given task where I need to classify a citation in a scientific article passage into one of several predefined rhetorical classes. The citation is denoted as (CITSEG). The passage provided in the user's query is: 
+
+"The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
+
+First, I'll break this down. The sentence is comparing the current work's results with those from another study that used deuterium-saturated metal targets. The key here is the phrase "substantially differ from the results of the experiments conducted with..." which clearly indicates a comparison between the two sets of results.
+
+Now, looking at the predefined classes:
+
+- **Basis**: If the citation is foundational to the current research. Doesn't apply here.
+- **CoCoGM**: Comparing goals or methods. The passage doesn't discuss methods or goals.
+- **CoCoRes**: Comparing results or findings. Yes, the text is about differing results.
+- **CoCoXY**: Comparing two cited studies. Here, the current paper's results are being compared to the cited work.
+- **Future, Motivation, Neutral, Similar, Support, Usage, Weakness**: None of these fit as well as CoCoRes.
+
+So, the most appropriate class is **CoCoRes** because the citation is used to compare the results of the current work with those of the cited study.
+</think>
+
+CoCoRes

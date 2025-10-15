@@ -1,0 +1,16 @@
+Alright, so I'm trying to figure out the rhetorical class for this citation. Let me read through the passage again to get a clear understanding.
+
+The passage says: "Our previous research (CITSEG) has shown that the formation of the hard calcite scale on the surfaces exposed to hard water can be successfully prevented with the applied magnetic field. The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment."
+
+Hmm, okay. The context here is that the authors are referencing their own previous work. They mention that their prior research demonstrated the prevention of calcite scale using a magnetic field. Then they state that the explanation for this phenomenon isn't provided yet, which is why they're conducting this new study to understand the mechanism.
+
+So, what's the role of the citation here? It seems like they're using their previous work to justify why they're doing this new research. They're pointing out that while they've shown that magnetic treatment works, they haven't explained how it works. Therefore, their current research is aimed at filling this gap.
+
+Looking at the classes provided, "Motivation" fits here because the citation is used to explain the need for the current research. It identifies a knowledge gap—the lack of an explanation for their previous findings—which motivates the new study. The authors are building on their earlier work by addressing an unanswered question.
+
+Other classes like "Basis" or "Support" might seem close, but "Basis" is more about the foundational work that the current research builds upon, which isn't exactly the case here since they're explicitly pointing out a gap. "Support" would be if they were confirming their results, but that's not the case either. They're setting the stage for why this research is necessary, which is the definition of "Motivation."
+
+So, I'm pretty confident that the correct class here is "Motivation."
+</think>
+
+Motivation

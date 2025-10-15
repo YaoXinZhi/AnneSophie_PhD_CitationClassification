@@ -1,0 +1,22 @@
+Okay, so I'm trying to figure out the rhetorical class for a given citation in a scientific passage. The passage provided is: "(CITSEG) developed a novel machine learning algorithm for detecting plant diseases early, which has since been widely adopted by agricultural researchers in the field."
+
+First, I'll read through the definition of the "Basis" class again. It's used when the cited work is the intellectual foundation of the current research, contributing directly to the new solution or being a continuation of prior work. 
+
+Looking at the passage, it says the cited work developed an algorithm that is now widely used. The current paper is talking about the algorithm's adoption, but it doesn't mention how the cited work directly contributed to their new research or if it's a continuation of that prior work. So it doesn't seem to fit "Basis."
+
+Next, I consider "Support." This would be if the citation is used to back up a claim or finding. Here, the passage states that the algorithm is widely adopted, which supports the effectiveness of the cited work, but I'm not sure if it's directly supporting the current paper's claims.
+
+"CoCoGM" and "CoCoRes" involve comparisons, which isn't the case here. "Usage" is about using a method or tool, but the passage doesn't mention using it in the current study. "Neutral" is just a mention without supporting or comparing, but I think it's more than just neutral because it's highlighting adoption.
+
+It could be "CoCoXY" if comparing two studies, but that's not the case. "Motivation" is about justifying the current research, which it's not. "Future" is about suggesting directions, which it's not. "Similar" is about pointing out similarities, which isn't the case here.
+
+Hmm, maybe "Support" because it's indicating the algorithm's effectiveness, thereby supporting its value. But I'm not entirely sure. Alternatively, if the current paper is building on this algorithm, it could be "Basis." But the passage doesn't specify that; it just mentions widespread adoption.
+
+Wait, maybe "Basis" is still the best fit because it's foundational to the current research context, even if not directly used. Or maybe it's "Neutral" since it's just mentioning the adoption without using it to support their own claims.
+
+I think I'm leaning towards "Support" because it's highlighting the impact of the cited work, thereby supporting its relevance. Alternatively, "Basis" if it's foundational. But since it's widely adopted by others, not necessarily the foundation for the current paper, "Support" might be more accurate.
+
+After considering, I'll go with "Support."
+</think>
+
+Support

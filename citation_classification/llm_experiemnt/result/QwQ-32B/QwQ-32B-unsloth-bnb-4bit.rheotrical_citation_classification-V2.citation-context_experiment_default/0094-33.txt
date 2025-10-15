@@ -1,0 +1,12 @@
+Okay, let's tackle this classification problem. First, I need to read the user's question carefully. They want me to assign a rhetorical class to a citation in a scientific article passage based on how it's used. The citation is marked as (CITSEG), and I have to choose from the predefined classes like Basis, CoCoGM, CoCoRes, etc.
+
+The example provided in the user's prompt is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+Alright, let's parse this sentence. The key part here is "The results obtained... differ from the results..." So the citing paper is directly comparing their results with those from the cited work. The cited work's results are being contrasted with the current study's findings. 
+
+Looking at the classes: CoCoRes is for when the citation is used to compare results. The example given under CoCoRes matches exactly with this scenario. The other classes don't fit here. For instance, CoCoGM is about methods or goals, and CoCoXY is comparing explanations or claims between two cited studies, not the current paper vs. the cited one. The class Support would be if the cited work's results support the current ones, but here it's a difference, not support. Basis is about foundational work, which isn't the case here. 
+
+So, the correct class here should be CoCoRes because the passage is directly comparing the results of the current work with those of the cited study. No other class seems to fit better. Let me double-check the definitions again to make sure. Yep, CoCoRes is for comparing results. Got it.
+</think>
+
+CoCoRes

@@ -1,0 +1,18 @@
+Okay, so I need to figure out the rhetorical class for the citation in the given passage. Let me start by reading the passage carefully. 
+
+The passage says: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
+
+Alright, so the citation (CITSEG) is talking about work where they introduced and validated the IAT, which is a test to measure implicit biases. The authors then mention that they replicated these results for the same purposes.
+
+Looking at the list of rhetorical classes, I need to determine which one fits best. 
+
+First, "Basis" is when the cited work is the foundation of the current research. Since the authors are replicating the cited results, it seems like the cited work is foundational for their own study. So "Basis" might be a good fit here.
+
+"Support" is another possibility because they're using the cited work to back their own findings. But in this case, they're specifically building upon the previous work by replicating it, which leans more towards the cited work being foundational rather than just supportive.
+
+Other classes like "CoCoGM" or "CoCoRes" don't apply because there's no comparison between the methods or results of the cited work and the current paper. It's more about the cited work providing the basis.
+
+So, the most appropriate class is "Basis" because the cited work is establishing the foundation that the current research is building upon by replicating their results.
+</think>
+
+Basis

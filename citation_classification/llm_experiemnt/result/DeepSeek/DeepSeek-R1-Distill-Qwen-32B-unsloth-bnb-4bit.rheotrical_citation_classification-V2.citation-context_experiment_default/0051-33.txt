@@ -1,0 +1,18 @@
+Okay, so I need to classify this citation into one of the given rhetorical classes. The passage mentions that insect hosts affect bacterial community assembly, and the cited work found that in fleas and ticks, the arthropod host governs bacterial assemblages while rodent hosts and environmental conditions didn't. 
+
+Hmm, the example here is pointing out a similarity between the findings of the current study and the cited work. Both studies show that the host plays a significant role in bacterial assembly, so they're highlighting a similar pattern. 
+
+Looking at the classes, the 'Similar' category applies when a citation points out a similarity in results, patterns, or phenomena. That fits here because both studies found that the host is a key factor. 
+
+I don't think it's 'Support' because they're not using the citation to back up their own specific claim beyond noting a similarity. It's more about pointing out that others have found the same kind of results in a different context.
+
+So, the correct class should be 'Similar'.
+</think>
+
+The citation is highlighting a similarity in findings where the host affects bacterial assembly in both studies.
+
+```json
+{
+  "label": "Similar"
+}
+```

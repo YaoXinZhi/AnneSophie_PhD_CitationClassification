@@ -1,0 +1,38 @@
+Okay, let me try to work through this problem. So the task is to classify the rhetorical class of a citation in a scientific article's passage. The example given here is about plant health, but the actual example I need to look at might be different. Wait, actually, the user provided the prompt, and they want me to process an input where the citation is marked as (CITSEG), and I need to assign it one of the listed classes like Basis, CoCoGM, etc.
+
+Let me think about the classes again. The key ones are:
+
+Basis: When the cited work is the foundation for the current research, like building upon it.
+
+CoCoGM: Comparing goals or methods between the cited work and the current paper.
+
+CoCoRes: Comparing results between the two.
+
+CoCoXY: Comparing explanations or claims between two cited studies (not involving the current paper).
+
+Future: When the citation suggests a future direction.
+
+Motivation: When it's justifying why the research is done, pointing out a knowledge gap.
+
+Neutral: Just a neutral mention.
+
+Similar: Pointing out a similarity between current work and cited, in results, patterns, etc.
+
+Support: The citation supports the authors' claims, strengthening their findings.
+
+Usage: They actually used a method/tool/dataset from the cited work.
+
+Weakness: Criticizing the cited work's flaws.
+
+So the example given in the user's message is about pea aphid and enamovirus uptake. The sentence is: "a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm. The user's task is to assign the correct class here. Let's analyze the sentence. The authors mention that their own finding shows a peptide's effect and then say this suggests broader applicability, citing (CITSEG). The example in the Future class's example is similar to this: "suggesting potential broader applicability (CITSEG)" – that's exactly the example given for the Future class. 
+
+Wait the Future example is: "suggesting potential broader applicability (CITSEG)", and in the Future description they say it's when the citation is used to suggest future research directions. So in the example, the citation is supporting the idea of broader applicability, perhaps by showing a potential direction. Alternatively, maybe it's Support? Or maybe Future.
+
+Wait, let me check the Future example given. The example for Future is exactly the one the user provided here, so in the Future class's example. So in this case, the correct answer should be Future. 
+
+The example given in the prompt's Future class example is the same as the input here. Therefore, the correct class is "Future".
+</think>
+
+Future

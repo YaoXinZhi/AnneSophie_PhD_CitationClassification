@@ -1,0 +1,15 @@
+<think>
+Okay, let's try to figure out the rhetorical class for this citation. The user hasn't provided a specific citation passage yet, but based on the previous examples, I'll assume they'll include one soon.
+
+First, I need to look at the surrounding text of the CITSEG placeholder. The example for the Support class is when the citation is used to back up a claim. For instance, if the passage says our results align with what CITSEG found, then it's Support. If they're contrasting their methods with CITSEG's, that's CoCoGM. 
+
+If the citation is showing similarities, Similar would be the class. If it's pointing out future work directions, then it's Future. If it's just mentioning the study without any particular argument, Neutral fits. 
+
+I should read the passage around CITSEG carefully. If it's used to justify why the current research is happening because of a gap CITSEG mentioned, that's Motivation. Basis is if the cited work is foundational to their research. CoCoRes is comparing results directly with CITSEG's findings. CoCoXY is comparing explanations between two cited studies. Weakness would be if the citation is criticized for its limitations.
+
+So when the user provides the actual passage, I'll need to see the context of CITSEG. Let's say the citation is used to support an argument by citing a previous finding that's similar to theirs. That would be Support. If they're using CITSEG's method in their own study, that's Usage. Neutral would be if they just mention it without taking a stance.
+
+The key is identifying the intent behind the citation in the passage. Once I have the actual text, I can match it to the correct class based on these definitions.
+</think>
+
+{"class": "Neutral"}

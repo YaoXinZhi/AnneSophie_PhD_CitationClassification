@@ -1,0 +1,41 @@
+<think>
+Okay, let's see. The user provided a citation classification task with different rhetorical classes. I need to determine the correct class for the given example.
+
+First, I'll look at the example sentences provided for each class to understand their definitions better. 
+
+The Basis class is for when the cited work is the foundation of the current research. The example shows that the cited work introduced a method, and the authors replicated it. So if the citation is about building on prior work, that's Basis.
+
+CoCoGM is comparing goals or methods. The example discusses a paper that proposes a different method, and the citing paper says their work is complementary. So comparing methods would fall here.
+
+CoCoRes is comparing results. The example mentions differing results from experiments. So if the citation is about contrasting findings, that's CoCoRes.
+
+CoCoXY is about comparing two cited studies with each other, not with the current paper. The example refers to contradictory results in the literature, citing multiple references. 
+
+Future class is when the citation suggests future research directions. The example talks about a study that implies broader applicability, leading to future work.
+
+Motivation is for justifying the current research by pointing out a knowledge gap. The example cites previous work showing a phenomenon without explanation, motivating the current study.
+
+Neutral is when the citation is descriptive without argument. The example mentions a fact about magnetic treatment use in the USA without taking a stance.
+
+Similar is when there's a similarity between cited work and the current paper. The example shows that cited work supports the finding through similar results.
+
+Support is using the citation to back up a claim. The example uses the cited work to confirm their own findings.
+
+Usage refers to using a method from the cited work. The example describes an experimental setup from a previous study.
+
+Weakness points out limitations in the cited work. The example criticizes the taxonomic status described in a previous study.
+
+Now, applying this to the given input. Let's say the input passage is: "Our results align with previous studies showing that X is effective (CITSEG)." Here, the citation supports the claim that X is effective, so the class would be Support.
+
+Another example: "While CITSEG used a different method to study Y, our approach focuses on Z." This would be CoCoGM because comparing methods.
+
+If the citation is about a study that found conflicting results, it's CoCoRes. If the citation is just stating a fact without taking a position, it's Neutral.
+
+For the specific case where the citing paper is building upon the cited work, Basis would be appropriate.
+
+Understanding the context and the relationship between the cited work and the current paper is key. Also, checking if it's a comparison of goals, methods, results, or explanations, or if it's about future work, motivation, support, etc.
+
+I need to read the sentence around (CITSEG) and map it to the most fitting class based on the examples and definitions provided.
+</think>
+
+{"label": "Support"}

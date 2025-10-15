@@ -1,0 +1,14 @@
+Okay, so I need to classify a citation in this passage about plant health into the right rhetorical class. Let me read the passage again: “Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG).” 
+
+From this, I can see that the cited work is being used to back up the claim that insect hosts influence bacterial communities. The sentence structure says that their finding is supported by recent studies. The cited work also shows a similar pattern where the arthropod host, like fleas and ticks, influences bacterial assemblages, which matches the findings in the current paper. 
+
+So the role of the citation here is to provide support for the authors' claim. It's reinforcing their argument by referencing another study that found the same kind of results. Therefore, the rhetorical class for this citation should be Support.
+</think>
+
+Support
+
+```json
+{
+  "rhetorical_class": "Support"
+}
+```

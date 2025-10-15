@@ -1,0 +1,9 @@
+<think>
+Okay, let me look at this example. The citation here is about the IAT introduced and validated by CITSEG, focusing on biases in humans. The authors say they replicated the results for the same purposes. The key phrase is "intellectual foundation of the current research" from the Basis example. Since they're replicating the work and building upon it, this seems to fit the Basis class. The cited work is the foundation for their study, so the correct label should be Basis.
+</think>
+
+```json
+{
+  "label": "Basis"
+}
+```

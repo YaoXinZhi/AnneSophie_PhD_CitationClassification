@@ -1,0 +1,16 @@
+Okay, so I need to figure out the rhetorical class for the given citation passage in the plant health domain. Let me start by carefully reading the passage provided and trying to understand the context and how the citation is used.
+
+The passage is: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)."
+
+Alright, looking at this, the author is talking about their finding related to insect hosts affecting bacterial community assembly. They mention that their finding is "supported by" recent cross-taxon investigations. They then provide an example of a study in fleas and ticks where the arthropod host influenced bacterial assemblages, but rodent hosts and environmental conditions did not. This is where the citation is placed.
+
+Now, the question is, what's the rhetorical function here? The citation is used to back up the authors' finding. They are showing that their result aligns with other studies. This makes me think it's the "Support" class because the cited work is presented as evidence that strengthens the authors' own findings. The authors are using the citation to confirm their results by showing that similar findings have been reported elsewhere.
+
+But wait, I need to make sure I'm not mixing it up with "Similar" or "CoCoRes." "Similar" is when pointing out similarities between the cited work and the current paper, but here it's more about supporting the claim. "CoCoRes" is for comparing results directly, but the wording here is about the result supporting the current work rather than contrasting or comparing.
+
+Also, it's not about motivation, usage, or basis of prior work. It's not a method or tool being used, nor is it identifying a gap. It's specifically about confirming the result through another study.
+
+So, putting it all together, the correct class should be "Support."
+</think>
+
+Support

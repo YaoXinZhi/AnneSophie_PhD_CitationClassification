@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this classification problem. First, I need to carefully read the given citation passage. The example sentence mentions two citations (CITSEG, CITSEG) in a comparison of contradictory results in the literature. The options here include CoCoXY since the citation is comparing two studies with each other.
+
+The first step is to identify the rhetorical class based on the predefined categories. The passage says "often contradictory results that were reported. [REF1-REF12]". This seems to indicate a comparison between cited studies rather than contrasting the current work with another's methods, results, or goals. CoCoXY is specifically for comparing cited studies with each other, not the citing paper.
+
+Looking at the CoCoXY example provided, it's exactly this scenario: "a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]". The citations here (REF1-REF12) are part of the literature review where contradictory results exist between the cited works. The CoCoXY class fits because it's highlighting discrepancies between two cited studies.
+
+So, in the given passage, CITSEG is functioning similarly. The citation is being used to reference conflicting findings in multiple studies. Therefore, the correct class should be CoCoXY.
+</think>
+
+CoCoXY

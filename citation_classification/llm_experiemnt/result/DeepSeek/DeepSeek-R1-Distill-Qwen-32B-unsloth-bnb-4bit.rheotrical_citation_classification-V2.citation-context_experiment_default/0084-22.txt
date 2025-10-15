@@ -1,0 +1,12 @@
+Alright, so I'm presented with a task to classify a citation in a scientific article passage into one of several predefined rhetorical classes. The classes include things like Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness.
+
+The passage given is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+My first step is to understand the context in which the citation (CITSEG) is used here. The sentence is discussing a study where a peptide was shown to interfere with virus uptake and also bind to other species' gut epithelia, suggesting broader applicability. The citation is supporting this statement by referencing a previous study that demonstrated these findings.
+
+Looking at the classes, the Support class is used when the citation is supporting, confirming, or reinforcing a claim made by the current authors. Here, the citation is directly backing up the broader applicability of the peptide, aligning with the Support category.
+
+I rule out other classes because the citation isn't comparing methods (CoCoGM), contrasting results (CoCoRes), pointing out a similarity (Similar), or suggesting future research (Future). It's not establishing a basis for their work or explaining motivation. It's purely used as evidence to support a statement, so Support is the correct classification.
+</think>
+
+Support

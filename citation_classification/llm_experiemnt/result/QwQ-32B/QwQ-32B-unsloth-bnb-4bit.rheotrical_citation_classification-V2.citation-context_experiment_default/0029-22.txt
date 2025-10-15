@@ -1,0 +1,14 @@
+Okay, let's tackle this classification. The user provided the example about aphids and enamoviruses. The sentence says: "A small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+First, I need to figure out the rhetorical class here. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+Looking at the example sentence, the main point is that the cited work showed a peptide's effect, which suggests broader applicability. The key here is "suggesting potential broader applicability." That sounds like the authors are pointing out that this previous study's findings imply directions for future research. The phrase "suggesting potential broader applicability" is indicating that there's more to explore, which could be future work. 
+
+Let me check the Future class's example again. The example given for Future is: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." Wait, that's exactly the same as the problem's example! So the answer should be "Future". 
+
+Just to be sure, the Future class is for citations used to suggest future research directions. The sentence here is using the cited work to suggest that the applicability might be broader, which is pointing towards future research possibilities. 
+
+No other classes fit here. Support would be if it was supporting their own findings, but here it's pointing to future work. So Future is correct.
+</think>
+
+Future

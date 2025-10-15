@@ -1,0 +1,14 @@
+Alright, I need to classify the role of the citation (CITSEG) in the given passage. Let me start by understanding the passage and the context around (CITSEG). 
+
+The passage mentions that (CITSEG) introduced and validated the IAT by studying nearly universal biases in humans and about which there is no social concern. Then it says that the current work began by replicating these inoffensive results for the same purposes.
+
+So, the cited work seems to be foundational because it's the basis for the current study. The current research is replicating the cited work's results, indicating that the cited work provides the foundation or intellectual basis for their new research. 
+
+Looking at the predefined classes, "Basis" is the appropriate class here because it's when the cited work contributes directly to the new solution or is a continuation of prior work. The example given for "Basis" aligns perfectly with this scenario, where the cited work is replicated as part of the current study's foundation.
+
+I also need to make sure it's not another class. It's not "Support" because they aren't just using it as evidence, but building upon it. It's not "Usage" because they're not specifically using a method or tool, but replicating findings. It's not "Motivation" as they aren't stating a gap but are building on existing work. Therefore, "Basis" is the correct classification.
+</think>
+
+```json
+"Basis"
+```

@@ -1,0 +1,6 @@
+Okay, let's see. I need to figure out the rhetorical class for the citation in this passage. The user mentioned the example about a small aphid gut binding peptide interfering with virus uptake and binding to other aphid species, suggesting broader applicability. 
+
+Hmm, the key here is to determine why the citation is being referenced. The sentence says the peptide's applicability might be broader, and the citation is pointing out support for that idea. Wait, the example given for the 'Future' class is similar. The example for Future is: "Similarly, a small aphid...suggesting potential broader applicability (CITSEG)." Oh, wait, the user's own example here is exactly the one provided under the 'Future' class. The citation is used to suggest that there's potential for broader use, implying future research directions. So the correct class should be 'Future'. Let me check the other options again to be sure. 'Support' is when it's backing up a claim, but here it's more about suggesting future work. 'Motivation' is about justifying the current research, but the example is pointing towards future applicability. Yeah, 'Future' fits here.
+</think>
+
+Future

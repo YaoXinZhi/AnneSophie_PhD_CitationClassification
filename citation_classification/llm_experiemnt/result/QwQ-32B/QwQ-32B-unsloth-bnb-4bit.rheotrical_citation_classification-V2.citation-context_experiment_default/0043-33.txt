@@ -1,0 +1,14 @@
+Okay, let's tackle this citation classification problem. The user provided a specific example where I need to determine the rhetorical class of the citation (CITSEG) in the given passage. The passage is: "The explanation of the phenomena is not yet offered and the purpose of this work is to try to understand the mechanism of the beneficial influence of the magnetic treatment (CITSEG)."
+
+First, I should recall the different classes and their definitions. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+Looking at the example given under the "Motivation" class, it says: "Our previous research (CITSEG) has shown that... The explanation... is not yet offered and the purpose of this work is to try to understand..." That's almost exactly the structure of the current example. The citation here is pointing out that previous work showed something, but there's a knowledge gap (no explanation provided), which motivates the current study's purpose. So this seems like a clear case of the "Motivation" class.
+
+Wait, but let me check other possibilities. Could it be "Basis"? The Basis class is when the cited work is the foundation of current research. The example for Basis mentions continuing prior work or being the intellectual foundation. However, in the provided example, the current work's purpose is to address a gap mentioned in the cited work, which is more about motivation rather than building upon it as a foundation. The key here is that the citation is explaining why the current research is necessary because a previous study didn't explain the mechanism, hence motivating their current work. That definitely fits "Motivation".
+
+Looking at "Future": The Future class is when the citation suggests future directions. The example given for Future is when the citation is used to suggest future research. In this case, the current passage is stating the purpose of their own work, so it's more about motivation for their current study rather than pointing out future directions. 
+
+Neutral? No, because it's explicitly about the purpose, not a neutral fact. Support? The citation isn't supporting a claim here but is highlighting a gap. So yes, Motivation is the right choice here.
+</think>
+
+Motivation

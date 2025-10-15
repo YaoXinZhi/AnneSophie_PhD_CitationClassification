@@ -1,0 +1,18 @@
+<think>
+Okay, let's tackle this classification problem step by step.
+
+First, I'll examine the given citation passage:
+"The effect of magnetic fields on the removal of CaCO₃ scale formation is controversial. Some research has demonstrated positive effects of a magnetic field in the range of 0.05–1 Tesla on scale removal (CITSEG). Other studies indicate that magnetic fields have no influence on hard water scaling phenomena."
+
+The passage starts by stating that there's controversy around the effect of magnetic fields on removing CaCO₃ scale formation. Then it cites (CITSEG) to mention studies that have shown positive effects in the range of 0.05–1 Tesla.
+
+Looking at the rhetorical classes available, this citation appears to be presenting a contrasting argument or finding compared to the cited work. The citing paper is showing that there are different perspectives on the effectiveness of magnetic fields, with some supporting positive effects (as cited) and others showing no influence. 
+
+This doesn't seem to be a Basis claim (which would mean the cited work forms the foundation of the current research). It's not CoCoGM either since it's not comparing goals or methods. The citation is directly contrasting results between the cited work and other studies, which aligns with CoCoRes. Unlike CoCoXY which compares cited works with each other, this appears to compare the cited work with other studies mentioned in the sentence that indicate no influence from magnetic fields.
+
+The final classification appears to be CoCoRes (Comparison of Results).
+</think>
+
+```json
+{"label": "CoCoRes"}
+```

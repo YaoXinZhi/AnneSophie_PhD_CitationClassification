@@ -1,0 +1,11 @@
+<think>
+Okay, let's try to figure this out. The user provided a citation classification task where I need to assign a passage's reference to one of the predefined rhetorical classes. The example given is a bit different from the training data, so I need to be careful.
+
+Looking at the example passage: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+The key part here is "differ from the results of the experiments," which indicates a comparison between the current study's results and those cited. The class CoCoRes is meant for comparing or contrasting results or findings. The example provided under CoCoRes matches this scenario. 
+
+I need to make sure there's no confusion with CoCoGM, which is about goals or methods. Here, the comparison is about results, so CoCoRes seems right. No mention of future work or motivation here either. Neutral wouldn't fit because it's a direct comparison. So the correct label is CoCoRes.
+</think>
+
+CoCoRes

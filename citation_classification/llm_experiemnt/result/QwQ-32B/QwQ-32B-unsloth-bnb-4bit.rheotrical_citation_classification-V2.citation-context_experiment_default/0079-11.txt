@@ -1,0 +1,16 @@
+Okay, let's tackle this classification task. The user provided a scientific article citation passage where a CITSEG placeholder is present, and I need to determine the correct rhetorical class for it. Let me go through the steps carefully.
+
+First, I should recall the different rhetorical classes again to make sure I understand them correctly. The classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+The task is to figure out which one applies based on how the citation is used in the passage. The example given mentions that the citation is about the pea aphid gut peptide also binding to other aphid species. The sentence says this peptide was shown to interfere with virus uptake and also binds to other species, suggesting broader applicability (CITSEG). The key is to see what the citation's role is here.
+
+Looking at the sentence structure, the main point is that the peptide's broader applicability is suggested. The citation here is providing evidence for the current statement. Wait, but the example given for the Future class says: "suggest potential broader applicability (CITSEG)" which matches the user's example here. Wait, the user's example's output should be 'Future' since they are pointing towards potential future applications. Let me check the Future class definition again: "used to suggest or imply directions for future research." The example given for Future is exactly this scenario.
+
+Wait, but I need to double-check the exact wording. The user's example says "suggesting potential broader applicability (CITSEG)", which is the example under Future. Therefore, the correct class should be 'Future'.
+
+Alternatively, could it be another class? Let's see. If the citation was supporting the current claim, then Support would be the case. But the phrase "suggesting potential broader applicability" is pointing towards future directions, like exploring that broader use, not necessarily supporting the current findings. The current paper might be focusing on their results, and the citation here is indicating that their findings suggest something that could be a future research direction.
+
+Therefore, the label should be Future.
+</think>
+
+Future

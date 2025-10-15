@@ -1,0 +1,29 @@
+Okay, I need to classify the citation (CITSEG) in the given passage into one of the rhetorical classes. Let me read the passage carefully: 
+
+"In this study, we investigate the effect of magnetic fields on plant growth. Previous research by Smith et al. (CITSEG) has shown that magnetic fields can influence seed germination. Our work builds on this foundation to explore additional growth parameters."
+
+First, I look at the context. The authors mention previous work by Smith et al. and explicitly state that their current study builds on that foundation. This indicates that the cited work is serving as the intellectual basis for their research.
+
+Now, checking the rhetorical classes: 
+- Basis: When the cited work is the foundation. Fits here because the current research is a continuation and builds on it.
+- Other classes like Support, Usage, Motivation don't fit as well. It's not supporting a claim with evidence, using a method, or justifying the need. It's clearly establishing the foundation.
+
+So, the appropriate class is Basis.
+</think>
+
+Basis
+
+Step-by-step explanation:
+1. The passage mentions a previous study by Smith et al. that showed magnetic fields influence seed germination.
+2. The current study builds on this previous work to explore more growth parameters.
+3. This indicates that the cited work serves as the foundation for the current research.
+4. Therefore, the appropriate class is "Basis."
+
+Output:
+"Basis"
+
+```json
+{
+  "label": "Basis"
+}
+```

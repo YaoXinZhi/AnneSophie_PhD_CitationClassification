@@ -1,0 +1,18 @@
+Okay, let's tackle this classification problem. The user provided a citation passage and wants me to determine its rhetorical class. The citation is marked with (CITSEG). 
+
+First, I need to read the example carefully. The passage says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)."
+
+Hmm, okay. The key here is to figure out why the citation is being used here. The sentence starts with "Similarly," which might indicate that the current study is pointing out a similar finding. The cited work shows that a peptide interferes with virus uptake and binds to other species, suggesting broader applicability. 
+
+Looking at the rhetorical classes, "Future" is for when the citation points to future research directions. The example for Future says something about suggesting broader applicability, which matches the example here. The cited work's results suggest potential for more widespread use, so the authors are using it to imply that future research could explore this broader applicability. 
+
+Alternatively, "Support" is when the citation supports the authors' claim. But here the main point seems to be about the suggestion for future applications rather than supporting their own findings. "Future" class is when the citation is used to suggest directions, like in the example: "suggesting potential broader applicability" aligns with Future. 
+
+I should check other classes too. "Motivation" is about justifying the current research. Not exactly here. "CoCoRes" is comparing results. "Weakness" is criticizing, which isn't the case. "Usage" is using a method, which isn't here. 
+
+Yes, the word "suggesting" points to a future direction. The citation is used to suggest that maybe this peptide could have more applications, which is exactly the Future class example given by the user. 
+
+So the most appropriate label here is "Future".
+</think>
+
+Future

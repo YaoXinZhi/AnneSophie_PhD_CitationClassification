@@ -1,0 +1,14 @@
+Okay, I need to classify the rhetorical function of the citation in the given passage. Let me read the example first to understand the task better. The user provided a passage where (CITSEG) is cited, and I have to determine which class it falls into from the list provided.
+
+Looking at the example provided by the user, the citation is part of a sentence that says: "Our finding that insect hosts affect bacterial community assembly... is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
+
+Hmm, the key here is to see what role the citation plays. The sentence starts by stating their own finding and then mentions that it's supported by other investigations. The citation here is providing support for their own result, right? The authors are saying that their finding is supported by other studies, so the citation is backing up their claim. That would fall under the 'Support' class. Let me cross-check the definitions.
+
+The 'Support' class is when the citation supports, confirms, or reinforces a claim made by the citing authors. The example given for Support is similar: "All subscales were consistent with previous research... as before..." which aligns with the given example here. The citation is used to show that their result is in line with others, so it's supporting their conclusion. 
+
+I should make sure it's not 'Similar' because 'Similar' is for pointing out similarity between the cited work and the current paper. Here, the focus is on support, not just similarity. 'CoCoRes' would be if they were comparing results directly, but here the cited work's results support theirs, not contrasting. 
+
+Neutral is out since it's not just a neutral mention. The citation is definitely supporting their own findings, so the answer should be 'Support'.
+</think>
+
+Support

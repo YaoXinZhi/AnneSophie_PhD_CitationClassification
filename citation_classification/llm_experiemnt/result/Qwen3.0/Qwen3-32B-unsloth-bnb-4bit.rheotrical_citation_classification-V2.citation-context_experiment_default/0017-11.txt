@@ -1,0 +1,11 @@
+<think>
+Okay, let's tackle this citation classification task. The passage is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+First, I need to determine which rhetorical class fits best. The options are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
+
+Looking at the sentence, it's talking about the results differing from other experiments. The key phrase is "substantially differ from the results of the experiments..." This directly compares the current work's results with those cited in CITSEG. The example given under CoCoRes is a similar scenario where results are contrasted. The example sentence was: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium..." which matches the CoCoRes class description. 
+
+CoCoRes is for comparing or contrasting results or findings. The passage here is comparing the two sets of results, so this fits CoCoRes. It's not about methods or goals (CoCoGM), nor is it a neutral statement. The authors are highlighting a contrast in outcomes, which is exactly what CoCoRes is for.
+</think>
+
+CoCoRes

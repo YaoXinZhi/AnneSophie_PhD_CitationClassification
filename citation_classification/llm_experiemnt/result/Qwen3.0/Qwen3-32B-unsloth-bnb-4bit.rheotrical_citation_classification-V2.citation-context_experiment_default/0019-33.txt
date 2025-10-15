@@ -1,0 +1,9 @@
+<think>
+Okay, let's tackle this classification. The citation passage is: "This study builds upon previous work investigating the role of plant hormones in disease resistance mechanisms (CITSEG)." 
+
+First, I need to determine the rhetorical class. The sentence says the current study builds upon previous work. That sounds like the Basis class because it's referring to foundational research that the current study is continuing. The Basis class is used when the cited work is the intellectual foundation. The example given for Basis mentions that the cited work introduced and validated something, which the current study replicates. Here, the current study is building upon previous work, so it's a continuation.
+
+Looking at other classes: CoCoGM is for comparing goals or methods, which isn't the case here. CoCoRes is comparing results, which doesn't fit. Motivation would be if the citation is pointing out a knowledge gap, but here it's about building on existing work. Support would be if they're using the citation to back up their claim, but the phrasing is more about foundation. Usage is if they're using a method from the cited work, which isn't mentioned here. Neutral is for descriptive use without argument, which doesn't fit. So Basis is the most appropriate.
+</think>
+
+Basis

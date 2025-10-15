@@ -1,0 +1,11 @@
+<think>
+Okay, let me go through this step by step. The task is to classify the rhetorical role of a citation passage. The given example uses "CoCoRes" when comparing results between the current paper and the cited work.
+
+First, I need to analyze the provided example passage. Let's look at the example sentence: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
+
+The key clue here is the phrase "substantially differ from the results of the experiments" followed by the citation. This clearly indicates that the authors are contrasting their results with those from the cited paper. The rhetorical class for comparing or contrasting results is CoCoRes. 
+
+In this case, there's no mention of methods, goals, or explanations beyond the cited work being compared against results. The citation is used to highlight differences in findings, which aligns directly with the CoCoRes definition. There's no comparison with other cited works nor is it suggesting future research directions or serving as a basis for their work. Nor is it a neutral citation or a motivation. The example clearly points to contrasting results directly with the cited study, fitting CoCoRes.
+</think>
+
+CoCoRes

@@ -1,0 +1,15 @@
+<think>
+Okay, let's see. I need to figure out which rhetorical class the citation belongs to based on the given examples and definitions. Let me start by reading through the user's citation passage again to understand the context. The passage says: "The study builds upon the method described in CITSEG, which was originally developed for high-dimensional data clustering. By adapting this approach, we extended its applicability to low-dimensional datasets while maintaining computational efficiency."
+
+First, the citation is mentioned as "the method described in CITSEG," which suggests that CITSEG's work is providing the foundational method. The phrase "builds upon" is a clear indicator that the current study is using CITSEG's method as a basis for their own work. According to the 'Basis' class definition, this is when the cited work is the intellectual foundation or a continuation of prior work. The example given for 'Basis' mentions that the cited work introduced and validated something that the current research replicates or continues. Here, building upon the method implies continuation and direct contribution to the new solution. 
+
+Looking at other possible classes like 'Usage' which refers to a method used directly. But in the example for 'Usage', it's about the experimental setup being described in a previous study. However, in this case, the study isn't just using the setup but building upon the method itself, adapting it. That leans more towards 'Basis' where it's a continuation rather than just using a tool. 
+
+'CoCoGM' would involve comparing goals or methods, but the passage doesn't compare; it builds upon. 'Support' isn't right since they aren't confirming a claim but using the method as a foundation. 'Motivation' would be if there was a knowledge gap, which isn't mentioned here. So 'Basis' seems correct.
+</think>
+
+```json
+{
+  "label": "Basis"
+}
+```
