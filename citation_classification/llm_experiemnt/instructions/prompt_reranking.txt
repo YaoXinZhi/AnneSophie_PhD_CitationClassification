@@ -28,10 +28,10 @@ Below are the class labels, their full name if the label is abbreviated and a sh
 - Weakness : the citation criticizes or highlights limitations of the cited work
 - Neutral : the citation does not mention cues for classifying the citation passage in the other classes. The neutral citation often refers to background information.
  
-Only include in the ranking the classes that are in the Top3 candidates.
+Only include in the ranking the classes that are in the Top3 candidates. Return exactly the reranked top3 classes numbered list (1, 2, 3), do not include anything else.
 
 #OUTPUT EXAMPLE
 
 1. CoCoRes  
 2. CoCoXY  
-3. Neutral  
+3. Neutral
