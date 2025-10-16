@@ -1,9 +1,0 @@
-<think>
-Okay, let's see. I need to figure out the rhetorical class for the citation in the given passage. The user provided examples for each class, so I should compare the passage to those examples.
-
-The passage says: "Similarly, a small aphid gut binding peptide was shown to interfere with enamovirus uptake from pea aphid gut into the hemocoel; the peptide also bound to gut epithelia of two other aphid species suggesting potential broader applicability (CITSEG)." 
-
-Looking at the classes, "Future" is for suggesting directions for future research. The example given under Future mentions a study showing something that suggests broader applicability, which is similar to this passage. The CITSEG here is pointing out a finding that implies potential for future studies. The words "suggesting potential broader applicability" indicate that the cited work is hinting at areas that could be explored further, which aligns with the Future class. So I think the label here is Future.
-</think>
-
-Future

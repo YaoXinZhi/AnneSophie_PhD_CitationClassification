@@ -1,6 +1,0 @@
-Okay, so I need to figure out the rhetorical class for the citation in the given example. The user provided the example where the citation is about showing that a small aphid gut binding peptide interferes with virus uptake and also binds to other aphid species' gut epithelia, suggesting broader applicability. The example mentions that the citation is used to suggest potential broader applicability, so that falls under the 'Future' class because it's pointing out possible future research directions or applications.
-
-Wait, let me check the 'Future' description again. The 'Future' class is when the citation is used to suggest or imply directions for future research. In the example given, the phrase "suggesting potential broader applicability" definitely sounds like indicating that this could be a direction for further studies. So the citation here is not just supporting the current work's results but hinting at what could be done next. The other options don't fit as well. 'Support' is for aligning with the authors' findings, but here it's more about suggesting future use. 'Motivation' is about why the current research is done, but this example is pointing forward, not justifying the current work. So 'Future' is the right class here.
-</think>
-
-Future

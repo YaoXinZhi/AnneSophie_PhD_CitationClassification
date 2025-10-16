@@ -1,9 +1,0 @@
-<think>
-Okay, let's tackle this citation classification. First, I need to understand the passage and how the citation is used. The example given is about a citation compared to the literature review's confusing nature due to contradictory results. The example itself refers to multiple references (REF1-REF12) and the class is CoCoXY because it's comparing cited studies with each other, not the citing paper.
-
-Now, looking at the user's provided input for classification, I need to determine which rhetorical class fits. The passage states: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]." Here, the citation [REF1-REF12] is used to highlight conflicting results among the cited studies themselves. The authors aren't comparing their own work to these studies but are pointing out contradictions between the cited works. 
-
-Comparing this to the classes, CoCoXY is for comparing explanations or claims between cited studies. Since the example given for CoCoXY involves a review of literature with contradictory results reported in the cited works (REF1-REF12), the user's passage matches this scenario. There's no mention of comparing methods, results with their own study, or motivating their research; it's purely about contrasting the cited studies. Therefore, CoCoXY is the correct class.
-</think>
-
-CoCoXY

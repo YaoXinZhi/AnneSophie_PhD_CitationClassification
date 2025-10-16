@@ -1,9 +1,0 @@
-<think>
-Okay, let's see. I need to determine the rhetorical class for the citation passage provided by the user. Let me start by reading the example given to classify the CITSEG in the following passage. The user provided the example where CITSEG is used to introduce the IAT by studying biases considered universal. The current work replicates these results.
-
-So first, I remember the list of possible rhetorical classes. Basis refers to being the foundation or continuation of prior work. CoCoGM is when comparing goals or methods. CoCoRes for comparing results. CoCoXY for comparing explanations between cited studies. Future suggests directions for future research. Motivation justifies the current research by highlighting a gap or need. Neutral is neutral use. Similar indicates similarity between cited work and the paper. Support reinforces the authors' claims. Usage refers to using methods/etc. from the cited work. Weakness criticizes the cited work.
-
-Looking at the example passage again: CITSEG introduced and validated the IAT by studying biases they consider universal and inoffensive. The authors began replicating these results. The key here is that CITSEG is foundational—they introduced the method (IAT) and validated it. The current work is building on it by replicating their results. So the role is foundational, which matches the Basis class. The example given under Basis also fits similarly. Therefore, the correct classification here should be Basis. I don't see a comparison of goals or methods here, as the current work is replicating results, which is continuation. Also, the introduction of the IAT is a basis for their study. So the answer should be Basis.
-</think>
-
-{"classification": "Basis"}

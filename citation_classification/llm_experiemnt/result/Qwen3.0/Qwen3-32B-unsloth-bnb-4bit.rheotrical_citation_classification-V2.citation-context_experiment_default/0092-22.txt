@@ -1,7 +1,0 @@
-<think>
-Okay, let's see. I need to figure out the right rhetorical class for this citation.
-
-Looking at the example passage: "However, a review of the available literature is rather confusing due to the often contradictory results that were reported. [REF1-REF12]" The citation here is used to compare findings between different studies. The key phrase is "often contradictory results," which suggests the cited works are being compared with each other. The class CoCoXY is for comparisons between cited studies, not with the current paper. That fits here.
-</think>
-
-CoCoXY

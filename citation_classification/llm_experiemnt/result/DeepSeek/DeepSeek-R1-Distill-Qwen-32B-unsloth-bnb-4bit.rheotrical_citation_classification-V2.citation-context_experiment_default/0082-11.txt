@@ -1,8 +1,0 @@
-Alright, so I need to classify a given citation passage into one of the predefined rhetorical classes. Let me carefully go through the passage and see how the citation is being used.
-
-The passage states, "in the USA the use of magnetic water treatment devices has been spreading since 1975 (CITSEG)." The context seems neutral; it's just providing historical information without any supporting, comparing, motivating, or criticizing the cited work. The citation is merely describing a fact about the spread of these devices.
-
-Looking at the rhetorical classes, the 'Neutral' class fits here because the citation is used descriptively without any argumentative role. There's no comparison, support, or any critique involved. It's straightforward information.
-</think>
-
-Neutral

@@ -1,8 +1,0 @@
-Alright, I'm trying to classify the citation in the given passage into one of the rhetorical classes provided. The passage mentions that prior work (CITSEG) shows specific results, and the current work uses these results as evidence to support their own findings. 
-
-Looking at the options, the "Support" class seems to fit because the citation is reinforcing the authors' claims with prior research. There's no comparison or contrast, nor is it pointing out a weakness. It's purely about backing up their statements.
-</think>
-
-The citation is used to support the current work, so "Support" is the correct label.
-
-Support

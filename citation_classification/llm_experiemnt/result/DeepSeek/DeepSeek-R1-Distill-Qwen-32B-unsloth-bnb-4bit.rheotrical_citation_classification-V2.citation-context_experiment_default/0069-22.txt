@@ -1,6 +1,0 @@
-Okay, I need to figure out the rhetorical class for the citation (CITSEG) in the given passage. The passage is about a study on plant health where the authors are discussing the application of magnetic water treatment. The example provided mentions that the authors reference a previous study showing the effectiveness of magnetic treatment in preventing scale formation but note that the mechanism isn't explained yet. 
-
-Looking at the predefined classes, I need to determine which one fits best. The passage is just stating a fact from a prior study without comparing it, supporting a claim, or criticizing it. It's providing background information without any argumentative role. Therefore, the most appropriate class here is 'Neutral' because the citation is used descriptively without supporting or motivating the current research.
-</think>
-
-Neutral

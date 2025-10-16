@@ -1,8 +1,0 @@
-Alright, I'm trying to figure out the correct rhetorical class for the citation in this example. The passage says that the authors are replicating inoffensive results from a previous study. The CITSEG reference is used because it introduced and validated a method that the current research is building upon. 
-
-Looking at the options, "Basis" seems appropriate because the cited work is foundational, providing the groundwork for the current study's approach. It's directly contributing to their new solution by replicating prior work, which fits the definition of Basis. 
-
-Other classes like Support or Usage don't quite fit because it's not just supporting a claim or using a method, but rather establishing the intellectual foundation for their research. So, I'm confident that "Basis" is the correct classification here.
-</think>
-
-Basis

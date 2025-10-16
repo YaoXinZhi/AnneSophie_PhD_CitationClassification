@@ -1,8 +1,0 @@
-Alright, let's look at the given passage. The user provided a task where they need to classify a citation in a scientific article into a specific rhetorical class. The example given is: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes." 
-
-I need to determine which class label fits best. The predefined classes are Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness.
-
-In the passage, the citation is describing the IAT's introduction and validation, and the current work is replicating those results. So, the cited work is foundational because it's the basis for the current study. It directly contributes and the current research builds upon it. Therefore, the appropriate class is Basis.
-</think>
-
-"basis"

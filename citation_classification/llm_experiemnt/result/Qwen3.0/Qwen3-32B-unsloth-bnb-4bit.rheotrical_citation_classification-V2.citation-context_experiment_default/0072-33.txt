@@ -1,9 +1,0 @@
-<think>
-Okay, let's see. I need to figure out the rhetorical class for this citation. The passage says: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
-
-First, looking at the definitions. CoCoRes is for comparing results directly with cited work. The example given is comparing results of present work with previous experiments. The word 'substantially differ' here clearly points to a comparison of findings between the current study and the one cited. 
-
-Checking other classes: Basis is about foundational work, which doesn't fit here. CoCoGM would be about methods or goals, but the sentence is about results. Future isn't relevant. Motivation and Support don't apply. CoCoRes seems right because it's comparing experimental outcomes.
-</think>
-
-CoCoRes

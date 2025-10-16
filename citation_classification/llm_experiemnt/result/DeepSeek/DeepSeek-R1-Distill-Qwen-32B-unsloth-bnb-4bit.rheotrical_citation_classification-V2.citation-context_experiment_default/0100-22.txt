@@ -1,8 +1,0 @@
-Alright, let's tackle this classification. I'm looking at the passage where the citation is mentioned. The sentence says, "Our previous research (CITSEG) has shown that..." and then explains that this finding is the basis for the current study. The use of "showed that" and "explains" indicates that this citation is grounding their current work. It's presenting prior findings that are directly supporting the new research. 
-
-I need to map this to the rhetorical classes provided. The example under the 'Basis' class talks about the cited work being the intellectual foundation. This seems fitting because the previous research is setting the stage for the current study. It's not comparing methods or results, nor is it justifying why the research is needed. It's more about the cited work providing the foundation for the new findings.
-
-So, the appropriate class here would be 'Basis' because the citation is acting as the foundation for the current research.
-</think>
-
-Basis

@@ -1,9 +1,0 @@
-<think>
-Okay, let me try to figure out how to classify this citation. The user provided a passage where the CITSEG is mentioned. Let me look at the example they gave. The example is under the CoCoGM class: "Most closely related to this paper is concurrent work by (CITSEG) who propose a method to 'debias' word embeddings. Our work is complementary, as we focus instead on rigorously demonstrating human-like biases in word embeddings." 
-
-In the given passage, the authors mention that their work is complementary to CITSEG's work. They compare their goals with CITSEG's methods. The key here is the comparison of goals or methods, which aligns with the CoCoGM class.
-
-Another example for Motivation is when they explain why their research is being conducted. But in this case, the authors are contrasting their approach with CITSEG's approach, hence it's more of a comparison of goals or methods. So CoCoGM seems correct here.
-</think>
-
-CoCoGM

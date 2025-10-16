@@ -1,7 +1,0 @@
-<think>
-Okay, let me try to figure this out. The user provided a citation and wants me to classify it under one of the predefined rhetorical classes. The citation in question is mentioned in a passage where the authors talk about their previous research showing that magnetic fields prevent calcite scale formation, but they note that the explanation isn't yet offered and their current work aims to understand the mechanism. The example given for the "Motivation" class is similar: the cited work identifies a knowledge gap, which justifies the current research.
-
-So, in this case, the citation is used to justify why the current research is being conducted. The previous work showed an effect but didn't explain it, so the current study is motivated by that lack of explanation. The key here is that the citation points out a gap in existing knowledge, prompting the need for the current research. Looking at the classes, "Motivation" fits because it's about identifying a need or open question. The other classes like Basis or Support don't fit here because it's not about building directly on prior work or confirming results, but rather about justifying the need for the current study based on what's missing in prior work.
-</think>
-
-Motivation

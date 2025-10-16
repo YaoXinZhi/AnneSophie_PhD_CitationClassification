@@ -1,4 +1,0 @@
-Okay, so I need to classify the rhetorical class for this citation. Let me read the example given. The passage says, "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." Hmm. The key here is that they're comparing their results with the cited work's results. The phrase "substantially differ from the results" stands out. Looking at the classes, CoCoRes is for comparing results directly. The example for CoCoRes even mentions a similar situation where results differ. So this should be CoCoRes. Let me check the other options to be sure. CoCoXY is comparing explanations or claims between two citations, but here it's the citing paper vs the cited. Support is when it's in agreement, but here it's a contrast. Basis is foundation, which isn't the case. Yeah, CoCoRes is correct.
-</think>
-
-CoCoRes

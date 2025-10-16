@@ -1,9 +1,0 @@
-<think>
-Okay, let's tackle this classification. The user provided a citation passage and wants me to determine the rhetorical class. First, I need to look at the example given and see which class fits best.
-
-The example says: "(CITSEG) introduced and validated the IAT by studying biases that they consider nearly universal in humans..." and the authors replicated these results. The key here is that the cited work is the foundation for the current research. They're building on it, replicating their results. That sounds like the 'Basis' class because it's the intellectual foundation.
-
-Looking at the other classes: CoCoGM is about comparing goals or methods, which isn't happening here. CoCoRes would be comparing results, but the example mentions replicating, not contrasting. Future, Motivation, Neutral, Similar, Support, Usage, Weakness don't fit either. The cited work is directly the basis for the new research, so 'Basis' is the right choice.
-</think>
-
-"Basis"

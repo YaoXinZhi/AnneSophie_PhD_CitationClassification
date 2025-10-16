@@ -1,6 +1,0 @@
-Alright, I need to classify the citation (CITSEG) based on the passage provided. Let me read through the example to understand the context. The passage mentions that previous research by (CITSEG) established specific results. It then adds new experimental support to these findings. 
-
-Looking at the predefined rhetorical classes, the key point here is that the cited work is being used to reinforce or back up the current findings. The example shows that the current study is adding to or confirming the cited work's results. This aligns with the 'Support' class, which is used when the citation is presented as evidence that strengthens the authors' own findings or arguments.
-</think>
-
-Support

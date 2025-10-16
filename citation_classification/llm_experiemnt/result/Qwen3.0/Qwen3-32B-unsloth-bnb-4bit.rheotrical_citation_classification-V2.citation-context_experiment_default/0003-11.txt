@@ -1,7 +1,0 @@
-<think>
-Okay, let's figure out the rhetorical class for this citation. The example given is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
-
-First, I need to recall the different classes. The CoCoRes class is for comparing results or findings between the cited work and the current paper. Here, the sentence says their results "substantially differ" from another study's results. That's a direct comparison of results. The citation is used to highlight the difference in outcomes between the two studies. There's no mention of methods or goals, just the results. So this should be CoCoRes. The other options like Basis or Support don't fit because there's no foundational use or supporting evidence here. It's strictly contrasting results.
-</think>
-
-CoCoRes

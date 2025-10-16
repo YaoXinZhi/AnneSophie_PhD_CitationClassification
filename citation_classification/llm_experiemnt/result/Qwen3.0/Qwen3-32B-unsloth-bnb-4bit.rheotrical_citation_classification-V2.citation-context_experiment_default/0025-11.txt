@@ -1,7 +1,0 @@
-<think>
-Okay, let's see. I need to figure out the rhetorical class for the citation in this passage. The passage is talking about a study that examined the prevalence of phytoplasma in plants. The specific example given mentions that in the United States and Canada, the phytoplasma has been reported in various hosts, citing CITSEG. The next part mentions that in other countries, different host ranges were observed.
-
-So, the CITSEG here is providing information about where the phytoplasma has been found in the US and Canada. The way it's used here seems descriptive. It's stating a fact without directly comparing results or methods with the current study. It's not supporting the current study's claims beyond just stating the existence of prior reports. It's more of a neutral reference to existing literature about host ranges in those countries. There's no indication of contrasting with other studies, no future directions, no motivation for the research, similarity between studies, or critique. Therefore, the Neutral class seems appropriate here.
-</think>
-
-Neutral

@@ -1,4 +1,0 @@
-Okay, I'm trying to figure out the rhetorical class for this citation. Let me read the passage again: "Our finding that insect hosts affect bacterial community assembly (Table 3, Figure 4) is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." Hmm, the sentence starts by stating their finding and then mentions that it's supported by another study. So the citation is being used to back up their own result, right? It's reinforcing their claim by showing that another study found similar patterns. That sounds like the Support class because they're using the cited work as evidence that aligns with their findings. So the label should be Support.
-</think>
-
-Support

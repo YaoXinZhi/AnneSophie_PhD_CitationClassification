@@ -1,9 +1,0 @@
-<think>
-Okay, let me figure out the rhetorical class for this citation passage. The passage says, "The impact of different formulations on the biological activity of these compounds was tested in (CITSEG)." So the citation is referring to where the testing was done.
-
-First, looking at the classes. "Usage" is when the citation refers to a method or experiment setup used. Here, the cited work is where the testing was conducted, so it's about the experimental setup or the study they referenced. That fits "Usage" because they're using that study as the context where the test was done. 
-
-Is it "Basis"? No, because it's not the foundation of their research but rather where the specific test was carried out. "Support" might be if they're backing up a claim, but here it's more about referencing the location of the test. "Neutral" could be possible, but since they're directly stating where the testing was done, it's more specific. "Usage" seems right because it's about the experimental setup or study referenced.
-</think>
-
-Usage

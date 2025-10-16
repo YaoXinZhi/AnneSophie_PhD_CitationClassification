@@ -1,8 +1,0 @@
-Okay, let's see. The task is to classify the citation in the given passage into one of the predefined rhetorical classes. The example provided mentions "Weakness" where the citation is pointing out issues with the cited work's taxonomic status. So I need to look at the example passage and determine which class fits best.
-
-The passage says: "The taxonomic status of these species is problematic and some may not develop on Pyrus” (CITSEG). The key here is that the authors are pointing out that the cited work has a problematic taxonomic status. That sounds like they're pointing out a weakness or limitation in the cited study. The citation is used to highlight that there are issues with the previous work's findings. 
-
-Looking at the classes, "Weakness" is the one where the citation is used to criticize or point out flaws. The example given for Weakness matches this exactly. The other classes like "CoCoGM" or "CoCoRes" involve comparisons with the citing paper's methods or results, which isn't the case here. "Motivation" is about justifying the current research, which also doesn't fit. "Support" would be if they agreed with the cited work, but here they are pointing out problems. So "Weakness" seems correct. Let me double-check the definitions again. Yep, that's right. The answer should be Weakness.
-</think>
-
-Weakness

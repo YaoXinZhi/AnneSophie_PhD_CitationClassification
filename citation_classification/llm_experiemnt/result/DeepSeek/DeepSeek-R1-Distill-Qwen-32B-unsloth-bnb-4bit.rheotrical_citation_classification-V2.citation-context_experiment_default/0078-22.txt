@@ -1,8 +1,0 @@
-Alright, I need to figure out the rhetorical class for the citation in the given passage. Let's look at the example provided:
-
-"CITSEG introduced and validated the IAT by studying biases that they consider nearly universal in humans and about which there is no social concern. We began by replicating these inoffensive results for the same purposes."
-
-In this context, the cited work (CITSEG) is being used as the foundation for the current research. The authors mention that they started by replicating the results from CITSEG, indicating that the cited work provides the basis for their own study. It's not a comparison of results or methods; instead, it's directly building upon prior work. Therefore, the appropriate rhetorical class is "Basis."
-</think>
-
-Basis

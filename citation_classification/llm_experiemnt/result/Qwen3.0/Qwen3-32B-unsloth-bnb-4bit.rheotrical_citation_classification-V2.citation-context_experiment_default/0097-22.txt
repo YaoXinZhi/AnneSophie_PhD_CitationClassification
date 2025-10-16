@@ -1,9 +1,0 @@
-<think>
-Okay, let me try to figure out the correct classification for this citation. The user provided a passage where they mention, "Our previous research (CITSEG) has shown..." They're talking about their prior work that demonstrated preventing calcite scale using a magnetic field. The purpose of this current work is to understand the mechanism behind that effect. 
-
-Looking at the rhetorical classes, the Motivation category is for citations that justify why the current research is being done, like pointing out a knowledge gap or the need for further study. Here, they reference their own previous research to show that they've achieved something but haven't explained why. The current study aims to address that gap. So the citation is motivating the need for the current research by highlighting what's already been done and what's missing.
-
-The Basis class is for foundational work that's a continuation, but here they mention they haven't explained the phenomenon yet. Support would be if they were confirming their findings with another study, but they're using their own prior work to set up their current goal. Future might not fit because they're not suggesting where to go next, but why they started this research. So Motivation seems right.
-</think>
-
-Motivation

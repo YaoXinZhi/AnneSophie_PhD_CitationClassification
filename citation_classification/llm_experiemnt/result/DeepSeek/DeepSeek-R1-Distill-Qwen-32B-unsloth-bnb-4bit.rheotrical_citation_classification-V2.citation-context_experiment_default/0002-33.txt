@@ -1,8 +1,0 @@
-Alright, let's take a look at this passage and determine the appropriate rhetorical class for the cited reference. The passage is about a study identifying a new strain of a virus in a specific plant. The context mentions that this is the first report of this strain from a particular region and refers to previous work by (CITSEG) who reported its occurrence elsewhere. 
-
-So, the cited work by (CITSEG) is being used to highlight that while this strain has been found elsewhere, it's a new finding in the current region. This is a form of comparison, specifically comparing the results of the cited work with the current study's findings. Since the comparison is about contrasting the results of where the strain has been found before versus where it's found now, it fits into the CoCoRes category. 
-
-No other categories seem to fit better here. It's not a basis for the current research but rather a point of comparison regarding the results.
-</think>
-
-CoCoRes

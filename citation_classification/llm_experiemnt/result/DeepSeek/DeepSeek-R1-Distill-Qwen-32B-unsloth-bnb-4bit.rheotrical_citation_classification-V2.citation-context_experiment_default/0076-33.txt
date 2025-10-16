@@ -1,8 +1,0 @@
-Okay, let's take a look at this. The user has provided a task where I need to classify a citation in a scientific article passage into one of several predefined rhetorical classes. The passage given is about a study on magnetic treatment's effect on the inhibition of scale formation in hard water. The citation is used in the motivation section, mentioning that their previous work showed the prevention of scale formation but didn't explain the mechanism, which is the purpose of the current study. 
-
-I need to figure out the rhetorical class for this citation. The options include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, and Weakness. 
-
-In this case, the citation is explaining why the current research is being done by pointing out a gap in previous knowledge. Specifically, it's referring to a need to understand the mechanism, which is a motivation for conducting the current study. So, the appropriate class here would be Motivation.
-</think>
-
-Motivation

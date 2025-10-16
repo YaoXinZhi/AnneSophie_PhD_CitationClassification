@@ -1,8 +1,0 @@
-Okay, I have to determine the rhetorical class for the citation in the given plant health domain passage. Let me break it down. The passage says, "Previous studies have shown that certain fungal pathogens can lead to significant yield losses in wheat crops, particularly during wet seasons. One notable study by CITSEG demonstrated that Fusarium head blight can result in up to 50% yield reduction." 
-
-First, the citing text is presenting a claim about Fusarium head blight causing yield reduction. The citation CITSEG is supporting this specific claim. The example in the Support class mentions that the cited work aligns with the authors' findings, which is exactly what's happening here. The cited study provides evidence backing the claim, so it's reinforcing the argument.
-
-I don't think it's Neutral because the citation isn't just neutrally mentioning the study; it's actively being used to back up the current point. It's also not a Comparison since there's no contrasting with another study. It's not About Future research or pointing out a Weakness. It's clearly supporting the statement made by the authors.
-</think>
-
-Support

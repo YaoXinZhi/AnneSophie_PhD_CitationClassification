@@ -1,9 +1,0 @@
-<think>
-Okay, let's try to figure out the correct rhetorical class for this citation. The given citation is in the example provided under the "Support" class. The example says: "All subscales were consistent with previous research, particularly that of (CITSEG) also using a U.S. sample; as before, participants did not distinguish between personal interests and values as reasons for disputes, nor between competence and methods."
-
-The passage mentions that their findings are consistent with previous research cited by CITSEG. The key phrase here is "consistent with previous research," which usually indicates that the cited work supports their current findings. The authors are using the prior study to back up their results, showing alignment between their work and the cited study. This fits the definition of the Support class where the citation is used to confirm or reinforce their claim.
-
-I should check if there's any possibility of another class. The Basis class is about foundational work, but the example doesn't state CITSEG introduced the method or is a continuation. CoCoGM or CoCoRes don't fit because it's not a comparison. Neutral is not right because they are using it to support their argument. So Support is the correct class here.
-</think>
-
-Support

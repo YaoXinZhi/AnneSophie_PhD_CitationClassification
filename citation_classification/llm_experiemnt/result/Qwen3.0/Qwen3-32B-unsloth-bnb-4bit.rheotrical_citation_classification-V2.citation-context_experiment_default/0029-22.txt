@@ -1,5 +1,0 @@
-<think>
-Okay, I need to classify the citation in this passage. Let me read the example again. The example given for CoCoRes says that the class is when the citation is comparing results. Here, the passage mentions that the present work's results differ from experiments using deuterium saturated metal targets cited. The CoCoRes label is for comparing results with the cited work. So in this case, the passage says the results are different from CITSEG's results. Therefore, the correct label should be CoCoRes.
-</think>
-
-CoCoRes

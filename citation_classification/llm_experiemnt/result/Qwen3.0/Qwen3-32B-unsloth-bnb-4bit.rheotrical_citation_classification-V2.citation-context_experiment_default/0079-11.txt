@@ -1,9 +1,0 @@
-<think>
-Okay, let's take a look at the provided example. The sentence says: "The experimental set-up was described in details previously (CITSEG)." The task is to determine the rhetorical class for the citation here.
-
-Hmm. So the citation is referring to a method or experimental setup. The key phrase is "was described in details previously." That sounds like the current study is using the setup from the cited work. Looking at the classes, the 'Usage' class is when the citation refers to a method, tool, dataset, etc., used directly in the current study. The example given under 'Usage' says a method was directly used. 
-
-In this case, mentioning the setup described previously suggests that the cited study provided the method that's being referenced here. So the current authors are using the setup from the cited work. Therefore, this should be classified under 'Usage'. The other classes like Basis or Support don't fit because it's about methodology rather than foundational work or supporting a claim. Comparison classes don't apply here since there's no comparison being made. Neutral is for descriptive mentions without specific argument support, but here it's pointing to the usage of a method. Yeah, 'Usage' is the correct label here.
-</think>
-
-Usage

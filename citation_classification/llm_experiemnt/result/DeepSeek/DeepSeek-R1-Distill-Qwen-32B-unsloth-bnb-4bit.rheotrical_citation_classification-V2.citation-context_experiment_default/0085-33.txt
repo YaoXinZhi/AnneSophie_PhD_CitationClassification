@@ -1,8 +1,0 @@
-Okay, so I need to figure out the rhetorical class for the citation in the given passage. Let me read the passage again to understand the context. The example says, "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
-
-Hmm, the key here is that the current work is comparing its results with those of the cited study. The phrase "substantially differ from the results" indicates a direct comparison. In this case, the purpose of citing (CITSEG) is to contrast the findings of their experiments with the present study. 
-
-Looking at the rhetorical classes, CoCoRes is used when the citation is comparing results. So, the correct class should be CoCoRes because it's directly contrasting their results with someone else's. There's no mention of motivation, usage, or justification here; it's purely about comparing outcomes. Therefore, I'll assign the CoCoRes class to this citation.
-</think>
-
-CoCoRes

@@ -1,4 +1,0 @@
-Alright, let's see. I need to determine the rhetorical class for the citation (CITSEG) in the given passage. The passage mentions that the cited work established a protocol for analyzing the structure of viral particles. It then notes that this protocol is modified in the current study for the same purpose. This suggests that the citation is being used as a foundation or basis for the current research. It's not comparing methods, results, or anything else; it's directly referring to a prior method that is being built upon. So, the correct class should be 'Basis'.
-</think>
-
-Basis

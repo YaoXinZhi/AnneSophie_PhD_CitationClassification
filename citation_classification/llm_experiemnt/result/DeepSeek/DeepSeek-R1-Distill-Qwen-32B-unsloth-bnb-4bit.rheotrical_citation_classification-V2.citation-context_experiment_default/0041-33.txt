@@ -1,6 +1,0 @@
-Okay, so I need to figure out the rhetorical class for this citation. Let me read through the passage carefully. The sentence says, "Our findings align with (CITSEG) who reported similar patterns in their study on plant pathogen dynamics." Hmm, the key here is that they're saying their findings align with the cited work. The word "align" suggests that they're supporting their claims with evidence from another study. The cited work here is being used to reinforce their own results, showing that their findings are consistent with what's been previously found. So, this seems to be a case where the citation is supporting their argument. 
-
-I should check the classes again to make sure I'm assigning the right one. Support class is when the citation is used to back up the authors' claims with evidence. In this case, they're directly referencing another study to show their results are consistent, which fits the Support category. The other classes don't seem to fit here—there's no comparison, basis, or motivation involved. It's clearly a supporting role. So, I think Support is the correct class for this citation.
-</think>
-
-Support

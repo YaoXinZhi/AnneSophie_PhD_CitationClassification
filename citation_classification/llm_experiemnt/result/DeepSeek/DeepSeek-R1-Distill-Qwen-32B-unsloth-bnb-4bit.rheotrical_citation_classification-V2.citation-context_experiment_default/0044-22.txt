@@ -1,8 +1,0 @@
-Alright, I need to determine the rhetorical class for the citation segment (CITSEG) in the given passage. The passage says, "Our finding that insect hosts affect bacterial community assembly is supported by recent cross-taxon investigations of other insect-associated bacteria. In fleas and ticks, the arthropod host governed bacterial assemblages whereas rodent host and environmental conditions did not (CITSEG)." 
-
-Looking at this, the sentence is highlighting that the cited work supports their own finding. They mention that their finding is "supported by recent cross-taxon investigations," and they reference the cited paper. The class that fits when a citation supports, confirms, or reinforces the author's claim is "Support." So, the appropriate label here should be "Support."
-</think>
-
-```json
-"Support"
-```

@@ -1,9 +1,0 @@
-<think>
-Okay, let's see. I need to determine the rhetorical class of the citation in the given passage. The user provided an example where the citation is used for a specific class. Let me look at the example again.
-
-The example for CoCoGM mentions comparing the goals or methods of the cited work with the citing paper. The sentence says the cited work proposes a method to debias word embeddings, and the citing paper says their work is complementary, focusing on demonstrating biases instead. That's clearly contrasting their methods/goals.
-
-Now, looking at the test passage: "This approach contrasts sharply with those advocated by (CITSEG), who emphasized traditional statistical models rather than machine learning techniques." The key word here is "contrasts," which directly relates to comparison. The sentence compares the approach of the citing paper with the cited work's approach. Specifically, they mention different methods: traditional stats vs. machine learning. Since this is about contrasting methods, the class should be CoCoGM. Not CoCoRes because they're not comparing results, but the methods or goals. The cited work's goal or method is being contrasted with the current paper's. So yes, CoCoGM is the right label here.
-</think>
-
-CoCoGM

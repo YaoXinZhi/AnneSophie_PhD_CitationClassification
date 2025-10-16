@@ -1,5 +1,0 @@
-<think>
-Okay, let me try to figure out the rhetorical class for this citation. The passage says, "Our approach builds upon prior work addressing host specificity in plant-pathogen systems (CITSEG)." So the authors are saying their method is based on previous research. Looking at the classes, 'Basis' is when the cited work is the foundation for the current research. That seems to fit here because they mention building upon prior work. The other options like 'Support' or 'CoCoGM' don't quite match because they're not comparing methods or results, just stating that their work is an extension. So the answer should be 'Basis'.
-</think>
-
-Basis

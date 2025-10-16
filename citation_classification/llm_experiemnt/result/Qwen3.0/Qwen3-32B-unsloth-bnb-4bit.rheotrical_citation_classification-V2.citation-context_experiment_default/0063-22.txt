@@ -1,9 +1,0 @@
-<think>
-Okay, let's tackle this classification problem step by step. The task is to determine the rhetorical class of the citation marked as (CITSEG) in the provided passage. The passage is: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)."
-
-First, I need to recall the list of available classes and their definitions. The classes include Basis, CoCoGM, CoCoRes, CoCoXY, Future, Motivation, Neutral, Similar, Support, Usage, Weakness.
-
-Looking at the passage, the key phrase here is "substantially differ from the results of the experiments..." This is directly comparing the current study's results with those cited in (CITSEG). The CoCoRes class is specifically for when the citation is used to compare or contrast results or findings. The example given for CoCoRes is almost identical: "The results obtained in the present work substantially differ from..." which matches the structure here. There's no mention of goals or methods here, so CoCoGM isn't applicable. Also, it's not a comparison between two cited studies, so CoCoXY is out. There's no support, motivation, or anything else indicated here. The comparison is directly between the current results and the cited results. Therefore, the correct classification should be CoCoRes.
-</think>
-
-CoCoRes

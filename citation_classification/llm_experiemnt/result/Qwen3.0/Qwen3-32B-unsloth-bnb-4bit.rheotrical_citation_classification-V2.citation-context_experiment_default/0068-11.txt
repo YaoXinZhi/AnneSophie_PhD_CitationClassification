@@ -1,9 +1,0 @@
-<think>
-Okay, let me try to figure out the correct rhetorical class for this citation. The passage says: "The results obtained in the present work substantially differ from the results of the experiments conducted with the use of deuterium saturated metal targets (TiD, TaD, ZrD, PtD) (CITSEG)." 
-
-Hmm. So the current research is comparing its results to those from another study that used different metal targets. The key phrase here is "substantially differ," which clearly indicates a comparison of results. The example given for CoCoRes (Comparison of Results) is similar—they compare their results with a previous experiment.
-
-The Basis class is when the cited work is the foundation for the current research, which doesn't seem to be the case here. CoCoGM would be about goals or methods, but the passage is about differing results. CoCoXY compares two cited studies with each other, not with the current paper. Future, Motivation, Neutral, Similar, Support, Usage, and Weakness also don't fit because the author is directly contrasting their own findings with those of CITSEG. So this must be CoCoRes.
-</think>
-
-CoCoRes
